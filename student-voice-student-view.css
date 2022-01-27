@@ -1,1 +1,1663 @@
-@font-face{font-family:'CenturyGothic';src:url("fonts/CenturyGothic.eot");src:url("fonts/CenturyGothicd41d.eot?#iefix") format("embedded-opentype"),url("fonts/CenturyGothic.woff") format("woff"),url("fonts/CenturyGothic.ttf") format("truetype"),url("fonts/CenturyGothic.svg#CenturyGothic") format("svg");font-weight:normal;font-style:normal}@font-face{font-family:'CenturyGothicBold';src:url("fonts/CenturyGothicBold.eot");src:url("fonts/CenturyGothicBoldd41d.eot?#iefix") format("embedded-opentype"),url("fonts/CenturyGothicBold.woff") format("woff"),url("fonts/CenturyGothicBold.ttf") format("truetype"),url("fonts/CenturyGothicBold.svg#CenturyGothicBold") format("svg");font-weight:normal;font-style:normal}input[type="button"],input[type="submit"],input[type="reset"],input[type="file"]::-webkit-file-upload-button,button{-webkit-appearance:none}.uc-sv-post-idea-petition{position:absolute;right:12px;top:18px}.uc-sv-post-idea-petition_with_dr{right:175px}.uc-sv-post-course-feedback{position:absolute;right:10px;top:18px}.content .uc-sv-post-idea-petition a,.uc-sv-post-idea-petition a,.content .uc-sv-post-course-feedback a,.uc-sv-post-course-feedback a{background:url("student_voice/highlight-buttons.png") repeat-x top left #E56415;border-radius:5px 5px 5px 5px;-moz-border-radius:5px 5px 5px 5px;-webkit-border-radius:5px 5px 5px 5px;box-shadow:1px 1px 1px #949599;-moz-box-shadow:1px 1px 1px #949599;-webkit-box-shadow:1px 1px 1px #949599;color:#FFFFFF;cursor:pointer;display:block;font-size:12px;font-weight:bold;padding:5px 15px;border:0 none;float:left;text-decoration:none;line-height:140%;font-family:Arial, Helvetica, sans-serif;width:auto;text-align:center}#uc-sv-main-wrapper{margin:0px;padding:10px;font-family:"CenturyGothic",Arial,Helvetica,sans-serif;background:#ffffff;position:relative}#uc-sv-main-wrapper h1{font-family:"CenturyGothicBold",Arial,Helvetica,sans-serif;font-size:24px;color:#000000;margin:10px 0;font-weight:normal;background:none;border:0 none;word-wrap:break-word;margin-bottom:20px}#uc-sv-search-panel h1{float:left;color:#000000}#uc-sv-search-panel .uc-sv-sort-type{float:right;margin:4px}#uc-sv-search-panel .uc-sv-search-field{float:left;margin:0;padding:10px 5px 0}.digi-rep #uc-sv-search-panel .uc-sv-search-field{width:70%}#uc-sv-search-panel .uc-sv-search-bar{height:24px;background:#ffffff;-moz-border-radius:0;-webkit-border-radius:0;border-radius:0px;position:relative;border:1px solid #dddddd}#uc-sv-search-panel .uc-sv-search-bar .uc-sv-searchbutton{position:absolute;top:7%;right:5px}#uc-sv-search-panel .uc-sv-sfield{background:none repeat scroll 0 0 transparent;border:0 none;color:#000000;float:left;line-height:1.3em;margin:3px;padding:0;width:200px}#uc-sv-search-panel .uc-sv-search-button{clear:right;float:left;margin:5px 0 0;padding:5px}#uc-sv-nav-tab-panel{margin:0;padding:0;background:url("student_voice/uc-sv-nav-tab-panel-bg.png") repeat-x scroll 0 0 transparent;padding:0;clear:both}#uc-sv-nav-tab-panel #uc-sv-main-navcontainer{clear:both;padding:8px 8px 0}#uc-sv-nav-tab-panel #uc-sv-main-navcontainer ul{padding-left:0;margin-left:0;color:White;width:100%}#uc-sv-nav-tab-panel #uc-sv-main-navcontainer ul li{display:inline;font-family:"CenturyGothic",Arial,Helvetica,sans-serif;font-size:15px}#uc-sv-nav-tab-panel ul li a{padding:10px;background:none transparent;color:#777777;text-decoration:none;font-family:"CenturyGothicBold",Arial,Helvetica,sans-serif;display:block;float:left}#uc-sv-nav-tab-panel #uc-sv-main-navcontainer ul li.active a{background:none repeat scroll 0 0 #FFFFFF;color:#E46B13;display:block;float:left;font-weight:bold;font-family:"CenturyGothicBold",Arial,Helvetica,sans-serif}ul#uc-sv-navigation li.active{background:#fff;color:#e46b13;font-weight:bold}.uc-sv-category-field-holder ul{padding-left:0;margin-left:0;color:#C3C3C3;font-weight:bold;width:auto;font-family:arial, helvetica, sans-serif;margin-left:7px}.uc-sv-category-field-holder ul li{display:block;float:left;white-space:normal}.uc-sv-category-field-holder li{margin-bottom:1px;border-right:1px solid #ffffff}.uc-sv-category-field-holder ul li a{padding:0.2em 1em;background:none transparent;color:#000000;text-decoration:none;float:left}.uc-sv-category-field-holder .bgorange ul li a{background:#e46b13;color:#fff}.uc-sv-category-field-holder ul li input{display:none}.uc-sv-category-field-holder ul li label{padding:3px 5px 3px 20px;background:url(default/uc-sv-cat-check.png) no-repeat 0px -20px #efefef;font-size:12px;font-family:Arial,Helvetica,sans-serif;cursor:pointer;display:block;line-height:1.3em}.uc-sv-category-field-holder ul li label.uc-sv-bgorange{background:url(default/uc-sv-cat-check.png) no-repeat 0px 0px #555;color:#fff;font-size:12px;font-family:Arial,Helvetica,sans-serif}.uc-sv-category-field-holder ul li a:hover{background:#fff;color:#555555;font-weight:bold}#uc-sv-nav-tab-panel #sub-navcontainer{background:#ffffff}#uc-sv-nav-tab-panel #subnav{margin-left:0;padding-left:0;list-style:none}#uc-sv-nav-tab-panel #subnav li{background-image:url("student_voice/check.png") no-repeat scroll 0 0 transparent}.uc-sv-category-wrapper{background:none repeat scroll 0 0 #ffffff;padding:0;margin:0;margin-top:10px}.uc-sv-category-wrapper .uc-sv-category-field-holder{width:100%;overflow:hidden}.uc-sv-category-wrapper .uc-sv-legends{float:right;margin-right:8px;text-align:center;width:250px}.uc-sv-category-wrapper .uc-sv-legends img{margin:0 10px 0 0}#uc-sv-mostpopular-panel{margin:0;padding:0;float:left;height:30px;text-align:left;vertical-align:middle;margin:5px 0 0}#uc-sv-mostpopular-panel select{margin:8px 5px}select#digital_rep_program{width:190px}#uc-sv-content-container{width:auto;margin:0 5px;padding:0;position:relative}#uc-sv-left-panel{float:left;margin:0;min-height:100px;padding:0;width:70%}#uc-sv-left-panel-show-page{width:100%}.digi-rep #uc-sv-left-panel-show-page{width:100%}#uc-sv-left-panel .uc-sv-left-panel-wrapper{margin:0}.uc-sv-module-idea-wrapper{background:url(student_voice/uc-idea-wrapper-shadow.png) no-repeat scroll center bottom #f4f4f4;margin-bottom:20px;position:relative;padding-bottom:10px}#uc-sv-main-wrapper .uc-sv-module-idea-wrapper h2{min-height:34px;margin:0px;padding:10px 20px 10px 60px;color:#000000;font-family:"CenturyGothicBold",Arial,Helvetica,sans-serif;text-shadow:0 0 0;font-size:20px;width:auto;font-weight:normal;line-height:1.2em;border:0 none}.uc-sv-module-idea-wrapper p.author{padding:5px 0;color:#a0a5a9;font-size:12px}.uc-sv-module-idea-wrapper p.time{padding:0px 0 10px;color:#a0a5a9;font-size:11px}.content .uc-sv-module-idea-wrapper a,.uc-sv-module-idea-wrapper a{color:#000000;text-decoration:none}.uc-sv-module-idea-wrapper a:hover{color:#000000;text-decoration:underline}.uc-sv-module-idea-wrapper a:visited{color:#000000;text-decoration:none}.uc-sv-author-name{color:#003FFF}.uc-sv-module-text-wrapper{font-family:"Arial",Helvetica,sans-serif;font-size:14px;margin:0 10px;padding:10px 0 0}.uc-sv-module-voting{float:none;margin:0px;width:120px;position:absolute;right:10px;bottom:20px}.uc-sv-module-voting .uc-sv-module-voting-like{color:#59B200;float:left;font-weight:bold;height:54px;text-align:center;width:60px;background:url(student_voice/sv-index-like-dislike-icon.png) no-repeat left top #fff}.uc-sv-module-voting .uc-sv-module-voting-like span{padding:37px 0 0;display:block;color:#59b200;font-size:11px;font-family:Arial, Helvetica, sans-serif;line-height:1em}.uc-sv-module-voting .uc-sv-module-voting-like a{color:#EA3E2B;text-decoration:none;background-image:url("student_voice/icon-vote-like.png");background-repeat:no-repeat;background-position:center top;display:block;padding:35px 5px 5px;margin-top:5px;text-align:center}.uc-sv-module-voting .uc-sv-module-voting-dislike{color:#EA3E2B;float:right;font-weight:bold;height:54px;text-align:center;width:60px;background:url(student_voice/sv-index-like-dislike-icon.png) no-repeat right top #fff}.uc-sv-module-voting .uc-sv-module-voting-dislike p{color:#EA3E2B}.uc-sv-module-voting .uc-sv-module-voting-dislike span{padding:38px 0 0;display:block;color:#EA3E2B;font-size:11px;font-family:Arial, Helvetica, sans-serif;line-height:1em}.uc-sv-module-voting .uc-sv-module-voting-dislike a{color:#EA3E2B;text-decoration:none;background-image:url("student_voice/icon-vote-dislike.png");background-repeat:no-repeat;background-position:center top;display:block;padding:35px 5px 5px;margin-top:5px;text-align:center}.uc-sv-module-idea-wrapper a.uc-sv-click-votenow{background:url("student_voice/sv-summary-vld-bg.png") no-repeat scroll center center #ea5d08;color:#ffffff;display:block;float:left;font-size:11px;font-weight:bold;padding:5px 15px;text-align:center;text-transform:uppercase;font-family:"Arial",Helvetica,sans-serif;line-height:1.2em}.uc-sv-module-idea-wrapper a.uc-sv-click-like-dislike{background:url("student_voice/sv-summary-vld-bg.png") no-repeat scroll center center #ea5d08;color:#ffffff;display:block;float:left;font-size:11px;font-weight:bold;padding:5px 15px;text-align:center;text-transform:uppercase;font-family:"Arial",Helvetica,sans-serif;line-height:1.2em}.uc-sv-module-voting .uc-sv-module-voting-votenow{color:#58B227;float:right;font-weight:bold;height:54px;text-align:center;width:120px;background:url("student_voice/sv-index-petition-icon.png") no-repeat center center #fff}.uc-sv-module-voting .uc-sv-module-voting-votenow p{color:#2e8628}.uc-sv-module-voting .uc-sv-module-voting-votenow span{padding:40px 0 0;display:block;color:#59b200;font-size:11px;font-family:Arial, Helvetica, sans-serif;line-height:1em}.uc-sv-module-voting .uc-sv-module-voting-votenow a{color:#2e8628;text-decoration:none;background-image:url("student_voice/icon-vote-now.png");background-repeat:no-repeat;background-position:center top;display:block;padding:35px 5px 5px;margin-top:5px;text-align:center}.uc-sv-module-voting .uc-sv-module-voting-votenow a:hover{color:#2e8628;text-decoration:none}.uc-sv-module-voting .uc-sv-module-voting-votenow a:visited{color:#2e8628;text-decoration:none}.uc-sv-module-more{float:left;font-weight:bold;clear:both;color:#000000;font-family:"Arial",Helvetica,sans-serif;font-size:14px;margin-bottom:10px}.uc-sv-module-more a.uc-sv-more{background-image:url("student_voice/icon-more.png");background-position:left top;background-repeat:no-repeat;color:#000;display:block;float:left;font-size:13px;height:20px;margin:0 0 0 10px;padding:0 0 0 20px}.uc-sv-module-more a.uc-sv-more:after{content:"..."}.uc-sv-module-more a.uc-sv-comments{background-image:url("student_voice/icon-comments.png");background-position:left top;background-repeat:no-repeat;color:#878787;display:block;float:left;font-size:12px;height:20px;margin:0 0 0 20px;padding:0 0 0 20px;font-weight:normal;cursor:default}.uc-sv-module-more a.uc-sv-comments:hover{text-decoration:none;color:#878787;cursor:default}.uc-sv-module-more a.uc-sv-comments>strong{margin:0 5px 0 0}.uc-sv-module-more a:hover{color:#000}.uc-sv-module-more a:visited{color:#000}.uc-sv-module-comments{float:left;font-weight:normal;font-family:"Arial",Helvetica,sans-serif;font-size:14px;color:#888888;margin-bottom:10px}.uc-sv-module-comments a{color:#888888;background-image:url("student_voice/icon-comments.png");background-repeat:no-repeat;background-position:left top;padding-left:20px;height:22px}#uc-sv-right-panel{width:30%;margin:0;padding:0;float:right;text-align:center}#uc-sv-right-panel .uc-sv-right-panel-wrapper{margin:10px}.uv-sv-idea-icon{background-image:url("student_voice/icon-idea.png");background-repeat:no-repeat;display:block;height:52px;overflow:hidden;position:absolute;text-indent:-999px;width:36px;margin:0 10px}.uv-sv-petition-icon{background-image:url("student_voice/icon-petition.png");background-repeat:no-repeat;display:block;height:52px;overflow:hidden;position:absolute;text-indent:-999px;width:36px;margin:0 10px}.uc-sv-search-field .uc-sv-searchbutton{background:url("student_voice/icon-search.png") no-repeat top right transparent;display:block;height:21px;overflow:hidden;text-indent:-999px;width:25px;float:left;border:0 none}.uc-sv-module-details-wrapper{background:none repeat scroll 0 0 #ffffff;margin-bottom:20px;position:relative}.uc-sv-module-details-wrapper h1{padding:5px 10px}.uc-sv-module-details-wrapper p{color:#a0a5a9;font-size:0.9em;padding:5px 10px}.uc-sv-module-details-wrapper .uv-sv-category-black{color:#000000;font-weight:bold}.uc-sv-module-details-wrapper .uc-sv-details-container{border:1px solid red;width:55%;display:block;float:left}.uc-sv-module-details-wrapper .uc-sv-details-date-container{border:1px solid black;width:25%;display:block;float:left}.uc-sv-module-border-idea{border-top:6px solid #b1107d;position:relative;min-height:100px}.uc-sv-module-border-petition{border-top:6px solid #0770ba;position:relative;min-height:125px}#uc-sv-main-wrapper .uc-sv-module-border-idea.uc-sv-has-timer h1,#uc-sv-main-wrapper .uc-sv-module-border-petition.uc-sv-has-timer h1{padding-right:200px}.uv-sv-details-header-idea{background-image:url("student_voice/icon-idea.png");background-repeat:no-repeat;display:block;height:52px;overflow:hidden;position:absolute;text-indent:-999px;width:36px;margin:0 10px;top:-6px}.uv-sv-details-header-petition{background-image:url("student_voice/icon-petition.png");background-repeat:no-repeat;display:block;height:52px;overflow:hidden;position:absolute;text-indent:-999px;width:36px;margin:0 10px;top:-6px}.uc-sv-details-container h1{padding:0 0 0 60px}.uc-sv-voting-margin-top-40px{margin-top:40px}.uc-sv-voting-margin-top-40px{margin-top:40px}.uc-sv-module-voting-details{float:right;width:230px;margin:0 0 10px}.uc-sv-module-voting-details .uc-sv-module-voting-details-like{color:#58B227;float:left;font-weight:bold;text-align:center;background:url("student_voice/sv-vote-icon-details-page.png") no-repeat 0 0px #fff;width:110px;font-size:16px;margin-right:10px;position:relative}.uc-sv-module-voting-details .uc-sv-module-voting-details-like p{color:#2e8628}.uc-sv-module-voting-details .uc-sv-module-voting-details-like .uc-sv-margin-top{margin-top:-10px}.uc-sv-module-voting-details .uc-sv-module-voting-details-like a{color:#2e8628;text-decoration:none;display:block;padding:80px 0px 40px;margin-top:5px;text-align:center;width:110px;position:relative;z-index:1}.uc-sv-module-voting-details .uc-sv-module-voting-details-like a:hover{color:#2e8628;text-decoration:none}.uc-sv-module-voting-details .uc-sv-module-voting-details-like a:visited{color:#2e8628;text-decoration:none}.uc-sv-module-voting-details .uc-sv-module-voting-details-dislike{color:#EA3E2B;float:left;font-weight:bold;text-align:center;width:110px;position:relative;background:url("student_voice/sv-vote-icon-details-page.png") no-repeat -120px 0 #fff;font-size:16px}.uc-sv-module-voting-details .uc-sv-module-voting-details-dislike p{color:#EA3E2B}.uc-sv-module-voting-details .uc-sv-module-voting-details-dislike .uc-sv-margin-top{margin-top:-10px}.uc-sv-module-voting-details .uc-sv-module-voting-details-dislike a{color:#EA3E2B;text-decoration:none;display:block;padding:80px 0px 40px;margin-top:5px;text-align:center;width:110px;position:relative;z-index:1}.uc-sv-module-voting-details .module-voting-details-dislike a:hover{color:#EA3E2B;text-decoration:none}.uc-sv-module-voting-details .uc-sv-module-voting-details-dislike a:visited{color:#EA3E2B;text-decoration:none}.uc-sv-module-voting-details .uc-sv-module-voting-details-votenow{color:#2e8628;float:right;font-weight:bold;text-align:center;width:180px;position:relative;background:url("student_voice/sv-vote-icon-details-page.png") no-repeat -240px 0 transparent}.uc-sv-module-voting-details .uc-sv-module-voting-details-votenow p{color:#2e8628}.uc-sv-module-voting-details .uc-sv-module-voting-details-votenow .uc-sv-margin-top{margin-top:-10px}.uc-sv-module-voting-details .uc-sv-module-voting-details-votenow a{color:#2e8628;text-decoration:none;display:block;padding:60px 5px 50px;text-align:center;position:relative;z-index:10}.uc-sv-module-voting-details .uc-sv-module-voting-details-votenow a:hover{color:#2e8628;text-decoration:none}.uc-sv-module-voting-details .uc-sv-module-voting-details-votenow a:visited{color:#2e8628;text-decoration:none}#uc-sv-main-wrapper .uc-sv-module-details-content-wrapper{border-bottom:1px dashed #dbdbdb;border-top:1px dashed #dbdbdb;color:#5f5f5f;font-family:"Arial",Helvetica,sans-serif;font-size:12px;margin-bottom:20px;overflow:hidden;padding:10px 0}#uc-sv-main-wrapper .uc-sv-module-details-content-wrapper ul,#uc-sv-main-wrapper .uc-sv-module-details-content-wrapper ol{margin:0 0 10px 25px;line-height:1.3em}#uc-sv-main-wrapper .uc-sv-module-details-content-wrapper p{margin-bottom:10px;line-height:1.3em}#uc-sv-main-wrapper .uc-sv-module-details-content-wrapper .uc-sv-image-wrapper{margin:0 10px 10px 0;width:50%}#uc-sv-main-wrapper .uc-sv-module-details-advertisement-wrapper{clear:both;margin:10px 0px;padding:0 0 10px 0;height:60px;text-align:center;vertical-align:middle}.uc-sv-comment-box{width:100%;background:#f6f6f6;font-family:"Arial",Helvetica,sans-serif}.content .uc-sv-comment-box h2{font-size:18px;color:#fff;background:#5c6f7b;padding:5px 10px;margin-bottom:0px;text-transform:uppercase;text-shadow:0 0 0;font-family:"CenturyGothic",Arial,Helvetica,sans-serif}.content .uc-sv-comment-box h2{color:#fff}.uc-sv-comment-box ul li{font-size:12px;color:#666;padding:8px 10px 0;list-style:none}.uc-sv-comment-box ul{background:url(student_voice/comment_box_verti_line.gif) repeat-y 37px 0px}.uc-sv-comment-box li{margin-bottom:12px}.uc-sv-comment-box li:first-child{padding-top:15px}.uv-sv-comment-txt-hide-comment a{background:url("student_voice/icon-comments.png") no-repeat scroll 0 0 transparent;color:#888888;font-weight:bold;padding-left:18px;text-decoration:underline}.uc-sv-comment-box p{padding-bottom:10px}.uc-sv-comment-box p.uc-sv-report-abuse a{color:#df0404;background:url(student_voice/comment_box_btn_report_abuse.gif) no-repeat 0px 2px;padding-left:15px;text-decoration:underline;font-weight:bold}.uc-sv-comment-box p{padding-bottom:10px}.uc-sv-comment-box p:last-child a:hover{text-decoration:none}.clear{clear:both}.uv-sv-comment-li-left{float:left;margin-right:10px}.uv-sv-comment-user-img{background:#fff;border-radius:50px;border:1px solid #e8e8e8;width:52px;height:52px}.uv-sv-comment-li-right{margin-left:68px;width:auto}.uv-sv-comment-arrow-box-inner-left:before{background:url(student_voice/comment_box_left_arrow.gif) no-repeat 0px 10px;height:30px;width:9px;content:"";position:absolute;left:-9px;top:-5px}.uv-sv-comment-li-right-arrow-box{float:left;width:98%}.uv-sv-comment-arrow-box-inner-left{background:#e8e8e8;padding:10px 8px;min-height:18px;position:relative}.uv-sv-comment-arrow-box-inner-right{background:#fff;padding:10px 8px;border-bottom:1px solid #e8e8e8;min-height:40px}.uv-sv-comment-txt-red-name{font-weight:bold;color:#f02053}.uv-sv-comment-txt-hide-comment{position:absolute;right:7px;white-space:nowrap}.uv-sv-comment-padding-left9px{padding-left:0px}.uv-sv-comment-padding-left9px p{padding-bottom:10px}.uv-sv-comment-li-right fieldset{margin-top:0px}.uv-sv-comment-li-right div.inline-errors{background:url("admin_default/error-icon.png") no-repeat scroll 5px center #ffd7d7;color:#ff0000;float:none;font-size:12px;font-weight:bold;margin-bottom:10px;margin-left:0px;margin-top:5px;padding:5px 5px 5px 30px;position:relative;width:91.5%}.regComments.text.input.optional{padding:0}#comment_description_input textarea{font-family:Arial, Helvetica, sans-serif;font-size:12px;margin:0;padding-bottom:0;width:96%;background:#ffffff}.uv-sv-comment-back-link a{background:none repeat scroll 0 0 transparent;color:#333;display:table;font-size:1.1em;font-weight:bold;padding:10px 0;text-decoration:underline;float:left}.uv-sv-comment-addcomment-back-link{margin-bottom:10px;padding-left:16px;margin-right:12px}.uv-sv-comment-addcomment-back-link a{color:#333;font-size:1.1em;background:none;padding-left:0px;text-decoration:underline;font-weight:bold}.uc-sv-comment-saveButton{background:url(images/highlight-buttons.png) repeat-x #e17411;border:0 none;border-radius:7px;color:#FFFFFF;cursor:pointer;font-size:12px;padding:10px 10px;text-transform:uppercase;font-weight:bold;text-shadow:#666 0px 1px 2px;text-decoration:none;display:table;line-height:1em;float:left;margin:0 10px 10px 0;font-family:Arial, Helvetica, sans-serif}.uc-sv-comment-submitButton:hover{background:#e15f00}.uc-sv-comment-submitButton:active{background:#e15f00}.uc-sv-comment-linkButton{background:url(images/highlight-buttons.png) repeat-x #e17411;border:0 none;border-radius:7px;color:#FFFFFF;cursor:pointer;font-size:12px;padding:11px 10px;text-transform:uppercase;font-weight:bold;text-shadow:#666 0px 1px 2px;text-decoration:none;font-family:"CenturyGothic",Arial,Helvetica,sans-serif;display:table;line-height:1em;margin:0 0 10px 0}.uc-sv-comment-input{width:99.5%;height:55px}.uc-sv-module-details-content-wrapper>img{float:right;width:322px;height:216px}.evo-timer.is-countdown{clear:both;position:absolute;right:0;top:10px}#timewrap h4{font-size:11px;margin:0;text-align:center;width:100%;font-weight:bold;font-family:Arial, Helvetica, sans-serif;color:#000}.evo-timer h3{font-size:12px;margin:0;text-align:center;width:100%;font-weight:bold;font-family:Arial, Helvetica, sans-serif;color:#000}.uc-sv-module-text-wrapper p.author{font-size:13px;margin:0 0 5px;line-height:1.2em}.uc-sv-module-text-wrapper p.categories{font-size:13px;line-height:1.2em;margin:0 0 10px}.uv-sv-category-black{font-weight:bold;line-height:1.2em}.uc-text-dislike{background:url("student_voice/sv-vote-details-link-bg") repeat scroll 0 0 #ea5d08;display:block;color:#ffffff;font-size:11px;font-weight:bold;padding:10px 5px;text-transform:uppercase;position:absolute;right:0;left:0;bottom:0;line-height:1.2em;font-family:Arial,Helvetica,sans-serif}.uc-text-like{background:url("student_voice/sv-vote-details-link-bg") repeat scroll 0 0 #ea5d08;display:block;color:#ffffff;font-size:11px;font-weight:bold;padding:10px 5px;text-transform:uppercase;position:absolute;right:0;left:0;bottom:0;line-height:1.2em;font-family:Arial,Helvetica,sans-serif}.uc-text-vote-now{background:url("student_voice/sv-vote-details-link-bg") repeat scroll 0 0 #ea5d08;display:block;color:#ffffff;font-size:11px;font-weight:bold;padding:10px 5px;text-transform:uppercase;position:absolute;right:0;left:0;bottom:0;line-height:1.2em}.uc-sv-module-voting-details .uc-sv-module-voting-details-like a#disabled_like,.uc-sv-module-voting-details .uc-sv-module-voting-details-dislike a#disabled_dislike,.uc-sv-module-voting-details .uc-sv-module-voting-details-votenow a#disabled_vote_now{cursor:default}.evo-timer.is-countdown .timer:first-child{width:72px}.uc-sv-voting-closed{position:absolute;right:10px;bottom:10px}.content .uc-sv-voting-closed h2{color:#ff0000;padding:0;margin:0;font-size:18px;font-family:Arial,Helvetica,sans-serif}.uc-sv-button-row{clear:both}p.error.comment-error{display:table-cell;font-size:12px;line-height:1.3em;width:auto;margin:0 0 10px}@media only screen and (max-width: 980px){#uc-sv-left-panel{width:61%}#uc-sv-right-panel{width:31%}.uc-sv-category-wrapper{margin-top:0}.uc-sv-module-voting{margin-top:-100px}.uv-sv-comment-li-right div.inline-errors{width:90.5%}}@media only screen and (max-width: 767px){.uc-sv-category-wrapper .uc-sv-category-field-holder{width:auto}.uc-sv-category-field-holder ul li{display:block}#uc-sv-left-panel{width:99%;float:none;padding:0;clear:both}#uc-sv-right-panel{width:99%;float:none;padding:0}.uc-sv-module-details-header-wrapper .uc-sv-details-container{float:none;width:100%}.uc-sv-module-details-header-wrapper .uc-sv-details-date-container{clear:both;float:none;width:99%}.uc-sv-module-voting-details{margin-top:5px;width:99%}.uv-sv-comment-li-right div.inline-errors{width:92.5%}.uv-sv-comment-txt-hide-comment{position:static;display:block}.uc-sv-comment-linkButton{float:none;clear:both}#uc-sv-content-container .uc-sv-legends{width:100%}#uc-sv-main-wrapper .uc-sv-module-border-idea.uc-sv-has-timer h1,#uc-sv-main-wrapper .uc-sv-module-border-petition.uc-sv-has-timer h1{padding-right:0px}.evo-timer.is-countdown{clear:both;position:static;width:200px}#uc-sv-mostpopular-panel{clear:left}.uc-sv-module-idea-wrapper{width:99%}.uc-sv-module-idea-wrapper h2{line-height:30px;margin-bottom:2px;padding-top:30px;text-indent:0}.uc-sv-module-petition-wrapper h2{line-height:30px;margin-bottom:2px;padding-top:30px;text-indent:0}.uc-sv-category-wrapper .uc-sv-legends{float:none}.uc-sv-module-voting{margin-top:10px}#uc-sv-content-container{margin:0}.uc-sv-search-field-container{position:static}.uc-sv-search-field-container{clear:both;display:block;float:none;min-height:28px;padding:10px 0;position:static;width:100%}#uc-sv-nav-tab-panel #uc-sv-main-navcontainer ul li,#uc-sv-nav-tab-panel ul li a,#uc-sv-nav-tab-panel #uc-sv-main-navcontainer ul li.active a{display:block;float:none;clear:both}.uc-sv-category-wrapper .uc-sv-legends{float:none;position:absolute;right:0;text-align:left;top:-10px;width:210px}.uc-sv-category-wrapper .uc-sv-legends img{height:35px}.uc-sv-module-voting-details .uc-sv-module-voting-details-votenow{float:none}#uc-sv-main-wrapper .uc-sv-module-details-content-wrapper .uc-sv-image-wrapper{margin:0 0 10px 0;width:100%}.uc-sv-details-page #uc-sv-content-container .uc-sv-legends{display:none}}@media only screen and (max-width: 550px){.uc-sv-post-course-feedback,.uc-sv-post-idea-petition{position:relative;margin-bottom:15px;display:inline-block;margin-right:15px;right:auto;top:auto}}@media only screen and (max-width: 480px){#uc-sv-nav-tab-panel #uc-sv-main-navcontainer ul li{display:inline;font-family:"CenturyGothic",Arial,Helvetica,sans-serif;font-size:15px}.uc-sv-category-wrapper .uc-sv-legends{float:none}.uc-sv-module-voting{margin-top:-100px}.uc-sv-post-idea-petition a{float:none;clear:both;display:table;padding:5px 10px}.uc-sv-category-wrapper .uc-sv-legends{float:none;width:75px}}@media handheld, only screen and (max-width: 470px){.digi-rep #uc-sv-search-panel .uc-sv-search-field{width:60%}.uc-sv-module-more a.uc-sv-comments{clear:both;float:none;margin:25px 10px 0}#uc-sv-main-wrapper .uc-sv-module-idea-wrapper h2{font-size:16px}#uc-sv-search-panel .uc-sv-sfield{width:170px}select#digital_rep_program{width:90%}#uc-sv-search-panel .uc-sv-search-button{clear:both;padding:5px;margin-top:50px}.digi-rep #uc-sv-search-panel .uc-sv-search-button{margin-top:0}.uc-sv-post-idea-petition a{clear:both;display:table;float:none;padding:4%;width:92%}.uc-sv-voting-closed{padding:0 10px 5px;position:static}}#uc-sv-left-panel .uc-sv-left-panel-wrapper #load_more_sv{margin:0 0 20px;padding:0;position:relative;width:100%}#uc-sv-left-panel #load_more_sv a{background:url(student_voice/sv-load-more.png) repeat scroll 0 0 #F6F6F6;box-shadow:0 0 5px #CCCCCC inset;-moz-box-shadow:0 0 5px #CCCCCC inset;-webkit-box-shadow:0 0 5px #CCCCCC inset;display:block;font-family:"CenturyGothicBold",Arial,Helvetica,sans-serif;font-size:15px;font-style:normal;font-weight:normal;padding:10px;text-align:center;text-decoration:none;color:#000000;margin:0 0 15px}#uc-sv-left-panel .uc-sv-left-panel-wrapper .page-separator{background:none repeat scroll 0 0 #e7e7e7;border-top:1px solid #ccc;color:#000000;display:block;font-family:"CenturyGothicBold",Arial,Helvetica,sans-serif;font-size:15px;margin:10px 0;padding:10px;text-decoration:none}.clear-button{background:url("default/reset-filter-icon.png") no-repeat scroll center center #E56415;border:0 none;border-radius:5px 5px 5px 5px;box-shadow:1px 1px 1px #949599;color:#FFFFFF;cursor:pointer;display:table;float:left;font-family:Arial,Helvetica,sans-serif;font-size:13px;font-weight:bold;height:26px;line-height:1.3em;margin:0;overflow:hidden;padding:5px;text-decoration:none;text-indent:-999px;text-shadow:1px 1px 0 #666666;width:43px}.clear-filter{margin:0 5px 0 0}.uc-sv-idea,.uc-sv-petition,.uc-dr-concern,.uc-dr-praise{display:inline-block;background-repeat:no-repeat;height:50px;width:auto;padding-top:13px;margin-right:10px}.uc-sv-idea label,.uc-sv-petition label,.uc-dr-concern label,.uc-dr-praise label{padding-left:42px;font-family:"CenturyGothicBold", Arial, Helvetica, sans-serif;font-weight:normal;text-transform:uppercase}.uc-sv-idea{background-image:url("student_voice/icon-idea.png")}.uc-sv-petition{background-image:url("student_voice/icon-petition.png")}.digi-rep-trig{padding:10px;background:#e7e7e7;font-size:15px;box-shadow:1px 10px #a98686;-webkit-box-shadow:2px 2px 5px 0px rgba(0,0,0,0.75);-moz-box-shadow:2px 2px 5px 0px rgba(0,0,0,0.75);box-shadow:1px 1px 5px 0px rgba(70,69,69,0.76);margin:5px;margin-top:20px;font-weight:bold;color:#252c36}.uc-dr-concern{background-image:url("student_voice/icon-concern.png")}.uc-dr-praise{background-image:url("student_voice/icon-praise.png")}.uv-sv-details-header-concern{background-image:url("student_voice/icon-concern.png");background-repeat:no-repeat;display:block;height:52px;overflow:hidden;position:absolute;text-indent:-999px;width:36px;margin:0 10px;top:-6px}.uv-sv-details-header-praise{background-image:url("student_voice/icon-praise.png");background-repeat:no-repeat;display:block;height:52px;overflow:hidden;position:absolute;text-indent:-999px;width:36px;margin:0 10px;top:-6px}.uv-dr-concern-icon{background-image:url("student_voice/icon-concern.png");background-repeat:no-repeat;display:block;height:52px;overflow:hidden;position:absolute;text-indent:-999px;width:36px;margin:0 10px}.uv-dr-praise-icon{background-image:url("student_voice/icon-praise.png");background-repeat:no-repeat;display:block;height:52px;overflow:hidden;position:absolute;text-indent:-999px;width:36px;margin:0 10px}.digi-rep .uc-sv-legends{float:right}.digi-rep .uc-sv-idea,.digi-rep .uc-dr-concern,.digi-rep .uc-dr-praise{float:right;width:50%}.sv-button{background:#ea5d08;padding:10px;margin-bottom:5px;color:#fff;margin-top:5px;text-decoration:none;float:left;padding-left:45px}.text-left{text-align:left}#uc-sv-main-wrapper .uc-add-voice h1,#uc-sv-main-wrapper .uc-action-link h1{margin:0;padding:0;margin-bottom:15px;margin-top:20px;color:#333}.uc-action-buttons{margin-top:15px;margin-bottom:15px;padding-bottom:15px}.uc-action-link{margin-top:15px;margin-bottom:15px;padding-bottom:15px;border-bottom:solid thin #e7dbd4}.uc-action-link .sv-link{color:#ea5d08;text-decoration:underline}.show-s{display:none}.dropbtn{background-color:#ea5d08;color:white;padding:16px;font-size:16px;border:none;cursor:pointer;width:100%;text-align:left;margin-top:5px}.dropbtn:hover,.dropbtn:focus{background-color:#ea5d08}.dropdown{position:relative;display:inline-block;width:100%}.dropdown-content{display:none;position:absolute;background-color:#ffffff;min-width:160px;overflow:auto;box-shadow:0px 8px 16px 0px rgba(0,0,0,0.2);z-index:1}.dropdown-content a{color:black;padding:12px 16px;text-decoration:none;display:block}.dropdown a:hover{background-color:#ddd}.show{display:block;width:100%}.idea{background-image:url("student_voice/studentvoice-icons.png");background-position:10px 9px;background-repeat:no-repeat}.petition{background-image:url("student_voice/studentvoice-icons.png");background-position:10px -24px;background-repeat:no-repeat}.concern{background-image:url("student_voice/studentvoice-icons.png");background-position:10px -140px;background-repeat:no-repeat}.praise{background-image:url("student_voice/studentvoice-icons.png");background-position:11px -99px;background-repeat:no-repeat}.feedback{background-image:url("student_voice/studentvoice-icons.png");background-position:11px -58px;background-repeat:no-repeat}.sv-feedback-button{background:#ea5d08;padding:10px;margin-bottom:5px;color:#fff;margin-top:5px;text-decoration:none;float:left}@media only screen and (max-width: 767px){.hide-s{display:none}.show-s{display:block}a.sv-link{padding-left:50px;border-bottom:solid thin #e0e0e0}.uc-add-voice{margin-top:15px;margin-bottom:15px;padding-bottom:15px;border-bottom:solid thin #e7dbd4}.arrow-down{width:0;height:0;float:right;border-left:10px solid transparent;border-right:10px solid transparent;border-top:10px solid #f5edf2;margin-top:5px}.idea{background-image:url("student_voice/studentvoice-mobile-icons.png");background-position:10px 9px;background-repeat:no-repeat}.petition{background-image:url("student_voice/studentvoice-mobile-icons.png");background-position:10px -24px;background-repeat:no-repeat}.concern{background-image:url("student_voice/studentvoice-mobile-icons.png");background-position:10px -140px;background-repeat:no-repeat}.praise{background-image:url("student_voice/studentvoice-mobile-icons.png");background-position:11px -99px;background-repeat:no-repeat}.feedback{background-image:url("student_voice/studentvoice-mobile-icons.png");background-position:11px -58px;background-repeat:no-repeat}.digi-rep .uc-sv-idea,.digi-rep .uc-dr-concern,.digi-rep .uc-dr-praise{float:left}.digi-rep #uc-sv-left-panel{float:none;padding:0;clear:both}}@media only screen and (max-width: 500px){.digi-rep #uc-sv-mostpopular-panel{width:calc(100% - 130px);height:auto;overflow:hidden}.digi-rep #uc-sv-search-panel .uc-sv-search-button{clear:both}.digi-rep .uc-sv-idea,.digi-rep .uc-dr-concern,.digi-rep .uc-dr-praise{background-size:40%;height:35px;padding-top:5px;font-size:15px}.digi-rep #uc-sv-left-panel{width:100%}.digi-rep .uc-sv-idea label,.digi-rep .uc-sv-petition label,.digi-rep .uc-dr-concern label,.digi-rep .uc-dr-praise label{padding-left:30px}.uc-sv-post-idea-petition{overflow:hidden}}
+@font-face {
+    font-family: 'CenturyGothic';
+    src: url("fonts/CenturyGothic.eot");
+    src: url("fonts/CenturyGothicd41d.eot?#iefix") format("embedded-opentype"), url("fonts/CenturyGothic.woff") format("woff"), url("fonts/CenturyGothic.ttf") format("truetype"), url("fonts/CenturyGothic.svg#CenturyGothic") format("svg");
+    font-weight: normal;
+    font-style: normal
+}
+@font-face {
+    font-family: 'CenturyGothicBold';
+    src: url("fonts/CenturyGothicBold.eot");
+    src: url("fonts/CenturyGothicBoldd41d.eot?#iefix") format("embedded-opentype"), url("fonts/CenturyGothicBold.woff") format("woff"), url("fonts/CenturyGothicBold.ttf") format("truetype"), url("fonts/CenturyGothicBold.svg#CenturyGothicBold") format("svg");
+    font-weight: normal;
+    font-style: normal
+}
+input[type="button"], input[type="submit"], input[type="reset"], input[type="file"]::-webkit-file-upload-button, button {
+    -webkit-appearance: none
+}
+.uc-sv-post-idea-petition {
+    position: absolute;
+    right: 12px;
+    top: 18px
+}
+.uc-sv-post-idea-petition_with_dr {
+    right: 175px
+}
+.uc-sv-post-course-feedback {
+    position: absolute;
+    right: 10px;
+    top: 18px
+}
+.content .uc-sv-post-idea-petition a, .uc-sv-post-idea-petition a, .content .uc-sv-post-course-feedback a, .uc-sv-post-course-feedback a {
+    background: url("https://nusdigital.s3.amazonaws.com/image/images/340779/original/highlight-buttons.png") repeat-x top left #E56415;
+    border-radius: 5px 5px 5px 5px;
+    -moz-border-radius: 5px 5px 5px 5px;
+    -webkit-border-radius: 5px 5px 5px 5px;
+    box-shadow: 1px 1px 1px #949599;
+    -moz-box-shadow: 1px 1px 1px #949599;
+    -webkit-box-shadow: 1px 1px 1px #949599;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: block;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 5px 15px;
+    border: 0 none;
+    float: left;
+    text-decoration: none;
+    line-height: 140%;
+    font-family: Arial, Helvetica, sans-serif;
+    width: auto;
+    text-align: center
+}
+#uc-sv-main-wrapper {
+    margin: 0px;
+    padding: 10px;
+    font-family: "CenturyGothic", Arial, Helvetica, sans-serif;
+    background: #ffffff;
+    position: relative
+}
+#uc-sv-main-wrapper h1 {
+    font-family: "CenturyGothicBold", Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    color: #000000;
+    margin: 10px 0;
+    font-weight: normal;
+    background: none;
+    border: 0 none;
+    word-wrap: break-word;
+    margin-bottom: 20px
+}
+#uc-sv-search-panel h1 {
+    float: left;
+    color: #000000
+}
+#uc-sv-search-panel .uc-sv-sort-type {
+    float: right;
+    margin: 4px
+}
+#uc-sv-search-panel .uc-sv-search-field {
+    float: left;
+    margin: 0;
+    padding: 10px 5px 0
+}
+.digi-rep #uc-sv-search-panel .uc-sv-search-field {
+    width: 70%
+}
+#uc-sv-search-panel .uc-sv-search-bar {
+    height: 24px;
+    background: #ffffff;
+    -moz-border-radius: 0;
+    -webkit-border-radius: 0;
+    border-radius: 0px;
+    position: relative;
+    border: 1px solid #dddddd
+}
+#uc-sv-search-panel .uc-sv-search-bar .uc-sv-searchbutton {
+    position: absolute;
+    top: 7%;
+    right: 5px
+}
+#uc-sv-search-panel .uc-sv-sfield {
+    background: none repeat scroll 0 0 transparent;
+    border: 0 none;
+    color: #000000;
+    float: left;
+    line-height: 1.3em;
+    margin: 3px;
+    padding: 0;
+    width: 200px
+}
+#uc-sv-search-panel .uc-sv-search-button {
+    clear: right;
+    float: left;
+    margin: 5px 0 0;
+    padding: 5px
+}
+#uc-sv-nav-tab-panel {
+    margin: 0;
+    padding: 0;
+    background: url("https://nusdigital.s3.amazonaws.com/image/images/340748/original/uc-sv-nav-tab-panel-bg.png") repeat-x scroll 0 0 transparent;
+    padding: 0;
+    clear: both
+}
+#uc-sv-nav-tab-panel #uc-sv-main-navcontainer {
+    clear: both;
+    padding: 8px 8px 0
+}
+#uc-sv-nav-tab-panel #uc-sv-main-navcontainer ul {
+    padding-left: 0;
+    margin-left: 0;
+    color: White;
+    width: 100%
+}
+#uc-sv-nav-tab-panel #uc-sv-main-navcontainer ul li {
+    display: inline;
+    font-family: "CenturyGothic", Arial, Helvetica, sans-serif;
+    font-size: 15px
+}
+#uc-sv-nav-tab-panel ul li a {
+    padding: 10px;
+    background: none transparent;
+    color: #777777;
+    text-decoration: none;
+    font-family: "CenturyGothicBold", Arial, Helvetica, sans-serif;
+    display: block;
+    float: left
+}
+#uc-sv-nav-tab-panel #uc-sv-main-navcontainer ul li.active a {
+    background: none repeat scroll 0 0 #FFFFFF;
+    color: #E46B13;
+    display: block;
+    float: left;
+    font-weight: bold;
+    font-family: "CenturyGothicBold", Arial, Helvetica, sans-serif
+}
+ul#uc-sv-navigation li.active {
+    background: #fff;
+    color: #e46b13;
+    font-weight: bold
+}
+.uc-sv-category-field-holder ul {
+    padding-left: 0;
+    margin-left: 0;
+    color: #C3C3C3;
+    font-weight: bold;
+    width: auto;
+    font-family: arial, helvetica, sans-serif;
+    margin-left: 7px
+}
+.uc-sv-category-field-holder ul li {
+    display: block;
+    float: left;
+    white-space: normal
+}
+.uc-sv-category-field-holder li {
+    margin-bottom: 1px;
+    border-right: 1px solid #ffffff
+}
+.uc-sv-category-field-holder ul li a {
+    padding: 0.2em 1em;
+    background: none transparent;
+    color: #000000;
+    text-decoration: none;
+    float: left
+}
+.uc-sv-category-field-holder .bgorange ul li a {
+    background: #e46b13;
+    color: #fff
+}
+.uc-sv-category-field-holder ul li input {
+    display: none
+}
+.uc-sv-category-field-holder ul li label {
+    padding: 3px 5px 3px 20px;
+    background: url("https://nusdigital.s3.amazonaws.com/image/images/340751/original/uc-sv-cat-check.png") no-repeat 0px -20px #efefef;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+    display: block;
+    line-height: 1.3em
+}
+.uc-sv-category-field-holder ul li label.uc-sv-bgorange {
+    background: url("https://nusdigital.s3.amazonaws.com/image/images/340751/original/uc-sv-cat-check.png") no-repeat 0px 0px #555;
+    color: #fff;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif
+}
+.uc-sv-category-field-holder ul li a:hover {
+    background: #fff;
+    color: #555555;
+    font-weight: bold
+}
+#uc-sv-nav-tab-panel #sub-navcontainer {
+    background: #ffffff
+}
+#uc-sv-nav-tab-panel #subnav {
+    margin-left: 0;
+    padding-left: 0;
+    list-style: none
+}
+#uc-sv-nav-tab-panel #subnav li {
+    background-image: url("https://nusdigital.s3.amazonaws.com/image/images/400956/original/check.png") no-repeat scroll 0 0 transparent
+}
+.uc-sv-category-wrapper {
+    background: none repeat scroll 0 0 #ffffff;
+    padding: 0;
+    margin: 0;
+    margin-top: 10px
+}
+.uc-sv-category-wrapper .uc-sv-category-field-holder {
+    width: 100%;
+    overflow: hidden
+}
+.uc-sv-category-wrapper .uc-sv-legends {
+    float: right;
+    margin-right: 8px;
+    text-align: center;
+    width: 250px
+}
+.uc-sv-category-wrapper .uc-sv-legends img {
+    margin: 0 10px 0 0
+}
+#uc-sv-mostpopular-panel {
+    margin: 0;
+    padding: 0;
+    float: left;
+    height: 30px;
+    text-align: left;
+    vertical-align: middle;
+    margin: 5px 0 0
+}
+#uc-sv-mostpopular-panel select {
+    margin: 8px 5px
+}
+select#digital_rep_program {
+    width: 190px
+}
+#uc-sv-content-container {
+    width: auto;
+    margin: 0 5px;
+    padding: 0;
+    position: relative
+}
+#uc-sv-left-panel {
+    float: left;
+    margin: 0;
+    min-height: 100px;
+    padding: 0;
+    width: 70%
+}
+#uc-sv-left-panel-show-page {
+    width: 100%
+}
+.digi-rep #uc-sv-left-panel-show-page {
+    width: 100%
+}
+#uc-sv-left-panel .uc-sv-left-panel-wrapper {
+    margin: 0
+}
+.uc-sv-module-idea-wrapper {
+    background: url("https://nusdigital.s3.amazonaws.com/image/images/345574/original/uc-idea-wrapper-shadow.png") no-repeat scroll center bottom #f4f4f4;
+    margin-bottom: 20px;
+    position: relative;
+    padding-bottom: 10px
+}
+#uc-sv-main-wrapper .uc-sv-module-idea-wrapper h2 {
+    min-height: 34px;
+    margin: 0px;
+    padding: 10px 20px 10px 60px;
+    color: #000000;
+    font-family: "CenturyGothicBold", Arial, Helvetica, sans-serif;
+    text-shadow: 0 0 0;
+    font-size: 20px;
+    width: auto;
+    font-weight: normal;
+    line-height: 1.2em;
+    border: 0 none
+}
+.uc-sv-module-idea-wrapper p.author {
+    padding: 5px 0;
+    color: #a0a5a9;
+    font-size: 12px
+}
+.uc-sv-module-idea-wrapper p.time {
+    padding: 0px 0 10px;
+    color: #a0a5a9;
+    font-size: 11px
+}
+.content .uc-sv-module-idea-wrapper a, .uc-sv-module-idea-wrapper a {
+    color: #000000;
+    text-decoration: none
+}
+.uc-sv-module-idea-wrapper a:hover {
+    color: #000000;
+    text-decoration: underline
+}
+.uc-sv-module-idea-wrapper a:visited {
+    color: #000000;
+    text-decoration: none
+}
+.uc-sv-author-name {
+    color: #003FFF
+}
+.uc-sv-module-text-wrapper {
+    font-family: "Arial", Helvetica, sans-serif;
+    font-size: 14px;
+    margin: 0 10px;
+    padding: 10px 0 0
+}
+.uc-sv-module-voting {
+    float: none;
+    margin: 0px;
+    width: 120px;
+    position: absolute;
+    right: 10px;
+    bottom: 20px
+}
+.uc-sv-module-voting .uc-sv-module-voting-like {
+    color: #59B200;
+    float: left;
+    font-weight: bold;
+    height: 54px;
+    text-align: center;
+    width: 60px;
+    background: url("https://nusdigital.s3.amazonaws.com/image/images/340772/original/sv-index-like-dislike-icon.png") no-repeat left top #fff
+}
+.uc-sv-module-voting .uc-sv-module-voting-like span {
+    padding: 37px 0 0;
+    display: block;
+    color: #59b200;
+    font-size: 11px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1em
+}
+.uc-sv-module-voting .uc-sv-module-voting-like a {
+    color: #EA3E2B;
+    text-decoration: none;
+    background-image: url("https://nusdigital.s3.amazonaws.com/image/images/400963/original/icon-vote-like.png");
+    background-repeat: no-repeat;
+    background-position: center top;
+    display: block;
+    padding: 35px 5px 5px;
+    margin-top: 5px;
+    text-align: center
+}
+.uc-sv-module-voting .uc-sv-module-voting-dislike {
+    color: #EA3E2B;
+    float: right;
+    font-weight: bold;
+    height: 54px;
+    text-align: center;
+    width: 60px;
+    background: url("https://nusdigital.s3.amazonaws.com/image/images/340772/original/sv-index-like-dislike-icon.png") no-repeat right top #fff
+}
+.uc-sv-module-voting .uc-sv-module-voting-dislike p {
+    color: #EA3E2B
+}
+.uc-sv-module-voting .uc-sv-module-voting-dislike span {
+    padding: 38px 0 0;
+    display: block;
+    color: #EA3E2B;
+    font-size: 11px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1em
+}
+.uc-sv-module-voting .uc-sv-module-voting-dislike a {
+    color: #EA3E2B;
+    text-decoration: none;
+    background-image: url("https://nusdigital.s3.amazonaws.com/image/images/400964/original/icon-vote-dislike.png");
+    background-repeat: no-repeat;
+    background-position: center top;
+    display: block;
+    padding: 35px 5px 5px;
+    margin-top: 5px;
+    text-align: center
+}
+.uc-sv-module-idea-wrapper a.uc-sv-click-votenow {
+    background: url("https://nusdigital.s3.amazonaws.com/image/images/345572/original/sv-summary-vld-bg.png") no-repeat scroll center center #ea5d08;
+    color: #ffffff;
+    display: block;
+    float: left;
+    font-size: 11px;
+    font-weight: bold;
+    padding: 5px 15px;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: "Arial", Helvetica, sans-serif;
+    line-height: 1.2em
+}
+.uc-sv-module-idea-wrapper a.uc-sv-click-like-dislike {
+    background: url("https://nusdigital.s3.amazonaws.com/image/images/345572/original/sv-summary-vld-bg.png") no-repeat scroll center center #ea5d08;
+    color: #ffffff;
+    display: block;
+    float: left;
+    font-size: 11px;
+    font-weight: bold;
+    padding: 5px 15px;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: "Arial", Helvetica, sans-serif;
+    line-height: 1.2em
+}
+.uc-sv-module-voting .uc-sv-module-voting-votenow {
+    color: #58B227;
+    float: right;
+    font-weight: bold;
+    height: 54px;
+    text-align: center;
+    width: 120px;
+    background: url("https://nusdigital.s3.amazonaws.com/image/images/340756/original/sv-index-petition-icon.png") no-repeat center center #fff
+}
+.uc-sv-module-voting .uc-sv-module-voting-votenow p {
+    color: #2e8628
+}
+.uc-sv-module-voting .uc-sv-module-voting-votenow span {
+    padding: 40px 0 0;
+    display: block;
+    color: #59b200;
+    font-size: 11px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1em
+}
+.uc-sv-module-voting .uc-sv-module-voting-votenow a {
+    color: #2e8628;
+    text-decoration: none;
+    background-image: url("https://nusdigital.s3.amazonaws.com/image/images/400965/original/icon-vote-now.png");
+    background-repeat: no-repeat;
+    background-position: center top;
+    display: block;
+    padding: 35px 5px 5px;
+    margin-top: 5px;
+    text-align: center
+}
+.uc-sv-module-voting .uc-sv-module-voting-votenow a:hover {
+    color: #2e8628;
+    text-decoration: none
+}
+.uc-sv-module-voting .uc-sv-module-voting-votenow a:visited {
+    color: #2e8628;
+    text-decoration: none
+}
+.uc-sv-module-more {
+    float: left;
+    font-weight: bold;
+    clear: both;
+    color: #000000;
+    font-family: "Arial", Helvetica, sans-serif;
+    font-size: 14px;
+    margin-bottom: 10px
+}
+.uc-sv-module-more a.uc-sv-more {
+    background-image: url("https://nusdigital.s3.amazonaws.com/image/images/340754/original/icon-more.png");
+    background-position: left top;
+    background-repeat: no-repeat;
+    color: #000;
+    display: block;
+    float: left;
+    font-size: 13px;
+    height: 20px;
+    margin: 0 0 0 10px;
+    padding: 0 0 0 20px
+}
+.uc-sv-module-more a.uc-sv-more:after {
+    content: "..."
+}
+.uc-sv-module-more a.uc-sv-comments {
+    background-image: url("https://nusdigital.s3.amazonaws.com/image/images/340755/original/icon-comments.png");
+    background-position: left top;
+    background-repeat: no-repeat;
+    color: #878787;
+    display: block;
+    float: left;
+    font-size: 12px;
+    height: 20px;
+    margin: 0 0 0 20px;
+    padding: 0 0 0 20px;
+    font-weight: normal;
+    cursor: default
+}
+.uc-sv-module-more a.uc-sv-comments:hover {
+    text-decoration: none;
+    color: #878787;
+    cursor: default
+}
+.uc-sv-module-more a.uc-sv-comments > strong {
+    margin: 0 5px 0 0
+}
+.uc-sv-module-more a:hover {
+    color: #000
+}
+.uc-sv-module-more a:visited {
+    color: #000
+}
+.uc-sv-module-comments {
+    float: left;
+    font-weight: normal;
+    font-family: "Arial", Helvetica, sans-serif;
+    font-size: 14px;
+    color: #888888;
+    margin-bottom: 10px
+}
+.uc-sv-module-comments a {
+    color: #888888;
+    background-image: url("https://nusdigital.s3.amazonaws.com/image/images/340755/original/icon-comments.png");
+    background-repeat: no-repeat;
+    background-position: left top;
+    padding-left: 20px;
+    height: 22px
+}
+#uc-sv-right-panel {
+    width: 30%;
+    margin: 0;
+    padding: 0;
+    float: right;
+    text-align: center
+}
+#uc-sv-right-panel .uc-sv-right-panel-wrapper {
+    margin: 10px
+}
+.uv-sv-idea-icon {
+    background-image: url("https://nusdigital.s3.amazonaws.com/image/images/340747/original/icon-idea.png");
+    background-repeat: no-repeat;
+    display: block;
+    height: 52px;
+    overflow: hidden;
+    position: absolute;
+    text-indent: -999px;
+    width: 36px;
+    margin: 0 10px
+}
+.uv-sv-petition-icon {
+    background-image: url("https://nusdigital.s3.amazonaws.com/image/images/340752/original/icon-petition.png");
+    background-repeat: no-repeat;
+    display: block;
+    height: 52px;
+    overflow: hidden;
+    position: absolute;
+    text-indent: -999px;
+    width: 36px;
+    margin: 0 10px
+}
+.uc-sv-search-field .uc-sv-searchbutton {
+    background: url("https://nusdigital.s3.amazonaws.com/image/images/340749/original/icon-search.png") no-repeat top right transparent;
+    display: block;
+    height: 21px;
+    overflow: hidden;
+    text-indent: -999px;
+    width: 25px;
+    float: left;
+    border: 0 none
+}
+.uc-sv-module-details-wrapper {
+    background: none repeat scroll 0 0 #ffffff;
+    margin-bottom: 20px;
+    position: relative
+}
+.uc-sv-module-details-wrapper h1 {
+    padding: 5px 10px
+}
+.uc-sv-module-details-wrapper p {
+    color: #a0a5a9;
+    font-size: 0.9em;
+    padding: 5px 10px
+}
+.uc-sv-module-details-wrapper .uv-sv-category-black {
+    color: #000000;
+    font-weight: bold
+}
+.uc-sv-module-details-wrapper .uc-sv-details-container {
+    border: 1px solid red;
+    width: 55%;
+    display: block;
+    float: left
+}
+.uc-sv-module-details-wrapper .uc-sv-details-date-container {
+    border: 1px solid black;
+    width: 25%;
+    display: block;
+    float: left
+}
+.uc-sv-module-border-idea {
+    border-top: 6px solid #b1107d;
+    position: relative;
+    min-height: 100px
+}
+.uc-sv-module-border-petition {
+    border-top: 6px solid #0770ba;
+    position: relative;
+    min-height: 125px
+}
+#uc-sv-main-wrapper .uc-sv-module-border-idea.uc-sv-has-timer h1, #uc-sv-main-wrapper .uc-sv-module-border-petition.uc-sv-has-timer h1 {
+    padding-right: 200px
+}
+.uv-sv-details-header-idea {
+    background-image: url("https://nusdigital.s3.amazonaws.com/image/images/340747/original/icon-idea.png");
+    background-repeat: no-repeat;
+    display: block;
+    height: 52px;
+    overflow: hidden;
+    position: absolute;
+    text-indent: -999px;
+    width: 36px;
+    margin: 0 10px;
+    top: -6px
+}
+.uv-sv-details-header-petition {
+    background-image: url("https://nusdigital.s3.amazonaws.com/image/images/340752/original/icon-petition.png");
+    background-repeat: no-repeat;
+    display: block;
+    height: 52px;
+    overflow: hidden;
+    position: absolute;
+    text-indent: -999px;
+    width: 36px;
+    margin: 0 10px;
+    top: -6px
+}
+.uc-sv-details-container h1 {
+    padding: 0 0 0 60px
+}
+.uc-sv-voting-margin-top-40px {
+    margin-top: 40px
+}
+.uc-sv-voting-margin-top-40px {
+    margin-top: 40px
+}
+.uc-sv-module-voting-details {
+    float: right;
+    width: 230px;
+    margin: 0 0 10px
+}
+.uc-sv-module-voting-details .uc-sv-module-voting-details-like {
+    color: #58B227;
+    float: left;
+    font-weight: bold;
+    text-align: center;
+    background: url("https://nusdigital.s3.amazonaws.com/image/images/345573/original/sv-vote-icon-details-page.png") no-repeat 0 0px #fff;
+    width: 110px;
+    font-size: 16px;
+    margin-right: 10px;
+    position: relative
+}
+.uc-sv-module-voting-details .uc-sv-module-voting-details-like p {
+    color: #2e8628
+}
+.uc-sv-module-voting-details .uc-sv-module-voting-details-like .uc-sv-margin-top {
+    margin-top: -10px
+}
+.uc-sv-module-voting-details .uc-sv-module-voting-details-like a {
+    color: #2e8628;
+    text-decoration: none;
+    display: block;
+    padding: 80px 0px 40px;
+    margin-top: 5px;
+    text-align: center;
+    width: 110px;
+    position: relative;
+    z-index: 1
+}
+.uc-sv-module-voting-details .uc-sv-module-voting-details-like a:hover {
+    color: #2e8628;
+    text-decoration: none
+}
+.uc-sv-module-voting-details .uc-sv-module-voting-details-like a:visited {
+    color: #2e8628;
+    text-decoration: none
+}
+.uc-sv-module-voting-details .uc-sv-module-voting-details-dislike {
+    color: #EA3E2B;
+    float: left;
+    font-weight: bold;
+    text-align: center;
+    width: 110px;
+    position: relative;
+    background: url("https://nusdigital.s3.amazonaws.com/image/images/345573/original/sv-vote-icon-details-page.png") no-repeat -120px 0 #fff;
+    font-size: 16px
+}
+.uc-sv-module-voting-details .uc-sv-module-voting-details-dislike p {
+    color: #EA3E2B
+}
+.uc-sv-module-voting-details .uc-sv-module-voting-details-dislike .uc-sv-margin-top {
+    margin-top: -10px
+}
+.uc-sv-module-voting-details .uc-sv-module-voting-details-dislike a {
+    color: #EA3E2B;
+    text-decoration: none;
+    display: block;
+    padding: 80px 0px 40px;
+    margin-top: 5px;
+    text-align: center;
+    width: 110px;
+    position: relative;
+    z-index: 1
+}
+.uc-sv-module-voting-details .module-voting-details-dislike a:hover {
+    color: #EA3E2B;
+    text-decoration: none
+}
+.uc-sv-module-voting-details .uc-sv-module-voting-details-dislike a:visited {
+    color: #EA3E2B;
+    text-decoration: none
+}
+.uc-sv-module-voting-details .uc-sv-module-voting-details-votenow {
+    color: #2e8628;
+    float: right;
+    font-weight: bold;
+    text-align: center;
+    width: 180px;
+    position: relative;
+    background: url("https://nusdigital.s3.amazonaws.com/image/images/345573/original/sv-vote-icon-details-page.png") no-repeat -240px 0 transparent
+}
+.uc-sv-module-voting-details .uc-sv-module-voting-details-votenow p {
+    color: #2e8628
+}
+.uc-sv-module-voting-details .uc-sv-module-voting-details-votenow .uc-sv-margin-top {
+    margin-top: -10px
+}
+.uc-sv-module-voting-details .uc-sv-module-voting-details-votenow a {
+    color: #2e8628;
+    text-decoration: none;
+    display: block;
+    padding: 60px 5px 50px;
+    text-align: center;
+    position: relative;
+    z-index: 10
+}
+.uc-sv-module-voting-details .uc-sv-module-voting-details-votenow a:hover {
+    color: #2e8628;
+    text-decoration: none
+}
+.uc-sv-module-voting-details .uc-sv-module-voting-details-votenow a:visited {
+    color: #2e8628;
+    text-decoration: none
+}
+#uc-sv-main-wrapper .uc-sv-module-details-content-wrapper {
+    border-bottom: 1px dashed #dbdbdb;
+    border-top: 1px dashed #dbdbdb;
+    color: #5f5f5f;
+    font-family: "Arial", Helvetica, sans-serif;
+    font-size: 12px;
+    margin-bottom: 20px;
+    overflow: hidden;
+    padding: 10px 0
+}
+#uc-sv-main-wrapper .uc-sv-module-details-content-wrapper ul, #uc-sv-main-wrapper .uc-sv-module-details-content-wrapper ol {
+    margin: 0 0 10px 25px;
+    line-height: 1.3em
+}
+#uc-sv-main-wrapper .uc-sv-module-details-content-wrapper p {
+    margin-bottom: 10px;
+    line-height: 1.3em
+}
+#uc-sv-main-wrapper .uc-sv-module-details-content-wrapper .uc-sv-image-wrapper {
+    margin: 0 10px 10px 0;
+    width: 50%
+}
+#uc-sv-main-wrapper .uc-sv-module-details-advertisement-wrapper {
+    clear: both;
+    margin: 10px 0px;
+    padding: 0 0 10px 0;
+    height: 60px;
+    text-align: center;
+    vertical-align: middle
+}
+.uc-sv-comment-box {
+    width: 100%;
+    background: #f6f6f6;
+    font-family: "Arial", Helvetica, sans-serif
+}
+.content .uc-sv-comment-box h2 {
+    font-size: 18px;
+    color: #fff;
+    background: #5c6f7b;
+    padding: 5px 10px;
+    margin-bottom: 0px;
+    text-transform: uppercase;
+    text-shadow: 0 0 0;
+    font-family: "CenturyGothic", Arial, Helvetica, sans-serif
+}
+.content .uc-sv-comment-box h2 {
+    color: #fff
+}
+.uc-sv-comment-box ul li {
+    font-size: 12px;
+    color: #666;
+    padding: 8px 10px 0;
+    list-style: none
+}
+.uc-sv-comment-box ul {
+    background: url("https://nusdigital.s3.amazonaws.com/image/images/345569/original/comment_box_verti_line.gif") repeat-y 37px 0px
+}
+.uc-sv-comment-box li {
+    margin-bottom: 12px
+}
+.uc-sv-comment-box li:first-child {
+    padding-top: 15px
+}
+.uv-sv-comment-txt-hide-comment a {
+    background: url("https://nusdigital.s3.amazonaws.com/image/images/340755/original/icon-comments.png") no-repeat scroll 0 0 transparent;
+    color: #888888;
+    font-weight: bold;
+    padding-left: 18px;
+    text-decoration: underline
+}
+.uc-sv-comment-box p {
+    padding-bottom: 10px
+}
+.uc-sv-comment-box p.uc-sv-report-abuse a {
+    color: #df0404;
+    background: url("https://nusdigital.s3.amazonaws.com/image/images/400957/original/comment_box_btn_report_abuse.gif") no-repeat 0px 2px;
+    padding-left: 15px;
+    text-decoration: underline;
+    font-weight: bold
+}
+.uc-sv-comment-box p {
+    padding-bottom: 10px
+}
+.uc-sv-comment-box p:last-child a:hover {
+    text-decoration: none
+}
+.clear {
+    clear: both
+}
+.uv-sv-comment-li-left {
+    float: left;
+    margin-right: 10px
+}
+.uv-sv-comment-user-img {
+    background: #fff;
+    border-radius: 50px;
+    border: 1px solid #e8e8e8;
+    width: 52px;
+    height: 52px
+}
+.uv-sv-comment-li-right {
+    margin-left: 68px;
+    width: auto
+}
+.uv-sv-comment-arrow-box-inner-left:before {
+    background: url("https://nusdigital.s3.amazonaws.com/image/images/400958/original/comment_box_left_arrow.gif") no-repeat 0px 10px;
+    height: 30px;
+    width: 9px;
+    content: "";
+    position: absolute;
+    left: -9px;
+    top: -5px
+}
+.uv-sv-comment-li-right-arrow-box {
+    float: left;
+    width: 98%
+}
+.uv-sv-comment-arrow-box-inner-left {
+    background: #e8e8e8;
+    padding: 10px 8px;
+    min-height: 18px;
+    position: relative
+}
+.uv-sv-comment-arrow-box-inner-right {
+    background: #fff;
+    padding: 10px 8px;
+    border-bottom: 1px solid #e8e8e8;
+    min-height: 40px
+}
+.uv-sv-comment-txt-red-name {
+    font-weight: bold;
+    color: #f02053
+}
+.uv-sv-comment-txt-hide-comment {
+    position: absolute;
+    right: 7px;
+    white-space: nowrap
+}
+.uv-sv-comment-padding-left9px {
+    padding-left: 0px
+}
+.uv-sv-comment-padding-left9px p {
+    padding-bottom: 10px
+}
+.uv-sv-comment-li-right fieldset {
+    margin-top: 0px
+}
+.uv-sv-comment-li-right div.inline-errors {
+    background: url("https://nusdigital.s3.amazonaws.com/image/images/400960/original/error-icon.png") no-repeat scroll 5px center #ffd7d7;
+    color: #ff0000;
+    float: none;
+    font-size: 12px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    margin-left: 0px;
+    margin-top: 5px;
+    padding: 5px 5px 5px 30px;
+    position: relative;
+    width: 91.5%
+}
+.regComments.text.input.optional {
+    padding: 0
+}
+#comment_description_input textarea {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    margin: 0;
+    padding-bottom: 0;
+    width: 96%;
+    background: #ffffff
+}
+.uv-sv-comment-back-link a {
+    background: none repeat scroll 0 0 transparent;
+    color: #333;
+    display: table;
+    font-size: 1.1em;
+    font-weight: bold;
+    padding: 10px 0;
+    text-decoration: underline;
+    float: left
+}
+.uv-sv-comment-addcomment-back-link {
+    margin-bottom: 10px;
+    padding-left: 16px;
+    margin-right: 12px
+}
+.uv-sv-comment-addcomment-back-link a {
+    color: #333;
+    font-size: 1.1em;
+    background: none;
+    padding-left: 0px;
+    text-decoration: underline;
+    font-weight: bold
+}
+.uc-sv-comment-saveButton {
+    background: url("https://nusdigital.s3.amazonaws.com/image/images/340779/original/highlight-buttons.png") repeat-x #e17411;
+    border: 0 none;
+    border-radius: 7px;
+    color: #FFFFFF;
+    cursor: pointer;
+    font-size: 12px;
+    padding: 10px 10px;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-shadow: #666 0px 1px 2px;
+    text-decoration: none;
+    display: table;
+    line-height: 1em;
+    float: left;
+    margin: 0 10px 10px 0;
+    font-family: Arial, Helvetica, sans-serif
+}
+.uc-sv-comment-submitButton:hover {
+    background: #e15f00
+}
+.uc-sv-comment-submitButton:active {
+    background: #e15f00
+}
+.uc-sv-comment-linkButton {
+    background: url("https://nusdigital.s3.amazonaws.com/image/images/340779/original/highlight-buttons.png") repeat-x #e17411;
+    border: 0 none;
+    border-radius: 7px;
+    color: #FFFFFF;
+    cursor: pointer;
+    font-size: 12px;
+    padding: 11px 10px;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-shadow: #666 0px 1px 2px;
+    text-decoration: none;
+    font-family: "CenturyGothic", Arial, Helvetica, sans-serif;
+    display: table;
+    line-height: 1em;
+    margin: 0 0 10px 0
+}
+.uc-sv-comment-input {
+    width: 99.5%;
+    height: 55px
+}
+.uc-sv-module-details-content-wrapper > img {
+    float: right;
+    width: 322px;
+    height: 216px
+}
+.evo-timer.is-countdown {
+    clear: both;
+    position: absolute;
+    right: 0;
+    top: 10px
+}
+#timewrap h4 {
+    font-size: 11px;
+    margin: 0;
+    text-align: center;
+    width: 100%;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #000
+}
+.evo-timer h3 {
+    font-size: 12px;
+    margin: 0;
+    text-align: center;
+    width: 100%;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #000
+}
+.uc-sv-module-text-wrapper p.author {
+    font-size: 13px;
+    margin: 0 0 5px;
+    line-height: 1.2em
+}
+.uc-sv-module-text-wrapper p.categories {
+    font-size: 13px;
+    line-height: 1.2em;
+    margin: 0 0 10px
+}
+.uv-sv-category-black {
+    font-weight: bold;
+    line-height: 1.2em
+}
+.uc-text-dislike {
+    background: url("https://nusdigital.s3.amazonaws.com/image/images/345573/original/sv-vote-icon-details-page.png") repeat scroll 0 0 #ea5d08;
+    display: block;
+    color: #ffffff;
+    font-size: 11px;
+    font-weight: bold;
+    padding: 10px 5px;
+    text-transform: uppercase;
+    position: absolute;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    line-height: 1.2em;
+    font-family: Arial, Helvetica, sans-serif
+}
+.uc-text-like {
+    background: url("https://nusdigital.s3.amazonaws.com/image/images/345573/original/sv-vote-icon-details-page.png") repeat scroll 0 0 #ea5d08;
+    display: block;
+    color: #ffffff;
+    font-size: 11px;
+    font-weight: bold;
+    padding: 10px 5px;
+    text-transform: uppercase;
+    position: absolute;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    line-height: 1.2em;
+    font-family: Arial, Helvetica, sans-serif
+}
+.uc-text-vote-now {
+    background: url("https://nusdigital.s3.amazonaws.com/image/images/345573/original/sv-vote-icon-details-page.png") repeat scroll 0 0 #ea5d08;
+    display: block;
+    color: #ffffff;
+    font-size: 11px;
+    font-weight: bold;
+    padding: 10px 5px;
+    text-transform: uppercase;
+    position: absolute;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    line-height: 1.2em
+}
+.uc-sv-module-voting-details .uc-sv-module-voting-details-like a#disabled_like, .uc-sv-module-voting-details .uc-sv-module-voting-details-dislike a#disabled_dislike, .uc-sv-module-voting-details .uc-sv-module-voting-details-votenow a#disabled_vote_now {
+    cursor: default
+}
+.evo-timer.is-countdown .timer:first-child {
+    width: 72px
+}
+.uc-sv-voting-closed {
+    position: absolute;
+    right: 10px;
+    bottom: 10px
+}
+.content .uc-sv-voting-closed h2 {
+    color: #ff0000;
+    padding: 0;
+    margin: 0;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif
+}
+.uc-sv-button-row {
+    clear: both
+}
+p.error.comment-error {
+    display: table-cell;
+    font-size: 12px;
+    line-height: 1.3em;
+    width: auto;
+    margin: 0 0 10px
+}
+@media only screen and (max-width: 980px) {
+    #uc-sv-left-panel {
+        width: 61%
+    }
+    #uc-sv-right-panel {
+        width: 31%
+    }
+    .uc-sv-category-wrapper {
+        margin-top: 0
+    }
+    .uc-sv-module-voting {
+        margin-top: -100px
+    }
+    .uv-sv-comment-li-right div.inline-errors {
+        width: 90.5%
+    }
+}
+@media only screen and (max-width: 767px) {
+    .uc-sv-category-wrapper .uc-sv-category-field-holder {
+        width: auto
+    }
+    .uc-sv-category-field-holder ul li {
+        display: block
+    }
+    #uc-sv-left-panel {
+        width: 99%;
+        float: none;
+        padding: 0;
+        clear: both
+    }
+    #uc-sv-right-panel {
+        width: 99%;
+        float: none;
+        padding: 0
+    }
+    .uc-sv-module-details-header-wrapper .uc-sv-details-container {
+        float: none;
+        width: 100%
+    }
+    .uc-sv-module-details-header-wrapper .uc-sv-details-date-container {
+        clear: both;
+        float: none;
+        width: 99%
+    }
+    .uc-sv-module-voting-details {
+        margin-top: 5px;
+        width: 99%
+    }
+    .uv-sv-comment-li-right div.inline-errors {
+        width: 92.5%
+    }
+    .uv-sv-comment-txt-hide-comment {
+        position: static;
+        display: block
+    }
+    .uc-sv-comment-linkButton {
+        float: none;
+        clear: both
+    }
+    #uc-sv-content-container .uc-sv-legends {
+        width: 100%
+    }
+    #uc-sv-main-wrapper .uc-sv-module-border-idea.uc-sv-has-timer h1, #uc-sv-main-wrapper .uc-sv-module-border-petition.uc-sv-has-timer h1 {
+        padding-right: 0px
+    }
+    .evo-timer.is-countdown {
+        clear: both;
+        position: static;
+        width: 200px
+    }
+    #uc-sv-mostpopular-panel {
+        clear: left
+    }
+    .uc-sv-module-idea-wrapper {
+        width: 99%
+    }
+    .uc-sv-module-idea-wrapper h2 {
+        line-height: 30px;
+        margin-bottom: 2px;
+        padding-top: 30px;
+        text-indent: 0
+    }
+    .uc-sv-module-petition-wrapper h2 {
+        line-height: 30px;
+        margin-bottom: 2px;
+        padding-top: 30px;
+        text-indent: 0
+    }
+    .uc-sv-category-wrapper .uc-sv-legends {
+        float: none
+    }
+    .uc-sv-module-voting {
+        margin-top: 10px
+    }
+    #uc-sv-content-container {
+        margin: 0
+    }
+    .uc-sv-search-field-container {
+        position: static
+    }
+    .uc-sv-search-field-container {
+        clear: both;
+        display: block;
+        float: none;
+        min-height: 28px;
+        padding: 10px 0;
+        position: static;
+        width: 100%
+    }
+    #uc-sv-nav-tab-panel #uc-sv-main-navcontainer ul li, #uc-sv-nav-tab-panel ul li a, #uc-sv-nav-tab-panel #uc-sv-main-navcontainer ul li.active a {
+        display: block;
+        float: none;
+        clear: both
+    }
+    .uc-sv-category-wrapper .uc-sv-legends {
+        float: none;
+        position: absolute;
+        right: 0;
+        text-align: left;
+        top: -10px;
+        width: 210px
+    }
+    .uc-sv-category-wrapper .uc-sv-legends img {
+        height: 35px
+    }
+    .uc-sv-module-voting-details .uc-sv-module-voting-details-votenow {
+        float: none
+    }
+    #uc-sv-main-wrapper .uc-sv-module-details-content-wrapper .uc-sv-image-wrapper {
+        margin: 0 0 10px 0;
+        width: 100%
+    }
+    .uc-sv-details-page #uc-sv-content-container .uc-sv-legends {
+        display: none
+    }
+}
+@media only screen and (max-width: 550px) {
+    .uc-sv-post-course-feedback, .uc-sv-post-idea-petition {
+        position: relative;
+        margin-bottom: 15px;
+        display: inline-block;
+        margin-right: 15px;
+        right: auto;
+        top: auto
+    }
+}
+@media only screen and (max-width: 480px) {
+    #uc-sv-nav-tab-panel #uc-sv-main-navcontainer ul li {
+        display: inline;
+        font-family: "CenturyGothic", Arial, Helvetica, sans-serif;
+        font-size: 15px
+    }
+    .uc-sv-category-wrapper .uc-sv-legends {
+        float: none
+    }
+    .uc-sv-module-voting {
+        margin-top: -100px
+    }
+    .uc-sv-post-idea-petition a {
+        float: none;
+        clear: both;
+        display: table;
+        padding: 5px 10px
+    }
+    .uc-sv-category-wrapper .uc-sv-legends {
+        float: none;
+        width: 75px
+    }
+}
+@media handheld, only screen and (max-width: 470px) {
+    .digi-rep #uc-sv-search-panel .uc-sv-search-field {
+        width: 60%
+    }
+    .uc-sv-module-more a.uc-sv-comments {
+        clear: both;
+        float: none;
+        margin: 25px 10px 0
+    }
+    #uc-sv-main-wrapper .uc-sv-module-idea-wrapper h2 {
+        font-size: 16px
+    }
+    #uc-sv-search-panel .uc-sv-sfield {
+        width: 170px
+    }
+    select#digital_rep_program {
+        width: 90%
+    }
+    #uc-sv-search-panel .uc-sv-search-button {
+        clear: both;
+        padding: 5px;
+        margin-top: 50px
+    }
+    .digi-rep #uc-sv-search-panel .uc-sv-search-button {
+        margin-top: 0
+    }
+    .uc-sv-post-idea-petition a {
+        clear: both;
+        display: table;
+        float: none;
+        padding: 4%;
+        width: 92%
+    }
+    .uc-sv-voting-closed {
+        padding: 0 10px 5px;
+        position: static
+    }
+}
+#uc-sv-left-panel .uc-sv-left-panel-wrapper #load_more_sv {
+    margin: 0 0 20px;
+    padding: 0;
+    position: relative;
+    width: 100%
+}
+#uc-sv-left-panel #load_more_sv a {
+    background: url("https://nusdigital.s3.amazonaws.com/image/images/340759/original/sv-load-more.png") repeat scroll 0 0 #F6F6F6;
+    box-shadow: 0 0 5px #CCCCCC inset;
+    -moz-box-shadow: 0 0 5px #CCCCCC inset;
+    -webkit-box-shadow: 0 0 5px #CCCCCC inset;
+    display: block;
+    font-family: "CenturyGothicBold", Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: normal;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    color: #000000;
+    margin: 0 0 15px
+}
+#uc-sv-left-panel .uc-sv-left-panel-wrapper .page-separator {
+    background: none repeat scroll 0 0 #e7e7e7;
+    border-top: 1px solid #ccc;
+    color: #000000;
+    display: block;
+    font-family: "CenturyGothicBold", Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    margin: 10px 0;
+    padding: 10px;
+    text-decoration: none
+}
+.clear-button {
+    background: url("https://nusdigital.s3.amazonaws.com/image/images/340753/original/reset-filter-icon.png") no-repeat scroll center center #E56415;
+    border: 0 none;
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: 1px 1px 1px #949599;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: table;
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+    height: 26px;
+    line-height: 1.3em;
+    margin: 0;
+    overflow: hidden;
+    padding: 5px;
+    text-decoration: none;
+    text-indent: -999px;
+    text-shadow: 1px 1px 0 #666666;
+    width: 43px
+}
+.clear-filter {
+    margin: 0 5px 0 0
+}
+.uc-sv-idea, .uc-sv-petition, .uc-dr-concern, .uc-dr-praise {
+    display: inline-block;
+    background-repeat: no-repeat;
+    height: 50px;
+    width: auto;
+    padding-top: 13px;
+    margin-right: 10px
+}
+.uc-sv-idea label, .uc-sv-petition label, .uc-dr-concern label, .uc-dr-praise label {
+    padding-left: 42px;
+    font-family: "CenturyGothicBold", Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    text-transform: uppercase
+}
+.uc-sv-idea {
+    background-image: url("https://nusdigital.s3.amazonaws.com/image/images/340747/original/icon-idea.png")
+}
+.uc-sv-petition {
+    background-image: url("https://nusdigital.s3.amazonaws.com/image/images/340752/original/icon-petition.png")
+}
+.digi-rep-trig {
+    padding: 10px;
+    background: #e7e7e7;
+    font-size: 15px;
+    box-shadow: 1px 10px #a98686;
+    -webkit-box-shadow: 2px 2px 5px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 2px 2px 5px 0px rgba(0, 0, 0, 0.75);
+    box-shadow: 1px 1px 5px 0px rgba(70, 69, 69, 0.76);
+    margin: 5px;
+    margin-top: 20px;
+    font-weight: bold;
+    color: #252c36
+}
+.uc-dr-concern {
+    background-image: url("https://nusdigital.s3.amazonaws.com/image/images/400959/original/icon-concern.png")
+}
+.uc-dr-praise {
+    background-image: url("https://nusdigital.s3.amazonaws.com/image/images/400961/original/icon-praise.png")
+}
+.uv-sv-details-header-concern {
+    background-image: url("https://nusdigital.s3.amazonaws.com/image/images/400959/original/icon-concern.png");
+    background-repeat: no-repeat;
+    display: block;
+    height: 52px;
+    overflow: hidden;
+    position: absolute;
+    text-indent: -999px;
+    width: 36px;
+    margin: 0 10px;
+    top: -6px
+}
+.uv-sv-details-header-praise {
+    background-image: url("https://nusdigital.s3.amazonaws.com/image/images/400961/original/icon-praise.png");
+    background-repeat: no-repeat;
+    display: block;
+    height: 52px;
+    overflow: hidden;
+    position: absolute;
+    text-indent: -999px;
+    width: 36px;
+    margin: 0 10px;
+    top: -6px
+}
+.uv-dr-concern-icon {
+    background-image: url("https://nusdigital.s3.amazonaws.com/image/images/400959/original/icon-concern.png");
+    background-repeat: no-repeat;
+    display: block;
+    height: 52px;
+    overflow: hidden;
+    position: absolute;
+    text-indent: -999px;
+    width: 36px;
+    margin: 0 10px
+}
+.uv-dr-praise-icon {
+    background-image: url("https://nusdigital.s3.amazonaws.com/image/images/400961/original/icon-praise.png");
+    background-repeat: no-repeat;
+    display: block;
+    height: 52px;
+    overflow: hidden;
+    position: absolute;
+    text-indent: -999px;
+    width: 36px;
+    margin: 0 10px
+}
+.digi-rep .uc-sv-legends {
+    float: right
+}
+.digi-rep .uc-sv-idea, .digi-rep .uc-dr-concern, .digi-rep .uc-dr-praise {
+    float: right;
+    width: 50%
+}
+.sv-button {
+    background: #ea5d08;
+    padding: 10px;
+    margin-bottom: 5px;
+    color: #fff;
+    margin-top: 5px;
+    text-decoration: none;
+    float: left;
+    padding-left: 45px
+}
+.text-left {
+    text-align: left
+}
+#uc-sv-main-wrapper .uc-add-voice h1, #uc-sv-main-wrapper .uc-action-link h1 {
+    margin: 0;
+    padding: 0;
+    margin-bottom: 15px;
+    margin-top: 20px;
+    color: #333
+}
+.uc-action-buttons {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding-bottom: 15px
+}
+.uc-action-link {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding-bottom: 15px;
+    border-bottom: solid thin #e7dbd4
+}
+.uc-action-link .sv-link {
+    color: #ea5d08;
+    text-decoration: underline
+}
+.show-s {
+    display: none
+}
+.dropbtn {
+    background-color: #ea5d08;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    text-align: left;
+    margin-top: 5px
+}
+.dropbtn:hover, .dropbtn:focus {
+    background-color: #ea5d08
+}
+.dropdown {
+    position: relative;
+    display: inline-block;
+    width: 100%
+}
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #ffffff;
+    min-width: 160px;
+    overflow: auto;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1
+}
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block
+}
+.dropdown a:hover {
+    background-color: #ddd
+}
+.show {
+    display: block;
+    width: 100%
+}
+.idea {
+    background-image: url("https://nusdigital.s3.amazonaws.com/image/images/340750/original/studentvoice-icons.png");
+    background-position: 10px 9px;
+    background-repeat: no-repeat
+}
+.petition {
+    background-image: url("https://nusdigital.s3.amazonaws.com/image/images/340750/original/studentvoice-icons.png");
+    background-position: 10px -24px;
+    background-repeat: no-repeat
+}
+.concern {
+    background-image: url("https://nusdigital.s3.amazonaws.com/image/images/340750/original/studentvoice-icons.png");
+    background-position: 10px -140px;
+    background-repeat: no-repeat
+}
+.praise {
+    background-image: url("https://nusdigital.s3.amazonaws.com/image/images/340750/original/studentvoice-icons.png");
+    background-position: 11px -99px;
+    background-repeat: no-repeat
+}
+.feedback {
+    background-image: url("https://nusdigital.s3.amazonaws.com/image/images/340750/original/studentvoice-icons.png");
+    background-position: 11px -58px;
+    background-repeat: no-repeat
+}
+.sv-feedback-button {
+    background: #ea5d08;
+    padding: 10px;
+    margin-bottom: 5px;
+    color: #fff;
+    margin-top: 5px;
+    text-decoration: none;
+    float: left
+}
+@media only screen and (max-width: 767px) {
+    .hide-s {
+        display: none
+    }
+    .show-s {
+        display: block
+    }
+    a.sv-link {
+        padding-left: 50px;
+        border-bottom: solid thin #e0e0e0
+    }
+    .uc-add-voice {
+        margin-top: 15px;
+        margin-bottom: 15px;
+        padding-bottom: 15px;
+        border-bottom: solid thin #e7dbd4
+    }
+    .arrow-down {
+        width: 0;
+        height: 0;
+        float: right;
+        border-left: 10px solid transparent;
+        border-right: 10px solid transparent;
+        border-top: 10px solid #f5edf2;
+        margin-top: 5px
+    }
+    .idea {
+        background-image: url("https://nusdigital.s3.amazonaws.com/image/images/400962/original/studentvoice-mobile-icons.png");
+        background-position: 10px 9px;
+        background-repeat: no-repeat
+    }
+    .petition {
+        background-image: url("https://nusdigital.s3.amazonaws.com/image/images/400962/original/studentvoice-mobile-icons.png");
+        background-position: 10px -24px;
+        background-repeat: no-repeat
+    }
+    .concern {
+        background-image: url("https://nusdigital.s3.amazonaws.com/image/images/400962/original/studentvoice-mobile-icons.png");
+        background-position: 10px -140px;
+        background-repeat: no-repeat
+    }
+    .praise {
+        background-image: url("https://nusdigital.s3.amazonaws.com/image/images/400962/original/studentvoice-mobile-icons.png");
+        background-position: 11px -99px;
+        background-repeat: no-repeat
+    }
+    .feedback {
+        background-image: url("https://nusdigital.s3.amazonaws.com/image/images/400962/original/studentvoice-mobile-icons.png");
+        background-position: 11px -58px;
+        background-repeat: no-repeat
+    }
+    .digi-rep .uc-sv-idea, .digi-rep .uc-dr-concern, .digi-rep .uc-dr-praise {
+        float: left
+    }
+    .digi-rep #uc-sv-left-panel {
+        float: none;
+        padding: 0;
+        clear: both
+    }
+}
+@media only screen and (max-width: 500px) {
+    .digi-rep #uc-sv-mostpopular-panel {
+        width: calc(100% - 130px);
+        height: auto;
+        overflow: hidden
+    }
+    .digi-rep #uc-sv-search-panel .uc-sv-search-button {
+        clear: both
+    }
+    .digi-rep .uc-sv-idea, .digi-rep .uc-dr-concern, .digi-rep .uc-dr-praise {
+        background-size: 40%;
+        height: 35px;
+        padding-top: 5px;
+        font-size: 15px
+    }
+    .digi-rep #uc-sv-left-panel {
+        width: 100%
+    }
+    .digi-rep .uc-sv-idea label, .digi-rep .uc-sv-petition label, .digi-rep .uc-dr-concern label, .digi-rep .uc-dr-praise label {
+        padding-left: 30px
+    }
+    .uc-sv-post-idea-petition {
+        overflow: hidden
+    }
+}
