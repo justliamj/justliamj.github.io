@@ -105,19 +105,19 @@ em strong, strong em {
     margin: auto auto
 }
 .accordion .page-title.active {
-    background: #043249;
+    background: #0e1728;
     color: #fff
 }
 .site-addthis {
     display: none
 }
 .accordion .page-title {
-    border: solid 3px #043249;
-    color: #043249;
+    border: solid 3px #0e1728;
+    color: #0e1728;
     margin-top: 15px
 }
 .accordion .page-title:hover {
-    background-color: #043249;
+    background-color: #0e1728;
     color: #fff
 }
 .accordion .edit-mode-page {
@@ -284,7 +284,7 @@ a {
     background: #FDA100
 }
 .bgprimary {
-    background: #043249;
+    background: #0e1728;
     padding-bottom: 20px;
     color: #fff
 }
@@ -294,7 +294,7 @@ a {
     color: #fff
 }
 .btn.primary {
-    background: #043249;
+    background: #0e1728;
     padding-bottom: 20px;
     color: #fff
 }
@@ -322,7 +322,7 @@ a {
     margin-bottom: 5px !important
 }
 .officerlist section a {
-    color: #043249
+    color: #0e1728
 }
 :root {
     font-size: 62.5%
@@ -332,23 +332,23 @@ a {
     font-size: 1.6rem;
     background: transparent;
     margin: 0 auto;
-    color: #043249
+    color: #0e1728
 }
 html {
-    background: #FCF6E6
+    background: #ffffff
 }
 .header-wrap {
     position: relative
 }
 .header {
-    background: #043249;
+    background: #0e1728;
     margin-bottom: -1px
 }
 .uc-mega-menu {
     margin-bottom: -1px
 }
 .wrapper {
-    background: #FCF6E6;
+    background: #ffffff;
     position: relative;
     margin: 0 auto;
     border-left: 0px solid #e7e7e7;
@@ -402,7 +402,7 @@ html {
     font-weight: normal;
     background-position: 0 0;
     padding: 18px 0px 10px 0px;
-    background-color: #043249;
+    background-color: #0e1728;
     font-size: 18px
 }
 .system-menu .system-menu-wrapper .shopping-cart-menu {
@@ -413,7 +413,7 @@ html {
     background-color: transparent
 }
 .system-menu .system-menu-wrapper .shopping-cart-menu a strong {
-    background: none repeat scroll 0 0 #043249;
+    background: none repeat scroll 0 0 #0e1728;
     border: 0 solid #ccc;
     margin: 0 0px 0 0;
     padding: 3px 6px;
@@ -446,7 +446,7 @@ html {
     margin-bottom: 0
 }
 .megamenu .uc-mega-menu .uc-mega-menu-wrapper {
-    background: #043249;
+    background: #0e1728;
     padding-top: 10px;
     z-index: 99
 }
@@ -560,7 +560,7 @@ html {
 }
 .profile-setting .profile-name-wrapper {
     background: none;
-    background: #043249;
+    background: #0e1728;
     -webkit-box-shadow: 0 0px 1px rgba(255, 255, 255, 0.55);
     -moz-box-shadow: 0 0px 1px rgba(255, 255, 255, 0.55);
     box-shadow: 0 0px 1px rgba(255, 255, 255, 0.55);
@@ -571,7 +571,7 @@ html {
 .profile-setting .profile-name-wrapper a.profile-name {
     color: #ffffff;
     line-height: 1.6rem;
-    background-color: #043249;
+    background-color: #0e1728;
     padding: 10px 21px 8px 8px
 }
 .profile-setting .profile-name-wrapper a.profile-name.collapsed {
@@ -601,13 +601,13 @@ html {
     background-color: #E54B4B
 }
 .profile-setting .profile-name.expanded {
-    background-color: #043249
+    background-color: #0e1728
 }
 .profile-setting .profile-name.expanded .user-name {
     color: #ffffff
 }
 .profile-drop-down-menu {
-    background-color: #043249;
+    background-color: #0e1728;
     -webkit-box-shadow: 0 2px 1px rgba(255, 255, 255, 0.55);
     -moz-box-shadow: 0 2px 1px rgba(255, 255, 255, 0.55);
     box-shadow: 0 2px 1px rgba(255, 255, 255, 0.55);
@@ -652,7 +652,7 @@ html {
     -moz-border-radius: 0px 0px 0px 0px;
     -webkit-border-radius: 0px 0px 0px 0px;
     margin-right: 0;
-    background: #043249;
+    background: #0e1728;
     border: solid thin #f1ab39
 }
 .page-search .search-box .search-box-wrapper .search-input:focus {
@@ -676,7 +676,7 @@ html {
     padding: 0;
     font-family: "amsiultra", sans-serif;
     font-weight: normal;
-    background-color: #043249
+    background-color: #0e1728
 }
 .menu.sticky {
     position: fixed;
@@ -717,7 +717,7 @@ html {
     border-width: 3px 1px 3px 1px;
     border-style: solid;
     top: 45px;
-    border-bottom: solid 5px #043249;
+    border-bottom: solid 5px #0e1728;
     -webkit-box-shadow: 0 3px 5px rgba(87, 39, 115, 0.55);
     -moz-box-shadow: 0 3px 5px rgba(87, 39, 115, 0.55);
     box-shadow: 0 3px 5px rgba(87, 39, 115, 0.55);
@@ -801,7 +801,7 @@ input.button {
     border-radius: 0px 0px 0px 0px;
     -moz-border-radius: 0px 0px 0px 0px;
     -webkit-border-radius: 0px 0px 0px 0px;
-    background: #043249;
+    background: #0e1728;
     border-width: 0px;
     color: #ffffff;
     cursor: pointer;
@@ -847,7 +847,7 @@ span.success, p.success {
 }
 .section h2 {
     font-size: 2.4rem;
-    color: #043249;
+    color: #0e1728;
     font-family: "amsiultra", sans-serif;
     font-weight: normal;
     margin: 2rem 2rem 2rem 0
@@ -896,7 +896,7 @@ span.success, p.success {
     width: 100%
 }
 .stripe h2 {
-    background: #043249;
+    background: #0e1728;
     color: #fff;
     padding: 1rem 0rem 2rem 2rem;
     width: 97%
@@ -925,9 +925,9 @@ span.success, p.success {
     width: 148px;
     height: 296px;
     padding: 0;
-    background: #043249;
+    background: #0e1728;
     overflow: hidden;
-    border: solid 10px #043249
+    border: solid 10px #0e1728
 }
 .stripe .stripe-wrap a span.page-details {
     font-size: 1.6rem;
@@ -939,7 +939,7 @@ span.success, p.success {
     width: 148px
 }
 .stripe .stripe-wrap a span.page-details .page-title {
-    color: #043249;
+    color: #0e1728;
     display: block;
     font-size: 1.8rem;
     margin: 0;
@@ -1058,10 +1058,10 @@ span.success, p.success {
     border-radius: 0 0px 0 0;
     -moz-border-radius: 0 0px 0 0;
     -webkit-border-radius: 0 0px 0 0;
-    background: #043249;
+    background: #0e1728;
     border-width: 2px;
     border-style: solid;
-    border-color: #043249;
+    border-color: #0e1728;
     color: #666666;
     font-weight: normal;
     margin: 0px 15px 0 0;
@@ -1074,8 +1074,8 @@ span.success, p.success {
     background: #ffffff;
     border-width: 2px;
     border-style: solid;
-    border-color: #043249;
-    color: #043249;
+    border-color: #0e1728;
+    color: #0e1728;
     font-weight: bold;
     padding: 5px 0
 }
@@ -1084,7 +1084,7 @@ span.success, p.success {
     background: transparent;
     outline: none;
     border: 0 none;
-    color: #043249
+    color: #0e1728
 }
 .tab .tab-content h2 {
     display: none
@@ -1101,7 +1101,7 @@ span.success, p.success {
     text-decoration: none
 }
 .ui-state-active a, .ui-state-active a:link, .ui-state-active a:visited {
-    color: #043249;
+    color: #0e1728;
     text-decoration: none
 }
 .column .ui-tabs .ui-tabs-nav li {
@@ -1579,7 +1579,7 @@ span.success, p.success {
     text-overflow: ellipsis;
     white-space: nowrap;
     overflow: hidden;
-    color: #043249
+    color: #0e1728
 }
 #latest-events .top-events .name a {
     color: #0e0e0e;
@@ -1631,7 +1631,7 @@ span.success, p.success {
     font-weight: normal;
     background-position: 0 0;
     padding: 10px 20px;
-    background-color: #043249;
+    background-color: #0e1728;
     text-decoration: none;
     display: block;
     margin: 10px auto;
@@ -1676,7 +1676,7 @@ span.success, p.success {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     font-size: 30px;
-    color: #043249
+    color: #0e1728
 }
 #latest-events .jcarousel-next-vertical {
     height: 30px;
@@ -1696,7 +1696,7 @@ span.success, p.success {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     font-size: 30px;
-    color: #043249
+    color: #0e1728
 }
 #latest-events .event-widget .top-events li .event-content {
     padding: 0 0 0 60px
@@ -1725,7 +1725,7 @@ span.success, p.success {
     border: 0;
     background-color: #ffffff;
     margin-bottom: 25px;
-    border: solid thin #043249;
+    border: solid thin #0e1728;
     display: block;
     width: calc(45% - 2px);
     float: left;
@@ -1733,13 +1733,13 @@ span.success, p.success {
     padding: 0px
 }
 #uc-event-ticket-details .ninecol .portlet .contentBoxes .availableTickets .ticketsTypes h2 {
-    background: #043249;
+    background: #0e1728;
     line-height: 20px;
     font-size: 1.8rem
 }
 #uc-event-ticket-details .ninecol .portlet .contentBoxes .availableTickets .ticketsTypes h2 .ticketAvailable {
     background: #ffffff;
-    color: #043249;
+    color: #0e1728;
     padding: 3px 15px;
     border-radius: 0px 0 0px 0;
     -moz-border-radius: 0px 0 0px 0;
@@ -1764,7 +1764,7 @@ span.success, p.success {
     font-size: 1.6rem
 }
 #uc-event-ticket-details .ninecol .portlet .contentBoxes .ticketAvailable {
-    background: #043249;
+    background: #0e1728;
     color: #ffffff;
     padding: 3px 15px;
     border-radius: 0px 0 0px 0;
@@ -1784,7 +1784,7 @@ span.success, p.success {
     color: #ffffff;
     font-weight: normal;
     padding: 10px 20px;
-    background-color: #043249;
+    background-color: #0e1728;
     position: relative;
     background-image: none;
     font-family: "amsiregular", sans-serif;
@@ -1846,7 +1846,7 @@ span.success, p.success {
     background: none repeat scroll 0 0 transparent;
     border: 0 none;
     box-shadow: 0 0 0;
-    color: #043249;
+    color: #0e1728;
     font-size: 0.7em;
     padding: 0;
     position: absolute;
@@ -1901,7 +1901,7 @@ span.success, p.success {
     text-overflow: ellipsis;
     white-space: nowrap;
     overflow: hidden;
-    color: #043249
+    color: #0e1728
 }
 #latest-articles .top-articles .headline a {
     color: #0e0e0e;
@@ -1972,7 +1972,7 @@ span.success, p.success {
     font-size: 2.8rem
 }
 .uc-widget-articles .widget-four .uc-widget-article-header .uc-widget-article-more-link {
-    background: #043249;
+    background: #0e1728;
     display: none
 }
 .uc-widget-articles .widget-four .uc-widget-article-header .uc-widget-article-more-link .more-articles {
@@ -2101,7 +2101,7 @@ span.success, p.success {
     text-overflow: ellipsis;
     white-space: nowrap;
     overflow: hidden;
-    color: #043249
+    color: #0e1728
 }
 #latest-documents .top-documents .headline a {
     font-family: "amsiregular", sans-serif;
@@ -2209,7 +2209,7 @@ span.success, p.success {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     font-size: 1.8rem;
-    color: #043249 !important
+    color: #0e1728 !important
 }
 .breadcrumb #crumbs li:hover {
     background-color: #CFD8DC
@@ -2276,7 +2276,7 @@ span.success, p.success {
     height: 35px;
     top: 0px;
     left: 0px;
-    background: #043249;
+    background: #0e1728;
     z-index: 0;
     opacity: 0
 }
@@ -2391,7 +2391,7 @@ span.success, p.success {
     padding: 20px
 }
 #search-result h2 > span {
-    background: #043249;
+    background: #0e1728;
     color: #ffffff
 }
 #search-result .page-search-es {
@@ -2428,7 +2428,7 @@ span.success, p.success {
     border-radius: 0 0px 0 0;
     -moz-border-radius: 0 0px 0 0;
     -webkit-border-radius: 0 0px 0 0;
-    background: url("https://nusdigital.s3.amazonaws.com/image/images/400976/original/icon_sprite.png") no-repeat scroll center left #043249;
+    background: url("https://nusdigital.s3.amazonaws.com/image/images/400976/original/icon_sprite.png") no-repeat scroll center left #0e1728;
     background-position: 4px -27px;
     top: 5px
 }
@@ -2444,7 +2444,7 @@ span.success, p.success {
     margin: 5px 0px 0px;
     font-family: "amsibold", sans-serif;
     font-weight: normal;
-    color: #043249
+    color: #0e1728
 }
 #search-result h2 a {
     text-decoration: none;
@@ -2497,7 +2497,7 @@ span.success, p.success {
     font-family: "amsiregular", sans-serif;
     font-weight: normal;
     font-size: 1.5rem;
-    color: #043249;
+    color: #0e1728;
     margin: 0px 0px 10px 0px;
     line-height: 150%
 }
@@ -2505,14 +2505,14 @@ span.success, p.success {
     font-family: "amsiregular", sans-serif;
     font-weight: normal;
     font-size: 1.5rem;
-    color: #043249;
+    color: #0e1728;
     margin: 0 30px 10px 30px
 }
 .content .row .content-wrap ol {
     font-family: "amsiregular", sans-serif;
     font-weight: normal;
     font-size: 1.5rem;
-    color: #043249;
+    color: #0e1728;
     margin: 0 35px 10px 35px
 }
 .content .row .content-wrap .column-content p {
@@ -2520,7 +2520,7 @@ span.success, p.success {
     line-height: 150%
 }
 .content .row .content-wrap h1 {
-    color: #043249;
+    color: #0e1728;
     font-family: "amsiultra", sans-serif;
     font-weight: normal;
     font-size: 3.2rem;
@@ -2529,35 +2529,35 @@ span.success, p.success {
     line-height: 150%
 }
 .content .row .content-wrap h2 {
-    color: #043249;
+    color: #0e1728;
     font-family: "amsibold", sans-serif;
     font-weight: normal;
     font-size: 2.8rem;
     line-height: 150%
 }
 .content .row .content-wrap h3 {
-    color: #043249;
+    color: #0e1728;
     font-family: "amsiregular", sans-serif;
     font-weight: normal;
     font-size: 2.4rem;
     line-height: 150%
 }
 .content .row .content-wrap h4 {
-    color: #043249;
+    color: #0e1728;
     font-family: "amsiregular", sans-serif;
     font-weight: normal;
     font-size: 2.2rem;
     line-height: 150%
 }
 .content .row .content-wrap h5 {
-    color: #043249;
+    color: #0e1728;
     font-family: "amsiregular", sans-serif;
     font-weight: normal;
     font-size: 2rem;
     line-height: 150%
 }
 .content .row .content-wrap h6 {
-    color: #043249;
+    color: #0e1728;
     font-family: "amsiregular", sans-serif;
     font-weight: normal;
     font-size: 1.8rem;
@@ -2570,7 +2570,7 @@ span.success, p.success {
     font-size: 3.2rem
 }
 .portletTitles h1 {
-    color: #043249;
+    color: #0e1728;
     font-family: "amsiultra", sans-serif;
     font-weight: normal;
     font-size: 3.2rem;
@@ -2621,7 +2621,7 @@ h1 span {
     font-weight: normal;
     background-position: 0 0;
     padding: 10px 20px;
-    background-color: #043249;
+    background-color: #0e1728;
     text-decoration: none;
     display: block;
     margin: 10px auto;
@@ -2677,16 +2677,16 @@ h1 span {
     padding: 10px
 }
 #event-homepage .search-box .search-box-wrapper .search-input:focus {
-    -webkit-box-shadow: 0 0 5px #043249;
-    -moz-box-shadow: 0 0 5px #043249;
-    box-shadow: 0 0 5px #043249
+    -webkit-box-shadow: 0 0 5px #0e1728;
+    -moz-box-shadow: 0 0 5px #0e1728;
+    box-shadow: 0 0 5px #0e1728
 }
 #event-homepage .search-box .search-box-wrapper .search-button {
     width: 45px;
     float: left;
     padding: 10px;
     height: 40px;
-    background: url("https://nusdigital.s3.amazonaws.com/image/images/400976/original/icon_sprite.png") no-repeat scroll center left #043249;
+    background: url("https://nusdigital.s3.amazonaws.com/image/images/400976/original/icon_sprite.png") no-repeat scroll center left #0e1728;
     background-position: 8px -25px
 }
 #event-homepage #left-panel {
@@ -2709,7 +2709,7 @@ h1 span {
     border-bottom: solid 2px transparent
 }
 #event-homepage #left-panel.tree-navigation ul li a {
-    color: #043249;
+    color: #0e1728;
     text-transform: capitalize;
     font-size: 2.0rem
 }
@@ -2874,7 +2874,7 @@ h1 span {
     margin-top: 25px
 }
 #event-homepage #right-panel #eventcarousel #load-more-events a {
-    background-color: #fcf6e6;
+    background-color: #ffffff;
     font-size: 1.8rem;
     font-family: "amsibold", sans-serif;
     font-weight: normal;
@@ -3046,7 +3046,7 @@ h1 span {
     font-weight: normal;
     background-position: 0 0;
     padding: 10px 10px 10px 50px;
-    background-color: #043249;
+    background-color: #0e1728;
     position: relative;
     background-image: none;
     font-family: "amsiregular", sans-serif;
@@ -3068,7 +3068,7 @@ h1 span {
     top: 0;
     left: 0;
     height: 100%;
-    background: #043249;
+    background: #0e1728;
     transition: width .2s ease;
     width: 40px;
     line-height: 50px;
@@ -3095,7 +3095,7 @@ h1 span {
     font-weight: normal;
     background-position: 0 0;
     padding: 10px 10px 10px 50px;
-    background-color: #043249;
+    background-color: #0e1728;
     position: relative;
     background-image: none;
     font-family: "amsiregular", sans-serif;
@@ -3167,7 +3167,7 @@ h1 span {
 #uc-articles-news.uc-article-catg-module .uc-articles-list-block .uc-articles-row .uc-articles-block .uc-news-headline h3 a {
     font-size: 1.5rem;
     margin: 5px 0px;
-    color: #043249
+    color: #0e1728
 }
 #uc-articles-news.uc-article-catg-module .uc-articles-list-block .uc-articles-row .uc-articles-block .uc-articles-summary {
     padding: 5px;
@@ -3290,7 +3290,7 @@ h1 span {
     width: calc(100% - 90px);
     margin-right: 0;
     background: transparent;
-    border-color: #043249
+    border-color: #0e1728
 }
 #uc-articles-news.uc-article-catg-module .uc-articles-module-wrapper .uc-articles-right-panel-search .uc-search-container .uc-search-articles input.search-button {
     width: 36px;
@@ -3299,12 +3299,12 @@ h1 span {
     border-radius: 0 0px 0 0;
     -moz-border-radius: 0 0px 0 0;
     -webkit-border-radius: 0 0px 0 0;
-    background: url("https://nusdigital.s3.amazonaws.com/image/images/400976/original/icon_sprite.png") no-repeat scroll center left #043249;
+    background: url("https://nusdigital.s3.amazonaws.com/image/images/400976/original/icon_sprite.png") no-repeat scroll center left #0e1728;
     background-position: 4px -25px
 }
 #uc-articles-news.uc-article-catg-module .uc-articles-module-wrapper .uc-articles-right-panel-search .uc-search-container .uc-search-articles input.clear-button {
-    background-color: #043249;
-    background: url("https://nusdigital.s3.amazonaws.com/image/images/400976/original/icon_sprite.png") no-repeat scroll center left #043249;
+    background-color: #0e1728;
+    background: url("https://nusdigital.s3.amazonaws.com/image/images/400976/original/icon_sprite.png") no-repeat scroll center left #0e1728;
     background-position: 3px -56px;
     border-radius: 0 0 0 0;
     -moz-border-radius: 0 0 0 0;
@@ -3320,7 +3320,7 @@ h1 span {
     width: calc(100% - 15px);
     height: 50px;
     cursor: pointer;
-    background-color: #fcf6e6;
+    background-color: #ffffff;
     border: solid thin #e0e0e0;
     margin: 0;
     font-family: "amsiregular", sans-serif;
@@ -3374,7 +3374,7 @@ h1 span {
     color: #fff;
     font-weight: normal;
     font-size: 1.8rem;
-    background: #043249;
+    background: #0e1728;
     border-radius: 0px 0px 0px 0px;
     -moz-border-radius: 0px 0px 0px 0px;
     -webkit-border-radius: 0px 0px 0px 0px;
@@ -3417,7 +3417,7 @@ h1 span {
 #uc-resource-details .uc-download-file-button {
     margin-left: 0px !important;
     padding: 4px 13px 10px !important;
-    background: #043249 !important;
+    background: #0e1728 !important;
     cursor: pointer !important;
     border: 0 !important;
     text-indent: 0 !important;
@@ -3462,7 +3462,7 @@ h1 span {
     font-family: "amsibold", sans-serif;
     font-weight: normal;
     margin-bottom: 15px;
-    color: #043249;
+    color: #0e1728;
     border: solid 3px
 }
 #resource-homepage .uc-resource-listing .page-separator {
@@ -3475,9 +3475,9 @@ h1 span {
     padding: 1%;
     min-height: 280px;
     background: transparent;
-    -webkit-box-shadow: 0px 0px 1px #043249;
-    -moz-box-shadow: 0px 0px 1px #043249;
-    box-shadow: 0px 0px 1px #043249
+    -webkit-box-shadow: 0px 0px 1px #0e1728;
+    -moz-box-shadow: 0px 0px 1px #0e1728;
+    box-shadow: 0px 0px 1px #0e1728
 }
 #resource-homepage .uc-resource-listing .uc-document-block:nth-child(4) {
     margin-right: 0
@@ -3485,13 +3485,13 @@ h1 span {
 #resource-homepage .uc-resource-listing .uc-document-block .uc-resource-details-link, #resource-homepage .uc-resource-listing .uc-document-block .uc-resource-details-disable-link {
     margin-left: 0;
     padding: 5px 7px;
-    background-color: #043249;
+    background-color: #0e1728;
     cursor: pointer
 }
 #resource-homepage .uc-resource-listing .uc-document-block .uc-resource-download-link, #resource-homepage .uc-resource-listing .uc-document-block .uc-resource-disable-download {
     margin-left: 0px;
     padding: 5px 7px 4px;
-    background-color: #043249;
+    background-color: #0e1728;
     cursor: pointer
 }
 #resource-homepage .uc-resource-listing .uc-document-block .uc-resource-download-link:before, #resource-homepage .uc-resource-listing .uc-document-block .uc-resource-disable-download:before {
@@ -3507,7 +3507,7 @@ h1 span {
 #resource-homepage .uc-resource-listing .uc-document-titles h2 {
     font-family: "amsiregular", sans-serif;
     font-weight: normal;
-    color: #043249
+    color: #0e1728
 }
 #resource-homepage .uc-resource-listing #uc-resources-right-panel-search {
     float: left;
@@ -3574,9 +3574,9 @@ h1 span {
     padding: 9px 5px;
     width: calc(100% - 100px);
     margin-right: 0;
-    -webkit-box-shadow: 0px 0px 1px #043249;
-    -moz-box-shadow: 0px 0px 1px #043249;
-    box-shadow: 0px 0px 1px #043249;
+    -webkit-box-shadow: 0px 0px 1px #0e1728;
+    -moz-box-shadow: 0px 0px 1px #0e1728;
+    box-shadow: 0px 0px 1px #0e1728;
     background: transparent;
     margin-top: 1px
 }
@@ -3587,12 +3587,12 @@ h1 span {
     border-radius: 0 0px 0 0;
     -moz-border-radius: 0 0px 0 0;
     -webkit-border-radius: 0 0px 0 0;
-    background: url("https://nusdigital.s3.amazonaws.com/image/images/400976/original/icon_sprite.png") no-repeat scroll center left #043249;
+    background: url("https://nusdigital.s3.amazonaws.com/image/images/400976/original/icon_sprite.png") no-repeat scroll center left #0e1728;
     background-position: 4px -27px
 }
 #resource-homepage .uc-resource-listing #uc-resources-right-panel-search #uc-resources-right-panel-search-wrapper .search-box-wrapper .clear-button {
-    background-color: #043249;
-    background: url("https://nusdigital.s3.amazonaws.com/image/images/400976/original/icon_sprite.png") no-repeat scroll center left #043249;
+    background-color: #0e1728;
+    background: url("https://nusdigital.s3.amazonaws.com/image/images/400976/original/icon_sprite.png") no-repeat scroll center left #0e1728;
     background-position: 3px -56px;
     border-radius: 0 0 0 0;
     -moz-border-radius: 0 0 0 0;
@@ -3651,7 +3651,7 @@ h1 span {
     color: #fff;
     font-weight: normal;
     font-size: 1.8rem;
-    background: #043249;
+    background: #0e1728;
     border-radius: 0px 0px 0px 0px;
     -moz-border-radius: 0px 0px 0px 0px;
     -webkit-border-radius: 0px 0px 0px 0px;
@@ -3688,7 +3688,7 @@ h1 span {
 }
 #resource-homepage #uc-resource-promotion-carousel .uc-promoted-document-block {
     width: calc(100% - 2px);
-    background: none repeat scroll 0 0 #fcf6e6;
+    background: none repeat scroll 0 0 #ffffff;
     border: solid thin
 }
 #resource-homepage #uc-resource-promotion-carousel .jcarousel-prev {
@@ -3735,7 +3735,7 @@ h1 span {
     float: none
 }
 #resource-homepage .uc-doc-bg-ext {
-    background-color: #043249;
+    background-color: #0e1728;
     background-image: none;
     width: 100%;
     margin-top: 0px
@@ -3785,13 +3785,13 @@ h1 span {
 #resource-homepage #uc-resource-promotion-carousel ul li .uc-promoted-document-details .uc-promoted-doc-show-download .uc-resource-details-link, #resource-homepage #uc-resource-promotion-carousel ul li .uc-promoted-document-details .uc-promoted-doc-show-download .uc-resource-details-disable-link {
     margin-left: 5px;
     padding: 5px 10px;
-    background-color: #043249;
+    background-color: #0e1728;
     cursor: pointer
 }
 #resource-homepage #uc-resource-promotion-carousel ul li .uc-promoted-document-details .uc-promoted-doc-show-download .uc-resource-download-link, #resource-homepage #uc-resource-promotion-carousel ul li .uc-promoted-document-details .uc-promoted-doc-show-download .uc-resource-disable-download {
     margin-left: 0px;
     padding: 5px 10px;
-    background-color: #043249;
+    background-color: #0e1728;
     cursor: pointer
 }
 #resource-homepage #uc-resource-promotion-carousel ul li .uc-promoted-document-details .uc-promoted-doc-show-download .uc-resource-download-link:before, #resource-homepage #uc-resource-promotion-carousel ul li .uc-promoted-document-details .uc-promoted-doc-show-download .uc-resource-disable-download:before {
@@ -3860,7 +3860,7 @@ h1 span {
 .free-event {
     font-family: "amsibold", sans-serif;
     font-weight: normal;
-    color: #043249;
+    color: #0e1728;
     background: #ffffff;
     height: 20px;
     border-radius: 0px 0px 0px 0px;
@@ -4120,7 +4120,7 @@ h1 span {
     font-size: 1.5rem
 }
 #latest-calendar-event #calender-widget .cal-date li {
-    border-color: #043249;
+    border-color: #0e1728;
     font-family: "amsibold", sans-serif;
     font-weight: normal;
     background: none repeat scroll 0 0 #ffffff
@@ -4162,9 +4162,9 @@ h1 span {
     background: none repeat scroll 0 0 #ffffff
 }
 #latest-calendar-event #calender-widget .cal-month li {
-    background: #043249;
+    background: #0e1728;
     color: #ffffff;
-    border-color: #043249;
+    border-color: #0e1728;
     height: 16px
 }
 #latest-calendar-event #calender-widget .cal-month li.last-child {
@@ -4193,70 +4193,70 @@ h1 span {
     background: url("https://nusdigital.s3.amazonaws.com/image/images/400975/original/grid-box-last-child.png") no-repeat left top transparent
 }
 #latest-calendar-event #calender-widget .event-time li.category-0 {
-    background: #043249
+    background: #0e1728
 }
 #latest-calendar-event #calender-widget .event-time li.category-1 {
-    background: #043249
+    background: #0e1728
 }
 #latest-calendar-event #calender-widget .event-time li.category-2 {
-    background: #043249
+    background: #0e1728
 }
 #latest-calendar-event #calender-widget .event-time li.category-3 {
-    background: #043249
+    background: #0e1728
 }
 #latest-calendar-event #calender-widget .event-time li.category-4 {
-    background: #043249
+    background: #0e1728
 }
 #latest-calendar-event #calender-widget .event-time li.category-5 {
-    background: #043249
+    background: #0e1728
 }
 #latest-calendar-event #calender-widget .event-time li.category-6 {
-    background: #043249
+    background: #0e1728
 }
 #latest-calendar-event #calender-widget .event-time li.category-7 {
-    background: #043249
+    background: #0e1728
 }
 #latest-calendar-event #calender-widget .event-time li.category-8 {
-    background: #043249
+    background: #0e1728
 }
 #latest-calendar-event #calender-widget .event-time li.category-9 {
-    background: #043249
+    background: #0e1728
 }
 #latest-calendar-event #calender-widget .event-time li.category-10 {
-    background: #043249
+    background: #0e1728
 }
 #latest-calendar-event #calender-widget .event-time.category-0 li.has-tooltip {
-    border: 1px solid #043249
+    border: 1px solid #0e1728
 }
 #latest-calendar-event #calender-widget .event-time.category-1 li.has-tooltip {
-    border: 1px solid #043249
+    border: 1px solid #0e1728
 }
 #latest-calendar-event #calender-widget .event-time.category-2 li.has-tooltip {
-    border: 1px solid #043249
+    border: 1px solid #0e1728
 }
 #latest-calendar-event #calender-widget .event-time.category-3 li.has-tooltip {
-    border: 1px solid #043249
+    border: 1px solid #0e1728
 }
 #latest-calendar-event #calender-widget .event-time.category-4 li.has-tooltip {
-    border: 1px solid #043249
+    border: 1px solid #0e1728
 }
 #latest-calendar-event #calender-widget .event-time.category-5 li.has-tooltip {
-    border: 1px solid #043249
+    border: 1px solid #0e1728
 }
 #latest-calendar-event #calender-widget .event-time.category-6 li.has-tooltip {
-    border: 1px solid #043249
+    border: 1px solid #0e1728
 }
 #latest-calendar-event #calender-widget .event-time.category-7 li.has-tooltip {
-    border: 1px solid #043249
+    border: 1px solid #0e1728
 }
 #latest-calendar-event #calender-widget .event-time.category-8 li.has-tooltip {
-    border: 1px solid #043249
+    border: 1px solid #0e1728
 }
 #latest-calendar-event #calender-widget .event-time.category-9 li.has-tooltip {
-    border: 1px solid #043249
+    border: 1px solid #0e1728
 }
 #latest-calendar-event #calender-widget .event-time.category-10 li.has-tooltip {
-    border: 1px solid #043249
+    border: 1px solid #0e1728
 }
 #latest-calendar-event #calender-widget .event-available ul.cal-time {
     background-color: #e7e7e7
@@ -4290,7 +4290,7 @@ h1 span {
     font-weight: normal
 }
 .verifyTickets .title h1, #shopping-cart .title h1 {
-    color: #043249;
+    color: #0e1728;
     background: transparent;
     font-family: "amsiregular", sans-serif;
     font-weight: normal;
@@ -4311,7 +4311,7 @@ h1 span {
     -webkit-border-radius: 0px 0px 0px 0px
 }
 .uc-share-purchases-wrapper .facebook-share-button, .uc-share-purchases-wrapper .twitter-share-button {
-    background: #043249;
+    background: #0e1728;
     border-radius: 0px 0px 0px 0px;
     -moz-border-radius: 0px 0px 0px 0px;
     -webkit-border-radius: 0px 0px 0px 0px;
@@ -4343,7 +4343,7 @@ h1 span {
     font-family: "amsiregular", sans-serif;
     font-weight: normal;
     line-height: 150%;
-    color: #043249
+    color: #0e1728
 }
 #shopping-cart .twelvecol.last.marginTopZero > .portlet > p:before {
     content: "\f07a";
@@ -4367,7 +4367,7 @@ h1 span {
 #shopping-cart .orderHeaderRow {
     font-family: "amsibold", sans-serif;
     font-weight: normal;
-    background: #043249;
+    background: #0e1728;
     color: #ffffff;
     padding: 0px
 }
@@ -4684,7 +4684,7 @@ html ul.tabs li.active a:hover {
 }
 .club-container .types-list .group-types .group-types-wrapper ul a {
     text-decoration: none;
-    color: #043249;
+    color: #0e1728;
     font-size: 15px;
     text-transform: capitalize;
     position: relative;
@@ -4699,7 +4699,7 @@ html ul.tabs li.active a:hover {
     height: 40px;
     top: 0px;
     left: 0px;
-    background: #043249;
+    background: #0e1728;
     z-index: 0;
     opacity: 0
 }
@@ -4804,21 +4804,21 @@ html ul.tabs li.active a:hover {
     width: calc(100% - 67px);
     float: left;
     padding: 9px;
-    color: #043249;
-    border: solid thin #043249;
+    color: #0e1728;
+    border: solid thin #0e1728;
     background: transparent
 }
 .group-search .search-box .search-box-wrapper .search-input:focus {
-    -webkit-box-shadow: 0 0 1px #043249;
-    -moz-box-shadow: 0 0 1px #043249;
-    box-shadow: 0 0 1px #043249
+    -webkit-box-shadow: 0 0 1px #0e1728;
+    -moz-box-shadow: 0 0 1px #0e1728;
+    box-shadow: 0 0 1px #0e1728
 }
 .group-search .search-box .search-box-wrapper .search-button {
     width: 45px;
     float: left;
     padding: 10px;
     height: 40px;
-    background: url("https://nusdigital.s3.amazonaws.com/image/images/400976/original/icon_sprite.png") no-repeat scroll center left #043249;
+    background: url("https://nusdigital.s3.amazonaws.com/image/images/400976/original/icon_sprite.png") no-repeat scroll center left #0e1728;
     background-position: 8px -25px
 }
 #left-panel .tree-navigation.club-navigation {
@@ -4836,7 +4836,7 @@ html ul.tabs li.active a:hover {
     -webkit-box-shadow: 0 0 1px rgba(0, 0, 0, 0.4);
     -moz-box-shadow: 0 0 1px rgba(0, 0, 0, 0.4);
     box-shadow: 0 0 1px rgba(0, 0, 0, 0.4);
-    border-bottom: solid 5px #043249;
+    border-bottom: solid 5px #0e1728;
     display: none
 }
 #uc-group-homepage .uc-no-groups-found {
@@ -4872,7 +4872,7 @@ html ul.tabs li.active a:hover {
     padding: 10px
 }
 .tree-navigation.club-navigation ul li.active {
-    background: none repeat scroll 0 0 #043249
+    background: none repeat scroll 0 0 #0e1728
 }
 .tree-navigation.club-navigation ul li.active a {
     color: #ffffff
@@ -4992,7 +4992,7 @@ html ul.tabs li.active a:hover {
     text-decoration: none
 }
 .group-slide {
-    border-color: #043249
+    border-color: #0e1728
 }
 .group-confirmation-form {
     font-family: "amsiregular", sans-serif;
@@ -5099,7 +5099,7 @@ fieldset.group-questions-form {
     border-radius: 0px 0px 0px 0px;
     -moz-border-radius: 0px 0px 0px 0px;
     -webkit-border-radius: 0px 0px 0px 0px;
-    border-bottom: solid 5px #043249;
+    border-bottom: solid 5px #0e1728;
     border: 0
 }
 #memberShipDisplay .memberShipType input.radioButton {
@@ -5110,14 +5110,14 @@ fieldset.group-questions-form {
     border-bottom: 0
 }
 #memberShipDisplay .memberShipType h2 {
-    background: none repeat scroll 0 0 #043249
+    background: none repeat scroll 0 0 #0e1728
 }
 #memberShipDisplay .memberShipType .membershipDescription {
     min-height: 50px
 }
 #memberShipDisplay .memberShipType .selectButton {
     padding: 10px;
-    background: #043249;
+    background: #0e1728;
     border-radius: 0px 0px 0px 0px;
     -moz-border-radius: 0px 0px 0px 0px;
     -webkit-border-radius: 0px 0px 0px 0px;
@@ -5128,7 +5128,7 @@ fieldset.group-questions-form {
     margin-bottom: 10px
 }
 #memberShipDisplay .memberShipType.selectedMembership .selectButton {
-    background: #043249;
+    background: #0e1728;
     color: #fff
 }
 #memberShipDisplay .memberShipType.selectedMembership .selectButton:before {
@@ -5148,7 +5148,7 @@ fieldset.group-questions-form {
     line-height: 10px
 }
 .updatecart-button {
-    background: #043249;
+    background: #0e1728;
     color: #fff;
     padding: 6px 10px;
     background-image: none;
@@ -5164,7 +5164,7 @@ fieldset.group-questions-form {
     outline: none
 }
 .checkout-button {
-    background: #043249;
+    background: #0e1728;
     color: #fff;
     padding: 6px 20px 9px;
     background-image: none;
@@ -5370,7 +5370,7 @@ div.change-password #user_edit .formrow label {
     background: none repeat scroll 0 0 #ffffff
 }
 .event-ticket-number-details .event-ticket-details-wrapper {
-    background: none repeat scroll 0 0 #fcf6e6;
+    background: none repeat scroll 0 0 #ffffff;
     border: 0 solid #DDDDDD
 }
 .event-ticket-number-details .event-ticket-details-wrapper .event-title {
@@ -5525,7 +5525,7 @@ a.uc-link-block .page-details {
     margin-top: 15px
 }
 a.uc-link-block .page-details .page-title {
-    color: #043249;
+    color: #0e1728;
     font-size: 2.0rem;
     font-family: amsiregular
 }
@@ -5703,7 +5703,7 @@ div.change-password #user_edit .formrow label, .registration-form ol li.input la
     border-radius: 0px 0px 0px 0px;
     -moz-border-radius: 0px 0px 0px 0px;
     -webkit-border-radius: 0px 0px 0px 0px;
-    background: #043249;
+    background: #0e1728;
     border-width: 0px;
     color: #ffffff;
     cursor: pointer;
@@ -5730,7 +5730,7 @@ div.change-password #user_edit .formrow label, .registration-form ol li.input la
     -moz-box-shadow: 1px 1px 1px #949599;
     -webkit-box-shadow: 1px 1px 1px #949599;
     box-shadow: 1px 1px 1px #949599;
-    background: #043249;
+    background: #0e1728;
     border-width: 0px;
     color: #ffffff;
     cursor: pointer;
@@ -5745,8 +5745,8 @@ div.change-password #user_edit .formrow label, .registration-form ol li.input la
 }
 #registration-form-container .action.input_action input.skip-button {
     background: transparent;
-    border: solid thin #043249;
-    color: #043249;
+    border: solid thin #0e1728;
+    color: #0e1728;
     text-decoration: none
 }
 #registration-form-container .registration-form-step .action.input_action, #registration-form-container .registration-form-step .actions .action, #registration-form-container .or-skip {
@@ -5793,7 +5793,7 @@ div.change-password #user_edit .formrow label, .registration-form ol li.input la
 .myaccount-shopping-details .order-grid table th {
     font-family: "amsiregular", sans-serif;
     font-weight: normal;
-    background: #043249;
+    background: #0e1728;
     color: #fff
 }
 .articleDetails {
@@ -5812,7 +5812,7 @@ div.change-password #user_edit .formrow label, .registration-form ol li.input la
     margin: 10px 0 0
 }
 .more-article-block .more-article-block-wrapper ul li a {
-    color: #043249;
+    color: #0e1728;
     font-size: 1.8rem
 }
 .more-article-block .more-article-block-wrapper ul li {
@@ -5820,7 +5820,7 @@ div.change-password #user_edit .formrow label, .registration-form ol li.input la
 }
 .pagination .current {
     padding: 6px 10px 7px;
-    border: solid thin #043249;
+    border: solid thin #0e1728;
     margin-right: 3px
 }
 .more-article-block .more-article-block-wrapper h3 {
@@ -6015,7 +6015,7 @@ div.change-password #user_edit .formrow label, .registration-form ol li.input la
     -webkit-box-shadow: 0 0 1px rgba(0, 0, 0, 0.4);
     -moz-box-shadow: 0 0 1px rgba(0, 0, 0, 0.4);
     box-shadow: 0 0 1px rgba(0, 0, 0, 0.4);
-    border-bottom: solid 5px #043249;
+    border-bottom: solid 5px #0e1728;
     overflow: hidden
 }
 .uc-widget-upcoming-events-wrapper #uc-widget-upcoming-events-left-panel .tree-navigation ul {
@@ -6027,7 +6027,7 @@ div.change-password #user_edit .formrow label, .registration-form ol li.input la
     margin: 0
 }
 .uc-widget-upcoming-events-wrapper #uc-widget-upcoming-events-left-panel .tree-navigation ul li.selected {
-    background: none repeat scroll 0 0 #043249
+    background: none repeat scroll 0 0 #0e1728
 }
 .uc-widget-upcoming-events-wrapper #uc-widget-upcoming-events-left-panel .tree-navigation ul li a {
     font-size: 13px
@@ -6035,7 +6035,7 @@ div.change-password #user_edit .formrow label, .registration-form ol li.input la
 .uc-widget-upcoming-events-wrapper .uc-upcoming-event-widget-title h3 {
     font-size: 2rem;
     text-transform: uppercase;
-    color: #043249;
+    color: #0e1728;
     font-family: "amsibold", sans-serif;
     font-weight: normal;
     border: 0
@@ -6068,7 +6068,7 @@ div.change-password #user_edit .formrow label, .registration-form ol li.input la
     -webkit-border-radius: 0px 0 0px 0;
     overflow: hidden;
     border: 0;
-    border-bottom: solid 2px #043249;
+    border-bottom: solid 2px #0e1728;
     padding: 10px
 }
 .uc-widget-upcoming-events-wrapper #uc-widget-upcoming-events-right-panel .uc-widget-upcoming-event-row .upcoming-event-container:nth-child(3n) {
@@ -6126,20 +6126,20 @@ div.change-password #user_edit .formrow label, .registration-form ol li.input la
     -webkit-border-radius: 0px 0 0 0;
     float: left;
     padding: 9px;
-    border: solid thin #043249;
+    border: solid thin #0e1728;
     background: trnasparent
 }
 .uc-widget-upcoming-events-wrapper #uc-widget-upcoming-events-right-panel .search-box .search-box-wrapper .search-input:focus {
-    -webkit-box-shadow: 0 0 1px #043249;
-    -moz-box-shadow: 0 0 1px #043249;
-    box-shadow: 0 0 1px #043249
+    -webkit-box-shadow: 0 0 1px #0e1728;
+    -moz-box-shadow: 0 0 1px #0e1728;
+    box-shadow: 0 0 1px #0e1728
 }
 .uc-widget-upcoming-events-wrapper #uc-widget-upcoming-events-right-panel .search-box .search-box-wrapper .search-button {
     width: 45px;
     float: left;
     padding: 10px;
     height: 35px;
-    background: url("https://nusdigital.s3.amazonaws.com/image/images/400976/original/icon_sprite.png") no-repeat scroll center left #043249;
+    background: url("https://nusdigital.s3.amazonaws.com/image/images/400976/original/icon_sprite.png") no-repeat scroll center left #0e1728;
     background-position: 8px -28px
 }
 .uc-widget-upcoming-events-wrapper #uc-widget-upcoming-events-right-panel .uc-widget-upcoming-event-footer {
@@ -6157,7 +6157,7 @@ div.change-password #user_edit .formrow label, .registration-form ol li.input la
     padding: 0
 }
 .uc-widget-upcoming-events-wrapper .uc-widget-upcoming-event-footer .uc-widget-upcoming-event-pagination .previous_page, .uc-widget-upcoming-events-wrapper .uc-widget-upcoming-event-footer .uc-widget-upcoming-event-pagination .next_page {
-    background: #043249
+    background: #0e1728
 }
 .uc-widget-upcoming-events-wrapper .uc-widget-upcoming-event-footer .uc-widget-upcoming-event-pagination .previous_page:after, .uc-widget-upcoming-events-wrapper .uc-widget-upcoming-event-footer .uc-widget-upcoming-event-pagination .next_page:after {
     content: "\f105";
@@ -6170,7 +6170,7 @@ div.change-password #user_edit .formrow label, .registration-form ol li.input la
     margin-left: 18px;
     margin-top: 2px;
     font-size: 45px;
-    color: #043249;
+    color: #0e1728;
     float: left;
     text-indent: 0;
     color: #ffffff
@@ -6179,7 +6179,7 @@ div.change-password #user_edit .formrow label, .registration-form ol li.input la
     content: "\f104"
 }
 .uc-widget-articles-container .pagination .previous_page, .uc-widget-articles-container .pagination .next_page {
-    background: #043249
+    background: #0e1728
 }
 .uc-widget-articles-container .pagination .previous_page:after, .uc-widget-articles-container .pagination .next_page:after {
     content: "\f105";
@@ -6192,13 +6192,13 @@ div.change-password #user_edit .formrow label, .registration-form ol li.input la
     margin-left: 18px;
     margin-top: 15px;
     font-size: 45px;
-    color: #043249;
+    color: #0e1728;
     float: left;
     text-indent: 0;
     color: #ffffff
 }
 .uc-widget-articles-container .pagination .previous_page.disabled, .uc-widget-articles-container .pagination .next_page.disabled {
-    background: #043249
+    background: #0e1728
 }
 .uc-widget-articles-container .pagination .previous_page.disabled:after, .uc-widget-articles-container .pagination .next_page.disabled:after {
     margin-top: 0
@@ -6214,13 +6214,13 @@ div.change-password #user_edit .formrow label, .registration-form ol li.input la
     color: #E54B4B
 }
 .signin-block .signin-button-brinjal {
-    background: #043249;
-    background: -moz-linear-gradient(top, #043249 0%, #043249 100%);
-    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #043249), color-stop(100%, #00AEEF));
-    background: -webkit-linear-gradient(top, #043249 0%, #043249 100%);
-    background: -o-linear-gradient(top, #043249 0%, #043249 100%);
-    background: -ms-linear-gradient(top, #043249 0%, #043249 100%);
-    background: linear-gradient(to bottom, #043249 0%, #043249 100%);
+    background: #0e1728;
+    background: -moz-linear-gradient(top, #0e1728 0%, #0e1728 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #0e1728), color-stop(100%, #00AEEF));
+    background: -webkit-linear-gradient(top, #0e1728 0%, #0e1728 100%);
+    background: -o-linear-gradient(top, #0e1728 0%, #0e1728 100%);
+    background: -ms-linear-gradient(top, #0e1728 0%, #0e1728 100%);
+    background: linear-gradient(to bottom, #0e1728 0%, #0e1728 100%);
     border-radius: 0 0 0 0;
     -moz-border-radius: 0 0 0 0;
     -webkit-border-radius: 0 0 0 0
@@ -6253,8 +6253,8 @@ div.change-password #user_edit .formrow label, .registration-form ol li.input la
     border-bottom: 0
 }
 .uc-widget-student-voices-wrapper ul.uc-student-voice-widget-category li {
-    background: #043249;
-    border: solid 2px #043249;
+    background: #0e1728;
+    border: solid 2px #0e1728;
     padding: 4px 15px 3px;
     margin: 0px 5px 0 0;
     font-size: 16px;
@@ -6272,7 +6272,7 @@ div.change-password #user_edit .formrow label, .registration-form ol li.input la
     background: #ffffff
 }
 .uc-widget-student-voices-wrapper ul.uc-student-voice-widget-category li.selected a {
-    color: #043249
+    color: #0e1728
 }
 .uc-widget-student-voices-wrapper .uc-student-voice-jcarousel {
     background: #ffffff;
@@ -6317,7 +6317,7 @@ div.change-password #user_edit .formrow label, .registration-form ol li.input la
     margin-left: 25px
 }
 .uc-student-voice-widget-more-link a, .uc-student-voice-widget-more-link a:hover, .uc-student-voice-widget-more-link a:visited {
-    color: #043249;
+    color: #0e1728;
     font-family: "amsibold", sans-serif;
     font-weight: normal;
     font-weight: normal;
@@ -6342,7 +6342,7 @@ div.change-password #user_edit .formrow label, .registration-form ol li.input la
     -moz-osx-font-smoothing: grayscale;
     margin-right: 10px;
     font-size: 25px;
-    color: #043249
+    color: #0e1728
 }
 .uc-widget-student-voices-wrapper .uc-student-voice-jcarousel .jcarousel-next-vertical {
     background: none;
@@ -6358,7 +6358,7 @@ div.change-password #user_edit .formrow label, .registration-form ol li.input la
     -moz-osx-font-smoothing: grayscale;
     margin-right: 10px;
     font-size: 25px;
-    color: #043249
+    color: #0e1728
 }
 .slider {
     overflow: hidden
@@ -6407,10 +6407,10 @@ div.change-password #user_edit .formrow label, .registration-form ol li.input la
     padding: 15px 10px;
     right: 10px;
     background-image: none;
-    background: #043249
+    background: #0e1728
 }
 .uc-scroll-to-top:hover {
-    background: #043249
+    background: #0e1728
 }
 .uc-slider-wrapper .uc-rslides_container .centered-btns_tabs a, .uc-slider-wrapper .uc-rslides_container .transparent-btns_tabs a, .uc-slider-wrapper .uc-rslides_container .large-btns_tabs a {
     background-color: #D6D1D1;
@@ -6469,7 +6469,7 @@ div.change-password #user_edit .formrow label, .registration-form ol li.input la
     font-weight: normal;
     background-position: 0 0;
     padding: 10px 15px 10px 15px;
-    background: #043249;
+    background: #0e1728;
     border-radius: 0 0px 0px 0px;
     -moz-border-radius: 0 0px 0px 0px;
     -webkit-border-radius: 0 0px 0px 0px
@@ -6497,7 +6497,7 @@ input[type="radio"] {
 input[type="radio"] + label:before {
     content: '';
     border-radius: 100%;
-    border: 2px solid #043249;
+    border: 2px solid #0e1728;
     display: inline-block;
     width: 15px;
     height: 15px;
@@ -6510,16 +6510,16 @@ input[type="radio"] + label:before {
     transition: all 250ms ease
 }
 input[type="radio"]:checked + label:before {
-    background-color: #043249;
+    background-color: #0e1728;
     box-shadow: inset 0 0 0 4px #fff;
-    border: 2px solid #043249
+    border: 2px solid #0e1728
 }
 input[type="radio"]:focus + label:before {
     outline: none;
-    border-color: #043249
+    border-color: #0e1728
 }
 input[type="radio"]:disabled + label:before {
-    box-shadow: inset 0 0 0 4px #043249;
+    box-shadow: inset 0 0 0 4px #0e1728;
     border-color: black;
     background: black
 }
@@ -6649,21 +6649,21 @@ input[type="radio"] + label:empty:before {
     margin-top: 15px
 }
 #uc-sv-main-wrapper .uv-sv-idea-icon, #uc-sv-main-wrapper .uv-sv-details-header-idea {
-    background: url("https://nusdigital.s3.amazonaws.com/image/images/400985/original/sv-icons.png") no-repeat scroll center left #fcf6e6;
+    background: url("https://nusdigital.s3.amazonaws.com/image/images/400985/original/sv-icons.png") no-repeat scroll center left #ffffff;
     background-position: 0 -70px
 }
 #uc-sv-main-wrapper .uv-sv-petition-icon, #uc-sv-main-wrapper .uv-sv-details-header-petition {
-    background: url("https://nusdigital.s3.amazonaws.com/image/images/400985/original/sv-icons.png") no-repeat scroll center left #fcf6e6;
+    background: url("https://nusdigital.s3.amazonaws.com/image/images/400985/original/sv-icons.png") no-repeat scroll center left #ffffff;
     background-position: 0 0px
 }
 #uc-sv-main-wrapper .uc-sv-module-border-petition, #uc-sv-main-wrapper .uc-sv-module-border-idea {
-    border-top: 6px solid #e54a4a
+    border-top: 6px solid #31c5f4
 }
 #uc-sv-main-wrapper .uv-sv-comment-arrow-box-inner-right {
-    background: #fcf6e6
+    background: #ffffff
 }
 #uc-sv-main-wrapper .dropbtn, #uc-sv-main-wrapper .dropbtn:hover, #uc-sv-main-wrapper .dropbtn:focus {
-    background-color: #e54a4a
+    background-color: #31c5f4
 }
 #uc-sv-main-wrapper .dropdown-content a {
     padding: 6px 12px
@@ -6678,7 +6678,7 @@ input[type="radio"] + label:empty:before {
     font-weight: normal;
     background-position: 0 0;
     padding: 10px 10px 10px 50px;
-    background: #043249
+    background: #0e1728
 }
 #uc-sv-main-wrapper .uc-sv-post-idea-petition_with_dr a:before {
     content: '\f0eb';
@@ -6714,7 +6714,7 @@ input[type="radio"] + label:empty:before {
     font-weight: normal;
     background-position: 0 0;
     padding: 10px 10px 10px 50px;
-    background: #043249
+    background: #0e1728
 }
 #uc-sv-main-wrapper .uc-sv-post-course-feedback a:before {
     content: '\f02d';
@@ -6743,7 +6743,7 @@ input[type="radio"] + label:empty:before {
     background: 0
 }
 #uc-sv-main-wrapper #uc-sv-nav-tab-panel #uc-sv-main-navcontainer ul {
-    border-bottom: solid 3px #e54a4a;
+    border-bottom: solid 3px #31c5f4;
     overflow: hidden
 }
 #uc-sv-main-wrapper #uc-sv-nav-tab-panel #uc-sv-main-navcontainer ul li {
@@ -6756,12 +6756,12 @@ input[type="radio"] + label:empty:before {
     float: none;
     font-family: "amsiregular", sans-serif;
     font-weight: normal;
-    color: #043249;
+    color: #0e1728;
     background: 0
 }
 #uc-sv-main-wrapper #uc-sv-nav-tab-panel #uc-sv-main-navcontainer ul li.active {
-    border-color: #e54a4a;
-    background: #e54a4a
+    border-color: #31c5f4;
+    background: #31c5f4
 }
 #uc-sv-main-wrapper #uc-sv-nav-tab-panel #uc-sv-main-navcontainer ul li.active a {
     font-family: "amsibold", sans-serif;
@@ -6773,7 +6773,7 @@ input[type="radio"] + label:empty:before {
     margin-bottom: 25px
 }
 #uc-sv-main-wrapper #uc-sv-content-container .sv-button, #uc-sv-main-wrapper #uc-sv-content-container .sv-feedback-button {
-    background: #043249;
+    background: #0e1728;
     padding: 5px 10px 5px
 }
 #uc-sv-main-wrapper #uc-sv-content-container .uc-sv-category-wrapper {
@@ -6835,14 +6835,14 @@ input[type="radio"] + label:empty:before {
     -moz-osx-font-smoothing: grayscale;
     font-size: 2.8rem;
     margin-top: 7px;
-    color: #043249
+    color: #0e1728
 }
 #uc-sv-main-wrapper #uc-sv-content-container #uc-sv-left-panel-show-page .uc-sv-module-details-content-wrapper .uc-sv-module-voting-details .uc-sv-module-voting-details-votenow a.like {
     padding-top: 10px;
-    color: #043249
+    color: #0e1728
 }
 #uc-sv-main-wrapper #uc-sv-content-container #uc-sv-left-panel-show-page .uc-sv-module-details-content-wrapper .uc-sv-module-voting-details .uc-sv-module-voting-details-votenow span {
-    background: #043249;
+    background: #0e1728;
     font-family: "amsiregular", sans-serif;
     font-weight: normal;
     width: 100%
@@ -6867,10 +6867,10 @@ input[type="radio"] + label:empty:before {
 }
 #uc-sv-main-wrapper #uc-sv-content-container #uc-sv-left-panel-show-page .uc-sv-module-details-content-wrapper .uc-sv-module-voting-details .uc-sv-module-voting-details-like a {
     padding-top: 10px;
-    color: #043249
+    color: #0e1728
 }
 #uc-sv-main-wrapper #uc-sv-content-container #uc-sv-left-panel-show-page .uc-sv-module-details-content-wrapper .uc-sv-module-voting-details .uc-sv-module-voting-details-like span {
-    background: #043249;
+    background: #0e1728;
     font-family: "amsiregular", sans-serif;
     font-weight: normal;
     width: 100%
@@ -6896,10 +6896,10 @@ input[type="radio"] + label:empty:before {
 }
 #uc-sv-main-wrapper #uc-sv-content-container #uc-sv-left-panel-show-page .uc-sv-module-details-content-wrapper .uc-sv-module-voting-details .uc-sv-module-voting-details-dislike a {
     padding-top: 10px;
-    color: #043249
+    color: #0e1728
 }
 #uc-sv-main-wrapper #uc-sv-content-container #uc-sv-left-panel-show-page .uc-sv-module-details-content-wrapper .uc-sv-module-voting-details .uc-sv-module-voting-details-dislike span {
-    background: #043249;
+    background: #0e1728;
     font-family: "amsiregular", sans-serif;
     font-weight: normal;
     width: 100%
@@ -6918,13 +6918,13 @@ input[type="radio"] + label:empty:before {
     background: transparent
 }
 #uc-sv-main-wrapper #uc-sv-content-container #uc-sv-left-panel-show-page .uc-sv-comment-box h2 {
-    background: #043249;
+    background: #0e1728;
     padding: 10px;
     font-family: "amsiregular", sans-serif;
     font-weight: normal
 }
 #uc-sv-main-wrapper #uc-sv-content-container #uc-sv-left-panel-show-page .uc-sv-comment-box .uc-sv-comment-saveButton {
-    background: #043249;
+    background: #0e1728;
     border-radius: 0px 0px 0px 0;
     -moz-border-radius: 0px 0px 0px 0;
     -webkit-border-radius: 0px 0px 0px 0
@@ -6938,7 +6938,7 @@ input[type="radio"] + label:empty:before {
     font-family: "amsiregular", sans-serif;
     font-weight: normal;
     font-size: 1.6rem;
-    color: #043249
+    color: #0e1728
 }
 #uc-sv-main-wrapper #uc-sv-content-container .uc-sv-search-field-container .uc-sv-search-field {
     float: none;
@@ -6978,7 +6978,7 @@ input[type="radio"] + label:empty:before {
     float: right;
     padding: 10px;
     height: 35px;
-    background: url("https://nusdigital.s3.amazonaws.com/image/images/400976/original/icon_sprite.png") no-repeat scroll center left #043249;
+    background: url("https://nusdigital.s3.amazonaws.com/image/images/400976/original/icon_sprite.png") no-repeat scroll center left #0e1728;
     background-position: 8px -28px;
     top: 0px;
     height: 35px;
@@ -6992,10 +6992,10 @@ input[type="radio"] + label:empty:before {
 }
 #uc-sv-main-wrapper #uc-sv-content-container .uc-sv-search-field-container #uc-sv-mostpopular-panel select {
     width: 30%;
-    background-image: -webkit-linear-gradient(top, #fcf6e6, #fcf6e6);
-    background-image: linear-gradient(to bottom, #fcf6e6, #fcf6e6);
+    background-image: -webkit-linear-gradient(top, #ffffff, #ffffff);
+    background-image: linear-gradient(to bottom, #ffffff, #ffffff);
     padding: 10px;
-    border: 2px solid #043249;
+    border: 2px solid #0e1728;
     margin-right: 2%
 }
 #uc-sv-main-wrapper #uc-sv-content-container .uc-sv-search-field-container #uc-sv-mostpopular-panel select:last-child {
@@ -7007,7 +7007,7 @@ input[type="radio"] + label:empty:before {
     font-weight: normal;
     background-position: 0 0;
     padding: 8px 10px 8px 45px;
-    background: #043249;
+    background: #0e1728;
     cursor: pointer;
     margin-top: 12px
 }
@@ -7024,7 +7024,7 @@ input[type="radio"] + label:empty:before {
     top: 0;
     left: 0;
     height: 100%;
-    background: #043249;
+    background: #0e1728;
     transition: width .2s ease;
     width: 40px;
     line-height: 40px;
@@ -7076,7 +7076,7 @@ input[type="radio"] + label:empty:before {
     opacity: 1;
     transform: scale(1);
     transition-delay: 0ms, 0ms;
-    background-color: #043249
+    background-color: #0e1728
 }
 #uc-sv-main-wrapper #uc-sv-content-container .uc-sv-category-wrapper .uc-sv-category-field-holder ul li:hover label {
     color: #fff;
@@ -7089,7 +7089,7 @@ input[type="radio"] + label:empty:before {
 }
 #uc-sv-main-wrapper #uc-sv-content-container .uc-sv-category-wrapper .uc-sv-category-field-holder ul li label {
     background: 0;
-    background-color: #043249;
+    background-color: #0e1728;
     padding: 10px;
     font-family: "amsiregular", sans-serif;
     font-weight: normal;
@@ -7116,7 +7116,7 @@ input[type="radio"] + label:empty:before {
     font-family: "amsiregular", sans-serif;
     font-weight: normal;
     font-size: 1.8rem;
-    color: #043249
+    color: #0e1728
 }
 #uc-sv-main-wrapper #uc-sv-content-container #uc-sv-left-panel .page-separator {
     display: none
@@ -7179,9 +7179,9 @@ input[type="radio"] + label:empty:before {
     margin-right: 10px
 }
 #uc-sv-main-wrapper #uc-sv-content-container #uc-sv-left-panel .uc-sv-module-idea-wrapper .uc-sv-module-voting {
-    -webkit-box-shadow: 0px 0px 1px #043249;
-    -moz-box-shadow: 0px 0px 1px #043249;
-    box-shadow: 0px 0px 1px #043249;
+    -webkit-box-shadow: 0px 0px 1px #0e1728;
+    -moz-box-shadow: 0px 0px 1px #0e1728;
+    box-shadow: 0px 0px 1px #0e1728;
     overflow: hidden;
     right: 8px;
     bottom: 8px
@@ -7199,14 +7199,14 @@ input[type="radio"] + label:empty:before {
     -moz-osx-font-smoothing: grayscale;
     font-size: 2.8rem;
     margin-top: 7px;
-    color: #043249
+    color: #0e1728
 }
 #uc-sv-main-wrapper #uc-sv-content-container #uc-sv-left-panel .uc-sv-module-idea-wrapper .uc-sv-module-voting .uc-sv-module-voting-votenow span {
     padding-top: 2px;
-    color: #043249
+    color: #0e1728
 }
 #uc-sv-main-wrapper #uc-sv-content-container #uc-sv-left-panel .uc-sv-module-idea-wrapper .uc-sv-module-voting a.uc-sv-click-votenow {
-    background: #043249;
+    background: #0e1728;
     font-family: "amsiregular", sans-serif;
     font-weight: normal;
     width: 75%
@@ -7227,11 +7227,11 @@ input[type="radio"] + label:empty:before {
     -moz-osx-font-smoothing: grayscale;
     font-size: 2.2rem;
     margin-top: 7px;
-    color: #043249
+    color: #0e1728
 }
 #uc-sv-main-wrapper #uc-sv-content-container #uc-sv-left-panel .uc-sv-module-idea-wrapper .uc-sv-module-voting .uc-sv-module-voting-like span {
     padding-top: 7px;
-    color: #043249
+    color: #0e1728
 }
 #uc-sv-main-wrapper #uc-sv-content-container #uc-sv-left-panel .uc-sv-module-idea-wrapper .uc-sv-module-voting .uc-sv-module-voting-dislike {
     background: none
@@ -7246,14 +7246,14 @@ input[type="radio"] + label:empty:before {
     -moz-osx-font-smoothing: grayscale;
     font-size: 2.2rem;
     margin-top: 7px;
-    color: #043249
+    color: #0e1728
 }
 #uc-sv-main-wrapper #uc-sv-content-container #uc-sv-left-panel .uc-sv-module-idea-wrapper .uc-sv-module-voting .uc-sv-module-voting-dislike span {
     padding-top: 7px;
-    color: #043249
+    color: #0e1728
 }
 #uc-sv-main-wrapper #uc-sv-content-container #uc-sv-left-panel .uc-sv-module-idea-wrapper .uc-sv-module-voting a.uc-sv-click-like-dislike {
-    background: #043249;
+    background: #0e1728;
     font-family: "amsiregular", sans-serif;
     font-weight: normal;
     width: 75%
@@ -7270,7 +7270,7 @@ input[type="radio"] + label:empty:before {
     font-size: 1.6rem;
     font-family: "amsibold", sans-serif;
     font-weight: normal;
-    color: #043249;
+    color: #0e1728;
     text-transform: capitalize
 }
 #uc-sv-main-wrapper #uc-sv-content-container #uc-sv-left-panel .uc-sv-module-idea-wrapper .uc-sv-module-more .uc-sv-comments {
@@ -7306,11 +7306,11 @@ input[type="radio"] + label:empty:before {
     font-family: "amsibold", sans-serif;
     font-weight: normal;
     margin-bottom: 15px;
-    color: #043249;
+    color: #0e1728;
     border-radius: 0px 0px 0px 0px;
     -moz-border-radius: 0px 0px 0px 0px;
     -webkit-border-radius: 0px 0px 0px 0px;
-    border-bottom: solid 2px #043249
+    border-bottom: solid 2px #0e1728
 }
 #uc-sv-main-wrapper.digi-rep #uc-sv-content-container #uc-sv-left-panel {
     margin-top: 70px
@@ -7329,14 +7329,14 @@ input[type="radio"] + label:empty:before {
 .uc-sv-module .uc-sv-twelvecol h3 {
     font-family: "amsiregular", sans-serif;
     font-weight: normal;
-    color: #043249
+    color: #0e1728
 }
 .uc-sv-module .uc-sv-form {
     border-top: solid thin #e6e6e6
 }
 .uc-sv-module .uc-sv-form .uc-sv-back-button a {
     background: transparent;
-    color: #043249
+    color: #0e1728
 }
 .uc-sv-module .uc-sv-form ol li {
     margin-bottom: 20px
@@ -7356,7 +7356,7 @@ input[type="radio"] + label:empty:before {
     border: solid thin
 }
 .uc-sv-module .uc-sv-form .buttonLink {
-    background: #043249;
+    background: #0e1728;
     color: #fff;
     border-radius: 0;
     text-shadow: none;
@@ -7377,7 +7377,7 @@ p.inline-hints:before {
     text-rendering: auto;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    color: #043249;
+    color: #0e1728;
     margin-right: 5px
 }
 #comment_description_input textarea {
@@ -7404,13 +7404,13 @@ p.inline-hints:before {
     margin: 0;
     margin-bottom: 20px;
     margin-top: 0px;
-    border: solid thin #043249;
+    border: solid thin #0e1728;
     overflow: hidden;
-    border-bottom: solid 5px #043249
+    border-bottom: solid 5px #0e1728
 }
 #myaccount-information .tree-navigation h3, #myaccount-information .tree-navigation h1, .registration-form .tree-navigation h3, .registration-form .tree-navigation h1, .contentContainer .tree-navigation h3, .contentContainer .tree-navigation h1, #uc-volunteer-reg-form-container .tree-navigation h3, #uc-volunteer-reg-form-container .tree-navigation h1 {
     font-size: 2rem;
-    border-bottom: solid thin #043249;
+    border-bottom: solid thin #0e1728;
     margin: 15px 0;
     padding-bottom: 15px;
     font-family: "amsibold", sans-serif;
@@ -7419,7 +7419,7 @@ p.inline-hints:before {
     padding-left: 25px
 }
 #myaccount-information .tree-navigation ul li.selected, .registration-form .tree-navigation ul li.selected, .contentContainer .tree-navigation ul li.selected, #uc-volunteer-reg-form-container .tree-navigation ul li.selected {
-    background: #043249
+    background: #0e1728
 }
 #myaccount-information .tree-navigation ul li a, #myaccount-information .tree-navigation ul li#my_details a, .registration-form .tree-navigation ul li a, .registration-form .tree-navigation ul li#my_details a, .contentContainer .tree-navigation ul li a, .contentContainer .tree-navigation ul li#my_details a, #uc-volunteer-reg-form-container .tree-navigation ul li a, #uc-volunteer-reg-form-container .tree-navigation ul li#my_details a {
     padding: 5px 10px;
@@ -7468,7 +7468,7 @@ p.inline-hints:before {
 }
 #myaccount-information #uc-volunteer-reg-form-container .formtastic .inputs ol li input[type=text], #myaccount-information #uc-volunteer-reg-form-container .formtastic .inputs ol li input[type=password], #myaccount-information .uc-vol-reg-form-wrapper input[type=text], #myaccount-information .uc-vol-reg-form-wrapper input[type=password], .registration-form #uc-volunteer-reg-form-container .formtastic .inputs ol li input[type=text], .registration-form #uc-volunteer-reg-form-container .formtastic .inputs ol li input[type=password], .registration-form .uc-vol-reg-form-wrapper input[type=text], .registration-form .uc-vol-reg-form-wrapper input[type=password], .contentContainer #uc-volunteer-reg-form-container .formtastic .inputs ol li input[type=text], .contentContainer #uc-volunteer-reg-form-container .formtastic .inputs ol li input[type=password], .contentContainer .uc-vol-reg-form-wrapper input[type=text], .contentContainer .uc-vol-reg-form-wrapper input[type=password], #uc-volunteer-reg-form-container #uc-volunteer-reg-form-container .formtastic .inputs ol li input[type=text], #uc-volunteer-reg-form-container #uc-volunteer-reg-form-container .formtastic .inputs ol li input[type=password], #uc-volunteer-reg-form-container .uc-vol-reg-form-wrapper input[type=text], #uc-volunteer-reg-form-container .uc-vol-reg-form-wrapper input[type=password] {
     background: transparent;
-    border: solid thin #043249
+    border: solid thin #0e1728
 }
 #myaccount-information .uc-vol-reg-form-wrapper li.uc-vol-same-home-add input, .registration-form .uc-vol-reg-form-wrapper li.uc-vol-same-home-add input, .contentContainer .uc-vol-reg-form-wrapper li.uc-vol-same-home-add input, #uc-volunteer-reg-form-container .uc-vol-reg-form-wrapper li.uc-vol-same-home-add input {
     opacity: 1
@@ -7476,7 +7476,7 @@ p.inline-hints:before {
 #myaccount-information .ninecol, .registration-form .ninecol, .contentContainer .ninecol, #uc-volunteer-reg-form-container .ninecol {
     width: 75%;
     margin-left: 2%;
-    background: #fcf6e6;
+    background: #ffffff;
     margin-top: 0px;
     overflow: hidden;
     margin-bottom: 25px
@@ -7515,7 +7515,7 @@ p.inline-hints:before {
     border-radius: 0px 0px 0px 0px;
     -moz-border-radius: 0px 0px 0px 0px;
     -webkit-border-radius: 0px 0px 0px 0px;
-    background: #043249;
+    background: #0e1728;
     border-width: 0px;
     color: #ffffff;
     cursor: pointer;
@@ -7575,7 +7575,7 @@ p.inline-hints:before {
     border-radius: 0px 0px 0px 0px;
     -moz-border-radius: 0px 0px 0px 0px;
     -webkit-border-radius: 0px 0px 0px 0px;
-    background: #043249;
+    background: #0e1728;
     border-width: 0px;
     color: #ffffff;
     cursor: pointer;
@@ -7652,7 +7652,7 @@ p.inline-hints:before {
 #myaccount-information .ninecol.uc-vol-edit-profile .uc-profile-section-wrapper .uc-vol-profile-title-mobile, .registration-form .ninecol.uc-vol-edit-profile .uc-profile-section-wrapper .uc-vol-profile-title-mobile, .contentContainer .ninecol.uc-vol-edit-profile .uc-profile-section-wrapper .uc-vol-profile-title-mobile, #uc-volunteer-reg-form-container .ninecol.uc-vol-edit-profile .uc-profile-section-wrapper .uc-vol-profile-title-mobile {
     font-family: "amsibold", sans-serif;
     font-weight: normal;
-    color: #043249
+    color: #0e1728
 }
 #myaccount-information .ninecol.uc-vol-edit-profile .uc-profile-section-wrapper .uc-vol-profile-section-desc, #myaccount-information .ninecol.uc-vol-edit-profile .uc-profile-section-wrapper .uc-vol-mandatory-text, #myaccount-information .ninecol.uc-vol-edit-profile .uc-profile-section-wrapper .uc-availibility-section-title, .registration-form .ninecol.uc-vol-edit-profile .uc-profile-section-wrapper .uc-vol-profile-section-desc, .registration-form .ninecol.uc-vol-edit-profile .uc-profile-section-wrapper .uc-vol-mandatory-text, .registration-form .ninecol.uc-vol-edit-profile .uc-profile-section-wrapper .uc-availibility-section-title, .contentContainer .ninecol.uc-vol-edit-profile .uc-profile-section-wrapper .uc-vol-profile-section-desc, .contentContainer .ninecol.uc-vol-edit-profile .uc-profile-section-wrapper .uc-vol-mandatory-text, .contentContainer .ninecol.uc-vol-edit-profile .uc-profile-section-wrapper .uc-availibility-section-title, #uc-volunteer-reg-form-container .ninecol.uc-vol-edit-profile .uc-profile-section-wrapper .uc-vol-profile-section-desc, #uc-volunteer-reg-form-container .ninecol.uc-vol-edit-profile .uc-profile-section-wrapper .uc-vol-mandatory-text, #uc-volunteer-reg-form-container .ninecol.uc-vol-edit-profile .uc-profile-section-wrapper .uc-availibility-section-title {
     font-family: "amsiregular", sans-serif;
@@ -7708,7 +7708,7 @@ p.inline-hints:before {
     border-radius: 0px 0px 0px 0px;
     -moz-border-radius: 0px 0px 0px 0px;
     -webkit-border-radius: 0px 0px 0px 0px;
-    background: #043249;
+    background: #0e1728;
     border-width: 0px;
     color: #ffffff;
     cursor: pointer;
@@ -7728,7 +7728,7 @@ p.inline-hints:before {
     border-radius: 0px 0px 0px 0px;
     -moz-border-radius: 0px 0px 0px 0px;
     -webkit-border-radius: 0px 0px 0px 0px;
-    background: #043249;
+    background: #0e1728;
     border-width: 0px;
     color: #ffffff;
     cursor: pointer;
@@ -7825,7 +7825,7 @@ p.inline-hints:before {
     margin-right: 7px
 }
 #myaccount-information .ninecol .tableRow .share-social-media .uc-share-links, .registration-form .ninecol .tableRow .share-social-media .uc-share-links, .contentContainer .ninecol .tableRow .share-social-media .uc-share-links, #uc-volunteer-reg-form-container .ninecol .tableRow .share-social-media .uc-share-links {
-    background: #043249;
+    background: #0e1728;
     border-radius: 0px 0px 0px 0px;
     -moz-border-radius: 0px 0px 0px 0px;
     -webkit-border-radius: 0px 0px 0px 0px;
@@ -7847,7 +7847,7 @@ p.inline-hints:before {
     margin-right: 10px
 }
 #myaccount-information .ninecol .tableRow .share-social-media .uc-share-link-options, .registration-form .ninecol .tableRow .share-social-media .uc-share-link-options, .contentContainer .ninecol .tableRow .share-social-media .uc-share-link-options, #uc-volunteer-reg-form-container .ninecol .tableRow .share-social-media .uc-share-link-options {
-    background: #043249;
+    background: #0e1728;
     top: 20px;
     border-radius: 0px 0px 0px 0px;
     -moz-border-radius: 0px 0px 0px 0px;
@@ -7888,7 +7888,7 @@ p.inline-hints:before {
     margin-right: 5px
 }
 #myaccount-information .ninecol .tableRow.tableHeaderRow, .registration-form .ninecol .tableRow.tableHeaderRow, .contentContainer .ninecol .tableRow.tableHeaderRow, #uc-volunteer-reg-form-container .ninecol .tableRow.tableHeaderRow {
-    background: #043249
+    background: #0e1728
 }
 #myaccount-information .ninecol .tableRow.tableHeaderRow div[class^='col'], .registration-form .ninecol .tableRow.tableHeaderRow div[class^='col'], .contentContainer .ninecol .tableRow.tableHeaderRow div[class^='col'], #uc-volunteer-reg-form-container .ninecol .tableRow.tableHeaderRow div[class^='col'] {
     padding: 10px 4px
@@ -7900,7 +7900,7 @@ p.inline-hints:before {
     border-radius: 0px 0px 0px 0px;
     -moz-border-radius: 0px 0px 0px 0px;
     -webkit-border-radius: 0px 0px 0px 0px;
-    background: #043249;
+    background: #0e1728;
     border-width: 0px;
     color: #ffffff;
     cursor: pointer;
@@ -7924,14 +7924,14 @@ p.inline-hints:before {
     font-size: 1.8rem;
     border-bottom: solid thin #e6e6e6;
     padding-bottom: 10px;
-    color: #043249
+    color: #0e1728
 }
 #myaccount-information .ninecol .uc-vol-profile-tab-content, .registration-form .ninecol .uc-vol-profile-tab-content, .contentContainer .ninecol .uc-vol-profile-tab-content, #uc-volunteer-reg-form-container .ninecol .uc-vol-profile-tab-content {
     margin: 0px
 }
 #myaccount-information .ninecol .uc-vol-profile-tab-content .uc-vol-tab-links, .registration-form .ninecol .uc-vol-profile-tab-content .uc-vol-tab-links, .contentContainer .ninecol .uc-vol-profile-tab-content .uc-vol-tab-links, #uc-volunteer-reg-form-container .ninecol .uc-vol-profile-tab-content .uc-vol-tab-links {
     padding: 10px;
-    background: #043249;
+    background: #0e1728;
     padding-left: 20px
 }
 #myaccount-information .ninecol .uc-vol-profile-tab-content .uc-vol-tab-links a, .registration-form .ninecol .uc-vol-profile-tab-content .uc-vol-tab-links a, .contentContainer .ninecol .uc-vol-profile-tab-content .uc-vol-tab-links a, #uc-volunteer-reg-form-container .ninecol .uc-vol-profile-tab-content .uc-vol-tab-links a {
@@ -7949,7 +7949,7 @@ p.inline-hints:before {
     text-rendering: auto;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    color: #043249;
+    color: #0e1728;
     margin-right: 5px;
     color: #fff;
     position: absolute;
@@ -7970,7 +7970,7 @@ p.inline-hints:before {
     border-radius: 0px 0px 0px 0px;
     -moz-border-radius: 0px 0px 0px 0px;
     -webkit-border-radius: 0px 0px 0px 0px;
-    background: #043249;
+    background: #0e1728;
     border-width: 0px;
     color: #ffffff;
     cursor: pointer;
@@ -8002,10 +8002,10 @@ p.inline-hints:before {
     -moz-border-radius: 0 0px 0 0px;
     -webkit-border-radius: 0 0px 0 0px;
     overflow: hidden;
-    border: solid 2px #043249
+    border: solid 2px #0e1728
 }
 #myaccount-information .ninecol .uc-vol-profile-tab-content #basic-details .uc-basic-details h2 a, .registration-form .ninecol .uc-vol-profile-tab-content #basic-details .uc-basic-details h2 a, .contentContainer .ninecol .uc-vol-profile-tab-content #basic-details .uc-basic-details h2 a, #uc-volunteer-reg-form-container .ninecol .uc-vol-profile-tab-content #basic-details .uc-basic-details h2 a {
-    background-color: #043249;
+    background-color: #0e1728;
     font-family: "amsiregular", sans-serif;
     font-weight: normal;
     font-size: 2.2rem;
@@ -8021,10 +8021,10 @@ p.inline-hints:before {
     -moz-border-radius: 0 0px 0 0px;
     -webkit-border-radius: 0 0px 0 0px;
     overflow: hidden;
-    border: solid 2px #043249
+    border: solid 2px #0e1728
 }
 #myaccount-information .ninecol .uc-vol-profile-tab-content #basic-details .uc-additional-details h2 a, .registration-form .ninecol .uc-vol-profile-tab-content #basic-details .uc-additional-details h2 a, .contentContainer .ninecol .uc-vol-profile-tab-content #basic-details .uc-additional-details h2 a, #uc-volunteer-reg-form-container .ninecol .uc-vol-profile-tab-content #basic-details .uc-additional-details h2 a {
-    background-color: #043249;
+    background-color: #0e1728;
     font-family: "amsiregular", sans-serif;
     font-weight: normal;
     font-size: 2.2rem;
@@ -8110,7 +8110,7 @@ p.inline-hints:before {
     border-radius: 0px 0px 0px 0px;
     -moz-border-radius: 0px 0px 0px 0px;
     -webkit-border-radius: 0px 0px 0px 0px;
-    background: #043249;
+    background: #0e1728;
     border-width: 0px;
     color: #ffffff;
     cursor: pointer;
@@ -8129,7 +8129,7 @@ p.inline-hints:before {
     padding: 0
 }
 #myaccount-information .ninecol .portletTitles h2, .registration-form .ninecol .portletTitles h2, .contentContainer .ninecol .portletTitles h2, #uc-volunteer-reg-form-container .ninecol .portletTitles h2 {
-    background: #043249;
+    background: #0e1728;
     color: #fff;
     padding: 20px;
     font-size: 2rem;
@@ -8172,13 +8172,13 @@ p.inline-hints:before {
     margin-right: 10px
 }
 #myaccount-information .ninecol .uc-bulk-ticket-wrapper .uc-bulk-ticket-row .uc-bulk-ticket-row-wrapper .bulk-ticket-quantity-bought h4, .registration-form .ninecol .uc-bulk-ticket-wrapper .uc-bulk-ticket-row .uc-bulk-ticket-row-wrapper .bulk-ticket-quantity-bought h4, .contentContainer .ninecol .uc-bulk-ticket-wrapper .uc-bulk-ticket-row .uc-bulk-ticket-row-wrapper .bulk-ticket-quantity-bought h4, #uc-volunteer-reg-form-container .ninecol .uc-bulk-ticket-wrapper .uc-bulk-ticket-row .uc-bulk-ticket-row-wrapper .bulk-ticket-quantity-bought h4 {
-    background: #043249;
+    background: #0e1728;
     color: #fff;
     font-size: 1.6rem;
     padding: 10px
 }
 #myaccount-information .ninecol .uc-bulk-ticket-wrapper .uc-bulk-ticket-row .uc-bulk-ticket-row-wrapper strong, .registration-form .ninecol .uc-bulk-ticket-wrapper .uc-bulk-ticket-row .uc-bulk-ticket-row-wrapper strong, .contentContainer .ninecol .uc-bulk-ticket-wrapper .uc-bulk-ticket-row .uc-bulk-ticket-row-wrapper strong, #uc-volunteer-reg-form-container .ninecol .uc-bulk-ticket-wrapper .uc-bulk-ticket-row .uc-bulk-ticket-row-wrapper strong {
-    color: #043249
+    color: #0e1728
 }
 #myaccount-information .ninecol .uc-bulk-ticket-wrapper .uc-bulk-ticket-row .purchased-on, #myaccount-information .ninecol .uc-bulk-ticket-wrapper .uc-bulk-ticket-row .event-collected-on, #myaccount-information .ninecol .uc-bulk-ticket-wrapper .uc-bulk-ticket-row .event-ticket-price, #myaccount-information .ninecol .uc-bulk-ticket-wrapper .uc-bulk-ticket-row .event-bought-for, .registration-form .ninecol .uc-bulk-ticket-wrapper .uc-bulk-ticket-row .purchased-on, .registration-form .ninecol .uc-bulk-ticket-wrapper .uc-bulk-ticket-row .event-collected-on, .registration-form .ninecol .uc-bulk-ticket-wrapper .uc-bulk-ticket-row .event-ticket-price, .registration-form .ninecol .uc-bulk-ticket-wrapper .uc-bulk-ticket-row .event-bought-for, .contentContainer .ninecol .uc-bulk-ticket-wrapper .uc-bulk-ticket-row .purchased-on, .contentContainer .ninecol .uc-bulk-ticket-wrapper .uc-bulk-ticket-row .event-collected-on, .contentContainer .ninecol .uc-bulk-ticket-wrapper .uc-bulk-ticket-row .event-ticket-price, .contentContainer .ninecol .uc-bulk-ticket-wrapper .uc-bulk-ticket-row .event-bought-for, #uc-volunteer-reg-form-container .ninecol .uc-bulk-ticket-wrapper .uc-bulk-ticket-row .purchased-on, #uc-volunteer-reg-form-container .ninecol .uc-bulk-ticket-wrapper .uc-bulk-ticket-row .event-collected-on, #uc-volunteer-reg-form-container .ninecol .uc-bulk-ticket-wrapper .uc-bulk-ticket-row .event-ticket-price, #uc-volunteer-reg-form-container .ninecol .uc-bulk-ticket-wrapper .uc-bulk-ticket-row .event-bought-for {
     padding: 2% 2% 0 2%;
@@ -8203,13 +8203,13 @@ p.inline-hints:before {
     -webkit-box-shadow: 0px 0px 1px rgba(0, 0, 0, 0.4);
     -moz-box-shadow: 0px 0px 1px rgba(0, 0, 0, 0.4);
     box-shadow: 0px 0px 1px rgba(0, 0, 0, 0.4);
-    background: #043249;
+    background: #0e1728;
     border-radius: 0px 0px 0px 0px;
     -moz-border-radius: 0px 0px 0px 0px;
     -webkit-border-radius: 0px 0px 0px 0px
 }
 #myaccount-information .ninecol .event-ticket-number-details .event-ticket-details-wrapper, .registration-form .ninecol .event-ticket-number-details .event-ticket-details-wrapper, .contentContainer .ninecol .event-ticket-number-details .event-ticket-details-wrapper, #uc-volunteer-reg-form-container .ninecol .event-ticket-number-details .event-ticket-details-wrapper {
-    background: #fcf6e6;
+    background: #ffffff;
     margin: 1px 3px 0;
     border-radius: 0px 0px 0px 0px;
     -moz-border-radius: 0px 0px 0px 0px;
@@ -8244,7 +8244,7 @@ p.inline-hints:before {
 }
 #myaccount-information .ninecol .event-ticket-number-details .event-ticket-details-wrapper .event-title .action a.printButton, .registration-form .ninecol .event-ticket-number-details .event-ticket-details-wrapper .event-title .action a.printButton, .contentContainer .ninecol .event-ticket-number-details .event-ticket-details-wrapper .event-title .action a.printButton, #uc-volunteer-reg-form-container .ninecol .event-ticket-number-details .event-ticket-details-wrapper .event-title .action a.printButton {
     float: right;
-    background: #043249;
+    background: #0e1728;
     border-radius: 0px 0px 0px 0px;
     -moz-border-radius: 0px 0px 0px 0px;
     -webkit-border-radius: 0px 0px 0px 0px;
@@ -8285,7 +8285,7 @@ p.inline-hints:before {
     clear: left
 }
 #myaccount-information .ninecol .event-ticket-number-details .event-ticket-details-wrapper .event-title .action .share-social-media .share-social-media-wrapper .uc-share-links, .registration-form .ninecol .event-ticket-number-details .event-ticket-details-wrapper .event-title .action .share-social-media .share-social-media-wrapper .uc-share-links, .contentContainer .ninecol .event-ticket-number-details .event-ticket-details-wrapper .event-title .action .share-social-media .share-social-media-wrapper .uc-share-links, #uc-volunteer-reg-form-container .ninecol .event-ticket-number-details .event-ticket-details-wrapper .event-title .action .share-social-media .share-social-media-wrapper .uc-share-links {
-    background: #043249;
+    background: #0e1728;
     border-radius: 0px 0px 0px 0px;
     -moz-border-radius: 0px 0px 0px 0px;
     -webkit-border-radius: 0px 0px 0px 0px;
@@ -8311,7 +8311,7 @@ p.inline-hints:before {
     margin-right: 10px
 }
 #myaccount-information .ninecol .event-ticket-number-details .event-ticket-details-wrapper .event-title .action .share-social-media .share-social-media-wrapper .uc-share-link-options, .registration-form .ninecol .event-ticket-number-details .event-ticket-details-wrapper .event-title .action .share-social-media .share-social-media-wrapper .uc-share-link-options, .contentContainer .ninecol .event-ticket-number-details .event-ticket-details-wrapper .event-title .action .share-social-media .share-social-media-wrapper .uc-share-link-options, #uc-volunteer-reg-form-container .ninecol .event-ticket-number-details .event-ticket-details-wrapper .event-title .action .share-social-media .share-social-media-wrapper .uc-share-link-options {
-    background: #043249;
+    background: #0e1728;
     top: 20px;
     border-radius: 0px 0px 0px 0px;
     -moz-border-radius: 0px 0px 0px 0px;
@@ -8379,14 +8379,14 @@ p.inline-hints:before {
     margin: 0
 }
 #myaccount-information .ninecol .portlet .title h1, .registration-form .ninecol .portlet .title h1, .contentContainer .ninecol .portlet .title h1, #uc-volunteer-reg-form-container .ninecol .portlet .title h1 {
-    background: #043249;
+    background: #0e1728;
     color: #fff;
     padding: 20px;
     font-size: 2rem;
     margin: 0
 }
 #myaccount-information .ninecol .portlet h1, .registration-form .ninecol .portlet h1, .contentContainer .ninecol .portlet h1, #uc-volunteer-reg-form-container .ninecol .portlet h1 {
-    background: #043249;
+    background: #0e1728;
     color: #fff;
     padding: 20px;
     font-size: 2rem
@@ -8404,7 +8404,7 @@ p.inline-hints:before {
     font-size: 1.8rem;
     border-bottom: solid thin #e6e6e6;
     padding-bottom: 10px;
-    color: #043249
+    color: #0e1728
 }
 #myaccount-information .ninecol .portlet .vol-timesheet-listing .vol-timesheet-block, .registration-form .ninecol .portlet .vol-timesheet-listing .vol-timesheet-block, .contentContainer .ninecol .portlet .vol-timesheet-listing .vol-timesheet-block, #uc-volunteer-reg-form-container .ninecol .portlet .vol-timesheet-listing .vol-timesheet-block {
     font-family: "amsiregular", sans-serif;
@@ -8425,7 +8425,7 @@ p.inline-hints:before {
     font-family: "amsiregular", sans-serif;
     font-weight: normal;
     margin-bottom: 15px;
-    color: #043249
+    color: #0e1728
 }
 #myaccount-information .ninecol .portlet .vol-timesheet-listing .vol-timesheet-block .vol-ts-dated, .registration-form .ninecol .portlet .vol-timesheet-listing .vol-timesheet-block .vol-ts-dated, .contentContainer .ninecol .portlet .vol-timesheet-listing .vol-timesheet-block .vol-ts-dated, #uc-volunteer-reg-form-container .ninecol .portlet .vol-timesheet-listing .vol-timesheet-block .vol-ts-dated {
     width: 50%
@@ -8468,7 +8468,7 @@ p.inline-hints:before {
     padding: 0
 }
 #myaccount-information .ninecol .portlet .vol-timesheet-listing .vol-timesheet-block .vol-ts-action-links .show-timesheet a, .registration-form .ninecol .portlet .vol-timesheet-listing .vol-timesheet-block .vol-ts-action-links .show-timesheet a, .contentContainer .ninecol .portlet .vol-timesheet-listing .vol-timesheet-block .vol-ts-action-links .show-timesheet a, #uc-volunteer-reg-form-container .ninecol .portlet .vol-timesheet-listing .vol-timesheet-block .vol-ts-action-links .show-timesheet a {
-    background: #043249;
+    background: #0e1728;
     border-radius: 0px 0px 0px 0px;
     -moz-border-radius: 0px 0px 0px 0px;
     -webkit-border-radius: 0px 0px 0px 0px;
@@ -8496,7 +8496,7 @@ p.inline-hints:before {
     width: auto
 }
 #myaccount-information .ninecol .portlet .vol-timesheet-listing .vol-timesheet-block .vol-ts-action-links .edit-timesheet a, .registration-form .ninecol .portlet .vol-timesheet-listing .vol-timesheet-block .vol-ts-action-links .edit-timesheet a, .contentContainer .ninecol .portlet .vol-timesheet-listing .vol-timesheet-block .vol-ts-action-links .edit-timesheet a, #uc-volunteer-reg-form-container .ninecol .portlet .vol-timesheet-listing .vol-timesheet-block .vol-ts-action-links .edit-timesheet a {
-    background: #043249;
+    background: #0e1728;
     border-radius: 0px 0px 0px 0px;
     -moz-border-radius: 0px 0px 0px 0px;
     -webkit-border-radius: 0px 0px 0px 0px;
@@ -8538,7 +8538,7 @@ p.inline-hints:before {
     -moz-box-shadow: 1px 1px 1px #949599;
     -webkit-box-shadow: 1px 1px 1px #949599;
     box-shadow: 1px 1px 1px #949599;
-    background: #043249;
+    background: #0e1728;
     border-width: 0px;
     color: #ffffff;
     cursor: pointer;
@@ -8552,7 +8552,7 @@ p.inline-hints:before {
     padding: 15px
 }
 #myaccount-information .ninecol .portlet .tab-container .etabs, .registration-form .ninecol .portlet .tab-container .etabs, .contentContainer .ninecol .portlet .tab-container .etabs, #uc-volunteer-reg-form-container .ninecol .portlet .tab-container .etabs {
-    background: #043249;
+    background: #0e1728;
     color: #fff;
     margin-top: 0;
     min-height: 46px
@@ -8584,11 +8584,11 @@ p.inline-hints:before {
     -moz-border-radius: 0 0px 0 0px;
     -webkit-border-radius: 0 0px 0 0px;
     overflow: hidden;
-    border: solid 2px #043249;
+    border: solid 2px #0e1728;
     margin-bottom: 20px
 }
 #myaccount-information .ninecol .portlet .contentBoxes .uc-current-nominations h2 a, #myaccount-information .ninecol .portlet .contentBoxes .uc-past-nominations h2 a, .registration-form .ninecol .portlet .contentBoxes .uc-current-nominations h2 a, .registration-form .ninecol .portlet .contentBoxes .uc-past-nominations h2 a, .contentContainer .ninecol .portlet .contentBoxes .uc-current-nominations h2 a, .contentContainer .ninecol .portlet .contentBoxes .uc-past-nominations h2 a, #uc-volunteer-reg-form-container .ninecol .portlet .contentBoxes .uc-current-nominations h2 a, #uc-volunteer-reg-form-container .ninecol .portlet .contentBoxes .uc-past-nominations h2 a {
-    background-color: #043249;
+    background-color: #0e1728;
     font-family: "amsiregular", sans-serif;
     font-weight: normal;
     font-size: 2.2rem;
@@ -8605,7 +8605,7 @@ p.inline-hints:before {
 }
 #myaccount-information .ninecol .portlet .contentBoxes table thead th, .registration-form .ninecol .portlet .contentBoxes table thead th, .contentContainer .ninecol .portlet .contentBoxes table thead th, #uc-volunteer-reg-form-container .ninecol .portlet .contentBoxes table thead th {
     padding: 10px;
-    background-color: #043249;
+    background-color: #0e1728;
     color: #fff
 }
 #myaccount-information .ninecol .portlet .contentBoxes table tbody th, .registration-form .ninecol .portlet .contentBoxes table tbody th, .contentContainer .ninecol .portlet .contentBoxes table tbody th, #uc-volunteer-reg-form-container .ninecol .portlet .contentBoxes table tbody th {
@@ -8617,7 +8617,7 @@ p.inline-hints:before {
 }
 #myaccount-information .ninecol .portlet .order-search legend, .registration-form .ninecol .portlet .order-search legend, .contentContainer .ninecol .portlet .order-search legend, #uc-volunteer-reg-form-container .ninecol .portlet .order-search legend {
     background: none;
-    background: #043249;
+    background: #0e1728;
     color: #fff
 }
 #myaccount-information .ninecol .portlet .order-search legend > span, .registration-form .ninecol .portlet .order-search legend > span, .contentContainer .ninecol .portlet .order-search legend > span, #uc-volunteer-reg-form-container .ninecol .portlet .order-search legend > span {
@@ -8652,8 +8652,8 @@ p.inline-hints:before {
 }
 #myaccount-information .ninecol .portlet .order-search .search-order-form .button-row input.reset, .registration-form .ninecol .portlet .order-search .search-order-form .button-row input.reset, .contentContainer .ninecol .portlet .order-search .search-order-form .button-row input.reset, #uc-volunteer-reg-form-container .ninecol .portlet .order-search .search-order-form .button-row input.reset {
     background: #efefef;
-    color: #043249;
-    border: solid thin #043249
+    color: #0e1728;
+    border: solid thin #0e1728
 }
 #myaccount-information .ninecol .portlet .order-search .search-order-form .button-row .share-social-media, .registration-form .ninecol .portlet .order-search .search-order-form .button-row .share-social-media, .contentContainer .ninecol .portlet .order-search .search-order-form .button-row .share-social-media, #uc-volunteer-reg-form-container .ninecol .portlet .order-search .search-order-form .button-row .share-social-media {
     display: none
@@ -8667,7 +8667,7 @@ p.inline-hints:before {
 }
 #myaccount-information .ninecol .portlet .order-search input[type='text'], .registration-form .ninecol .portlet .order-search input[type='text'], .contentContainer .ninecol .portlet .order-search input[type='text'], #uc-volunteer-reg-form-container .ninecol .portlet .order-search input[type='text'] {
     width: calc(100% - 165px);
-    border: solid 2px #043249;
+    border: solid 2px #0e1728;
     padding: 10px 0
 }
 #myaccount-information .ninecol .portlet .order-grid, .registration-form .ninecol .portlet .order-grid, .contentContainer .ninecol .portlet .order-grid, #uc-volunteer-reg-form-container .ninecol .portlet .order-grid {
@@ -8677,7 +8677,7 @@ p.inline-hints:before {
     background: transparent
 }
 #myaccount-information .ninecol .portlet .order-grid .wice-grid tr th, .registration-form .ninecol .portlet .order-grid .wice-grid tr th, .contentContainer .ninecol .portlet .order-grid .wice-grid tr th, #uc-volunteer-reg-form-container .ninecol .portlet .order-grid .wice-grid tr th {
-    background: #043249;
+    background: #0e1728;
     color: #fff;
     padding: 10px 5px
 }
@@ -8692,7 +8692,7 @@ p.inline-hints:before {
     color: #333
 }
 #myaccount-information .ninecol .portlet .contentBoxes #groupSubscriptions, .registration-form .ninecol .portlet .contentBoxes #groupSubscriptions, .contentContainer .ninecol .portlet .contentBoxes #groupSubscriptions, #uc-volunteer-reg-form-container .ninecol .portlet .contentBoxes #groupSubscriptions {
-    background-color: #fcf6e6;
+    background-color: #ffffff;
     margin: 10px
 }
 #myaccount-information .ninecol .portlet .contentBoxes #groupSubscriptions h2, .registration-form .ninecol .portlet .contentBoxes #groupSubscriptions h2, .contentContainer .ninecol .portlet .contentBoxes #groupSubscriptions h2, #uc-volunteer-reg-form-container .ninecol .portlet .contentBoxes #groupSubscriptions h2 {
@@ -8709,7 +8709,7 @@ p.inline-hints:before {
 }
 #myaccount-information .ninecol .portlet .contentBoxes #eventSubscriptions, .registration-form .ninecol .portlet .contentBoxes #eventSubscriptions, .contentContainer .ninecol .portlet .contentBoxes #eventSubscriptions, #uc-volunteer-reg-form-container .ninecol .portlet .contentBoxes #eventSubscriptions {
     margin: 12px;
-    background-color: #fcf6e6
+    background-color: #ffffff
 }
 #myaccount-information .ninecol .portlet .contentBoxes .smalltext, .registration-form .ninecol .portlet .contentBoxes .smalltext, .contentContainer .ninecol .portlet .contentBoxes .smalltext, #uc-volunteer-reg-form-container .ninecol .portlet .contentBoxes .smalltext {
     padding: 10px
@@ -8725,7 +8725,7 @@ p.inline-hints:before {
     border-radius: 0px 0px 0px 0px;
     -moz-border-radius: 0px 0px 0px 0px;
     -webkit-border-radius: 0px 0px 0px 0px;
-    background: #043249;
+    background: #0e1728;
     border-width: 0px;
     color: #ffffff;
     cursor: pointer;
@@ -8750,7 +8750,7 @@ p.inline-hints:before {
     width: calc(32% - 30px)
 }
 .evo-index > #uc-election-summary.fourcol .uc-elec-summary-wrapper h2, .evo-vote-now > #uc-election-summary.fourcol .uc-elec-summary-wrapper h2 {
-    color: #043249;
+    color: #0e1728;
     font-size: 2.2rem;
     margin-bottom: 15px;
     font-family: "amsiregular", sans-serif;
@@ -8758,20 +8758,20 @@ p.inline-hints:before {
     text-transform: capitalize
 }
 .evo-index > #uc-election-summary.fourcol .uc-elec-summary-wrapper .uc-election-status h3, .evo-vote-now > #uc-election-summary.fourcol .uc-elec-summary-wrapper .uc-election-status h3 {
-    background: #043249;
+    background: #0e1728;
     color: #fff;
     border-radius: 0px 0px 0px 0px;
     -moz-border-radius: 0px 0px 0px 0px;
     -webkit-border-radius: 0px 0px 0px 0px
 }
 .evo-index > #uc-election-summary.fourcol .uc-elec-summary-wrapper .uc-election-status .uc-pending-status, .evo-index > #uc-election-summary.fourcol .uc-elec-summary-wrapper .uc-election-status .uc-completed-status, .evo-index > #uc-election-summary.fourcol .uc-elec-summary-wrapper .uc-election-status .uc-total-status, .evo-vote-now > #uc-election-summary.fourcol .uc-elec-summary-wrapper .uc-election-status .uc-pending-status, .evo-vote-now > #uc-election-summary.fourcol .uc-elec-summary-wrapper .uc-election-status .uc-completed-status, .evo-vote-now > #uc-election-summary.fourcol .uc-elec-summary-wrapper .uc-election-status .uc-total-status {
-    border: solid 2px #043249;
+    border: solid 2px #0e1728;
     border-radius: 0 0 0 0px;
     -moz-border-radius: 0 0 0 0px;
     -webkit-border-radius: 0 0 0 0px
 }
 .evo-index > #uc-election-summary.fourcol .uc-elec-summary-wrapper .uc-election-status .uc-pending-status .election-count, .evo-index > #uc-election-summary.fourcol .uc-elec-summary-wrapper .uc-election-status .uc-pending-status .candidate-count, .evo-index > #uc-election-summary.fourcol .uc-elec-summary-wrapper .uc-election-status .uc-completed-status .election-count, .evo-index > #uc-election-summary.fourcol .uc-elec-summary-wrapper .uc-election-status .uc-completed-status .candidate-count, .evo-index > #uc-election-summary.fourcol .uc-elec-summary-wrapper .uc-election-status .uc-total-status .election-count, .evo-index > #uc-election-summary.fourcol .uc-elec-summary-wrapper .uc-election-status .uc-total-status .candidate-count, .evo-vote-now > #uc-election-summary.fourcol .uc-elec-summary-wrapper .uc-election-status .uc-pending-status .election-count, .evo-vote-now > #uc-election-summary.fourcol .uc-elec-summary-wrapper .uc-election-status .uc-pending-status .candidate-count, .evo-vote-now > #uc-election-summary.fourcol .uc-elec-summary-wrapper .uc-election-status .uc-completed-status .election-count, .evo-vote-now > #uc-election-summary.fourcol .uc-elec-summary-wrapper .uc-election-status .uc-completed-status .candidate-count, .evo-vote-now > #uc-election-summary.fourcol .uc-elec-summary-wrapper .uc-election-status .uc-total-status .election-count, .evo-vote-now > #uc-election-summary.fourcol .uc-elec-summary-wrapper .uc-election-status .uc-total-status .candidate-count {
-    color: #043249
+    color: #0e1728
 }
 .evo-index > #uc-election-summary.fourcol .uc-elec-summary-wrapper .uc-election-status .uc-total-status, .evo-vote-now > #uc-election-summary.fourcol .uc-elec-summary-wrapper .uc-election-status .uc-total-status {
     margin-bottom: 0px
@@ -8798,7 +8798,7 @@ p.inline-hints:before {
     -webkit-border-radius: 0px 0px 0px 0px
 }
 .evo-index > .eightcol .uc-election-wrapper h3, .evo-vote-now > .eightcol .uc-election-wrapper h3 {
-    color: #043249
+    color: #0e1728
 }
 .evo-index > .eightcol .uc-election-wrapper:last-child, .evo-vote-now > .eightcol .uc-election-wrapper:last-child {
     margin-bottom: 0
@@ -8870,7 +8870,7 @@ p.inline-hints:before {
     text-rendering: auto;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    color: #043249;
+    color: #0e1728;
     margin-right: 10px
 }
 .evo-index > .eightcol .uc-election-wrapper .toggle-category.collapsed:before, .evo-vote-now > .eightcol .uc-election-wrapper .toggle-category.collapsed:before {
@@ -8881,11 +8881,11 @@ p.inline-hints:before {
     text-rendering: auto;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    color: #043249;
+    color: #0e1728;
     margin-right: 10px
 }
 .evo-index > .eightcol .uc-election-wrapper .uc-position-listing .uc-positions, .evo-vote-now > .eightcol .uc-election-wrapper .uc-position-listing .uc-positions {
-    background: #043249;
+    background: #0e1728;
     color: #ffffff;
     border-radius: 0 0 0 0;
     -moz-border-radius: 0 0 0 0;
@@ -8908,13 +8908,13 @@ p.inline-hints:before {
 .evo-index > .eightcol .uc-election-wrapper .uc-position-listing .uc-positions .uc-position-content-wrapper .uc-position-details, .evo-vote-now > .eightcol .uc-election-wrapper .uc-position-listing .uc-positions .uc-position-content-wrapper .uc-position-details {
     padding: 10px;
     background: #ffffff;
-    border: solid 2px #043249;
+    border: solid 2px #0e1728;
     border-radius: 0px 0px 0px 0px;
     -moz-border-radius: 0px 0px 0px 0px;
     -webkit-border-radius: 0px 0px 0px 0px
 }
 .evo-index > .eightcol .uc-election-wrapper .uc-position-listing .uc-positions .uc-position-content-wrapper .uc-position-details h4, .evo-vote-now > .eightcol .uc-election-wrapper .uc-position-listing .uc-positions .uc-position-content-wrapper .uc-position-details h4 {
-    background: #043249;
+    background: #0e1728;
     border-radius: 0 0 0 0;
     -moz-border-radius: 0 0 0 0;
     -webkit-border-radius: 0 0 0 0;
@@ -8939,7 +8939,7 @@ p.inline-hints:before {
 }
 .evo-index > .eightcol .uc-election-wrapper .uc-position-listing .uc-positions .uc-position-content-wrapper .uc-position-details .uc-candidates-content .uc-candidate-listing .uc-can-wrapper .uc-can-manifesto-link a, .evo-vote-now > .eightcol .uc-election-wrapper .uc-position-listing .uc-positions .uc-position-content-wrapper .uc-position-details .uc-candidates-content .uc-candidate-listing .uc-can-wrapper .uc-can-manifesto-link a {
     text-decoration: none;
-    color: #043249
+    color: #0e1728
 }
 .evo-index > .eightcol .uc-election-wrapper .uc-position-listing .uc-positions .uc-position-content-wrapper .uc-position-details .uc-candidates-content .uc-candidate-listing .uc-can-wrapper .uc-can-manifesto-link a:before, .evo-vote-now > .eightcol .uc-election-wrapper .uc-position-listing .uc-positions .uc-position-content-wrapper .uc-position-details .uc-candidates-content .uc-candidate-listing .uc-can-wrapper .uc-can-manifesto-link a:before {
     content: "\f06e";
@@ -8949,7 +8949,7 @@ p.inline-hints:before {
     text-rendering: auto;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    color: #043249;
+    color: #0e1728;
     margin-right: 10px
 }
 .evo-index > .eightcol .uc-election-wrapper .uc-position-listing .uc-position-button, .evo-vote-now > .eightcol .uc-election-wrapper .uc-position-listing .uc-position-button {
@@ -8963,7 +8963,7 @@ p.inline-hints:before {
     font-weight: normal;
     background-position: 0 0;
     padding: 5px 15px;
-    background-color: #043249;
+    background-color: #0e1728;
     text-decoration: none;
     display: block;
     margin: 10px auto;
@@ -8990,7 +8990,7 @@ p.inline-hints:before {
     font-size: 17px
 }
 .evo-vote-now .uc-select-candidates {
-    border: solid 2px #043249;
+    border: solid 2px #0e1728;
     border-radius: 0px 0px 0px 0px;
     -moz-border-radius: 0px 0px 0px 0px;
     -webkit-border-radius: 0px 0px 0px 0px;
@@ -8998,7 +8998,7 @@ p.inline-hints:before {
     border-top: 0
 }
 .evo-vote-now .uc-select-candidates h4 {
-    background: #043249;
+    background: #0e1728;
     border-radius: 0 0 0 0;
     -moz-border-radius: 0 0 0 0;
     -webkit-border-radius: 0 0 0 0;
@@ -9016,7 +9016,7 @@ p.inline-hints:before {
     font-weight: normal;
     background-position: 0 0;
     padding: 5px 15px;
-    background-color: #043249;
+    background-color: #0e1728;
     text-decoration: none;
     display: block;
     margin: 10px auto;
@@ -9046,7 +9046,7 @@ p.inline-hints:before {
 }
 #uc-eshop-module .uc-eshop-qnty-listing .uc-eshop-qnty-block .uc-eshop-qnty-print-block ul input.text-description {
     background: transparent;
-    border: solid thin #043249
+    border: solid thin #0e1728
 }
 #e-shop {
     margin: 0
@@ -9057,7 +9057,7 @@ p.inline-hints:before {
 }
 #e-shop .left-panel-navigation h2 {
     background: none;
-    color: #043249;
+    color: #0e1728;
     font-family: "amsibold", sans-serif;
     font-weight: normal;
     text-transform: uppercase;
@@ -9104,23 +9104,23 @@ p.inline-hints:before {
     float: right
 }
 #e-shop .left-panel-navigation .product-category-navigation ul > li.has-menu.active {
-    background: #fcf6e6 !important
+    background: #ffffff !important
 }
 #e-shop .left-panel-navigation .product-category-navigation ul > li.has-menu.active > a {
     background: none
 }
 #e-shop .left-panel-navigation .product-category-navigation ul > li.has-menu.active > a:after {
-    color: #043249
+    color: #0e1728
 }
 #e-shop .left-panel-navigation .product-category-navigation ul > li.has-menu.active > a span {
-    color: #043249
+    color: #0e1728
 }
 #e-shop .left-panel-navigation .product-category-navigation ul > li.has-menu.active .hover-menu {
     left: 100% !important;
-    background: #fcf6e6
+    background: #ffffff
 }
 #e-shop .left-panel-navigation .product-category-navigation ul > li.has-menu.active .hover-menu ul li.active {
-    background: #fcf6e6 !important;
+    background: #ffffff !important;
     font-family: "amsibold", sans-serif;
     font-weight: normal;
     color: #fda50d
@@ -9132,7 +9132,7 @@ p.inline-hints:before {
     text-indent: 5px
 }
 #e-shop .left-panel-navigation .product-category-navigation .tab-set {
-    background: #fcf6e6;
+    background: #ffffff;
     height: 46px
 }
 #e-shop .product-details-page .product-details-panel {
@@ -9141,7 +9141,7 @@ p.inline-hints:before {
     box-shadow: 0px 0px 1px rgba(0, 0, 0, 0.4);
     background: transparent;
     margin-bottom: 20px;
-    border-top: solid 5px #043249;
+    border-top: solid 5px #0e1728;
     padding: 0px 15px 15px 15px;
     width: 98%
 }
@@ -9186,7 +9186,7 @@ p.inline-hints:before {
     margin-top: 2px
 }
 #e-shop .product-details-page .product-details-panel .product-gallery #product-images-wrapper .original-product-image a.selected-image img {
-    border: solid 3px #043249;
+    border: solid 3px #0e1728;
     border-radius: 0 0 0 0;
     -moz-border-radius: 0 0 0 0;
     -webkit-border-radius: 0 0 0 0
@@ -9213,7 +9213,7 @@ p.inline-hints:before {
     font-weight: normal;
     margin-top: 15px;
     margin-bottom: 10px;
-    color: #043249;
+    color: #0e1728;
     border-bottom: 0
 }
 #e-shop .product-details-page .product-details-panel .product-details-description .product-content p {
@@ -9229,7 +9229,7 @@ p.inline-hints:before {
 #e-shop .product-details-page .product-details-panel .product-information .product-name .price-product {
     width: 150px;
     background-image: none;
-    background-color: #043249;
+    background-color: #0e1728;
     padding: 15px 15px 5px;
     top: 0px
 }
@@ -9242,7 +9242,7 @@ p.inline-hints:before {
     height: 0;
     border-left: 90px solid transparent;
     border-right: 90px solid transparent;
-    border-top: 18px solid #043249;
+    border-top: 18px solid #0e1728;
     clear: both
 }
 #e-shop .product-details-page .product-details-panel .product-information .product-name .price-product:before {
@@ -9261,7 +9261,7 @@ p.inline-hints:before {
     font-size: 2.8rem;
     width: 100%;
     font-family: "amsibold", sans-serif;
-    color: #043249
+    color: #0e1728
 }
 #e-shop .product-details-page .product-details-panel .product-information .product-name p {
     font-size: 1.5rem;
@@ -9371,11 +9371,11 @@ p.inline-hints:before {
 #e-shop .product-details-page .product-details-panel .product-information .product-quantity .quantity-wrapper input {
     height: 35px;
     padding-bottom: 5px;
-    border: solid thin #043249;
-    background: #fcf6e6
+    border: solid thin #0e1728;
+    background: #ffffff
 }
 #e-shop .product-details-page .product-details-panel .product-information .product-buy .check-return-policy {
-    color: #043249;
+    color: #0e1728;
     font-family: "amsiregular", sans-serif;
     font-weight: normal
 }
@@ -9388,7 +9388,7 @@ p.inline-hints:before {
     color: #ffffff;
     background-position: 0 0;
     padding: 10px 10px 10px 50px;
-    background-color: #043249;
+    background-color: #0e1728;
     position: relative;
     background-image: none;
     font-family: "amsiregular", sans-serif;
@@ -9444,7 +9444,7 @@ p.inline-hints:before {
     border-radius: 0 0 0 0;
     -moz-border-radius: 0 0 0 0;
     -webkit-border-radius: 0 0 0 0;
-    background: url("https://nusdigital.s3.amazonaws.com/image/images/400976/original/icon_sprite.png") no-repeat scroll center left #043249;
+    background: url("https://nusdigital.s3.amazonaws.com/image/images/400976/original/icon_sprite.png") no-repeat scroll center left #0e1728;
     background-position: 4px -27px
 }
 #e-shop .right-panel-product-listing .noUi-handle-lower .price-display, #e-shop .right-panel-product-listing .noUi-handle-upper .price-display {
@@ -9487,7 +9487,7 @@ p.inline-hints:before {
     font-weight: normal;
     padding: 6px;
     background: none;
-    background: #fcf6e6
+    background: #ffffff
 }
 #e-shop .right-panel-product-listing .product-filter-controls .sort-control .sort-component a.select-option:after {
     content: "\f0d7";
@@ -9506,7 +9506,7 @@ p.inline-hints:before {
     -webkit-box-shadow: 0px 0px 1px rgba(0, 0, 0, 0.4);
     -moz-box-shadow: 0px 0px 1px rgba(0, 0, 0, 0.4);
     box-shadow: 0px 0px 1px rgba(0, 0, 0, 0.4);
-    background: #fcf6e6;
+    background: #ffffff;
     border: 0
 }
 #e-shop .right-panel-product-listing .product-filter-controls .sort-control .sort-component .sort-options ul li {
@@ -9530,7 +9530,7 @@ p.inline-hints:before {
 }
 #e-shop .right-panel-product-listing .product-filter-controls .sort-control .sort-component .sort-options ul li.selected:before {
     content: "\f05d";
-    color: #043249
+    color: #0e1728
 }
 #e-shop .right-panel-product-listing .product-filter-controls .size-control {
     width: 100%
@@ -9549,7 +9549,7 @@ p.inline-hints:before {
     font-family: "amsiregular", sans-serif;
     font-weight: normal;
     padding: 6px;
-    background: #fcf6e6
+    background: #ffffff
 }
 #e-shop .right-panel-product-listing .product-filter-controls .size-control .sort-component a.select-option:after {
     content: "\f0d7";
@@ -9568,7 +9568,7 @@ p.inline-hints:before {
     -webkit-box-shadow: 0px 0px 1px rgba(0, 0, 0, 0.4);
     -moz-box-shadow: 0px 0px 1px rgba(0, 0, 0, 0.4);
     box-shadow: 0px 0px 1px rgba(0, 0, 0, 0.4);
-    background: #fcf6e6;
+    background: #ffffff;
     border: 0
 }
 #e-shop .right-panel-product-listing .product-filter-controls .size-control .sort-component .sort-options ul li label {
@@ -9594,7 +9594,7 @@ p.inline-hints:before {
 }
 #e-shop .right-panel-product-listing .product-filter-controls .size-control .sort-component .sort-options ul li label.selected:before {
     content: "\f05d";
-    color: #043249
+    color: #0e1728
 }
 #e-shop .right-panel-product-listing .product-filter-controls .colour-control {
     width: 100%
@@ -9603,7 +9603,7 @@ p.inline-hints:before {
     -webkit-box-shadow: 0px 0px 1px rgba(0, 0, 0, 0.4);
     -moz-box-shadow: 0px 0px 1px rgba(0, 0, 0, 0.4);
     box-shadow: 0px 0px 1px rgba(0, 0, 0, 0.4);
-    background: #fcf6e6;
+    background: #ffffff;
     border: 0;
     padding: 0px;
     right: 0
@@ -9613,7 +9613,7 @@ p.inline-hints:before {
     font-family: "amsiregular", sans-serif;
     font-weight: normal;
     padding: 6px;
-    background: #fcf6e6
+    background: #ffffff
 }
 #e-shop .right-panel-product-listing .product-filter-controls .colour-control .sort-component a.select-option:after {
     content: "\f0d7";
@@ -9632,7 +9632,7 @@ p.inline-hints:before {
     -webkit-box-shadow: 0px 0px 1px rgba(0, 0, 0, 0.4);
     -moz-box-shadow: 0px 0px 1px rgba(0, 0, 0, 0.4);
     box-shadow: 0px 0px 1px rgba(0, 0, 0, 0.4);
-    background: #fcf6e6;
+    background: #ffffff;
     border: 0
 }
 #e-shop .right-panel-product-listing .product-filter-controls .price-control {
@@ -9644,7 +9644,7 @@ p.inline-hints:before {
     -webkit-box-shadow: 0px 0px 1px rgba(0, 0, 0, 0.4);
     -moz-box-shadow: 0px 0px 1px rgba(0, 0, 0, 0.4);
     box-shadow: 0px 0px 1px rgba(0, 0, 0, 0.4);
-    background: #fcf6e6;
+    background: #ffffff;
     border: 0;
     padding: 20px
 }
@@ -9659,7 +9659,7 @@ p.inline-hints:before {
 }
 #e-shop .right-panel-product-listing .product-filter-controls .price-control .price-wrapper #min_price, #e-shop .right-panel-product-listing .product-filter-controls .price-control .price-wrapper #max_price {
     padding: 6px 3px;
-    background: #fcf6e6;
+    background: #ffffff;
     font-size: 1.4rem
 }
 #e-shop .right-panel-product-listing .product-filter-selected {
@@ -9670,7 +9670,7 @@ p.inline-hints:before {
     padding: 10px
 }
 #e-shop .right-panel-product-listing .product-filter-selected .options-selected .option-size {
-    color: #043249;
+    color: #0e1728;
     overflow: hidden
 }
 #e-shop .right-panel-product-listing .product-filter-selected .options-selected .option-size .size-selected label {
@@ -9695,7 +9695,7 @@ p.inline-hints:before {
     margin-top: -2px
 }
 #e-shop .right-panel-product-listing .product-filter-selected .options-selected .option-colour {
-    color: #043249;
+    color: #0e1728;
     overflow: hidden
 }
 #e-shop .right-panel-product-listing .product-filter-selected .options-selected .option-colour .colour-selected label {
@@ -9719,8 +9719,8 @@ p.inline-hints:before {
     margin-top: -2px
 }
 #e-shop .right-panel-product-listing .product-filter-selected .clear-filter-button .clear-filter {
-    background-color: #043249;
-    background: url("https://nusdigital.s3.amazonaws.com/image/images/400976/original/icon_sprite.png") no-repeat scroll center left #043249;
+    background-color: #0e1728;
+    background: url("https://nusdigital.s3.amazonaws.com/image/images/400976/original/icon_sprite.png") no-repeat scroll center left #0e1728;
     background-position: 3px -56px;
     border-radius: 0 0 0 0;
     -moz-border-radius: 0 0 0 0;
@@ -9829,7 +9829,7 @@ p.inline-hints:before {
     overflow: hidden
 }
 .uc-customer-quick-login h2.uc-page-heading {
-    background: #043249
+    background: #0e1728
 }
 .uc-customer-quick-login .uc-customer-quick-login-wrapper {
     background: #ffffff
@@ -9858,14 +9858,14 @@ p.inline-hints:before {
     font-weight: normal;
     background-position: 0 0;
     padding: 10px 15px 10px 15px;
-    background: #043249;
+    background: #0e1728;
     border-radius: 0 0px 0px 0px;
     -moz-border-radius: 0 0px 0px 0px;
     -webkit-border-radius: 0 0px 0px 0px;
     outline: 0
 }
 .uc-customer-quick-login .threecol .uc-cart-details h2 {
-    background: #043249;
+    background: #0e1728;
     margin-top: 10px;
     padding: 10px
 }
@@ -9881,9 +9881,9 @@ input:focus {
 }
 .cart-delivery-mode {
     background: transparent;
-    -webkit-box-shadow: 0px 0px 1px #043249;
-    -moz-box-shadow: 0px 0px 1px #043249;
-    box-shadow: 0px 0px 1px #043249;
+    -webkit-box-shadow: 0px 0px 1px #0e1728;
+    -moz-box-shadow: 0px 0px 1px #0e1728;
+    box-shadow: 0px 0px 1px #0e1728;
     margin-bottom: 25px;
     padding: 25px
 }
@@ -9902,9 +9902,9 @@ input:focus {
 }
 .cart-delivery-mode .my-cart-details {
     background: transparent;
-    -webkit-box-shadow: 0px 0px 1px #043249;
-    -moz-box-shadow: 0px 0px 1px #043249;
-    box-shadow: 0px 0px 1px #043249;
+    -webkit-box-shadow: 0px 0px 1px #0e1728;
+    -moz-box-shadow: 0px 0px 1px #0e1728;
+    box-shadow: 0px 0px 1px #0e1728;
     border: 0
 }
 .cart-delivery-mode .my-cart-details * {
@@ -9912,7 +9912,7 @@ input:focus {
     font-weight: normal
 }
 .cart-delivery-mode .my-cart-details h3 {
-    background: #043249;
+    background: #0e1728;
     font-size: 1.6rem;
     padding: 10px;
     color: #ffffff
@@ -9928,7 +9928,7 @@ input:focus {
     padding: 10px
 }
 .cart-delivery-mode .shipping-address .address-form h3, .cart-delivery-mode .shipping-address .address-form .link-button {
-    color: #043249;
+    color: #0e1728;
     font-family: "amsiregular", sans-serif;
     font-weight: normal
 }
@@ -9953,10 +9953,10 @@ input:focus {
 .cart-delivery-mode .shipping-address .address-navigation a {
     padding: 6px 9px;
     background-color: transparent;
-    border: solid thin #043249
+    border: solid thin #0e1728
 }
 .cart-delivery-mode .shipping-address .address-navigation a.active_page {
-    background: #043249
+    background: #0e1728
 }
 .cart-delivery-mode .shipping-address .new-user-address .inputs {
     border-top: 0;
@@ -9983,7 +9983,7 @@ input:focus {
 .uc-payment-page .uc-payment-page-title {
     font-family: "amsiregular", sans-serif;
     font-weight: normal;
-    background: #043249
+    background: #0e1728
 }
 .uc-payment-page .uc-select-method-wrapper a.selected.page {
     line-height: 20px;
@@ -9996,15 +9996,15 @@ input:focus {
 .uc-payment-page #payment-form {
     font-family: "amsiregular", sans-serif;
     font-weight: normal;
-    -webkit-box-shadow: 0px 0px 1px #043249;
-    -moz-box-shadow: 0px 0px 1px #043249;
-    box-shadow: 0px 0px 1px #043249;
+    -webkit-box-shadow: 0px 0px 1px #0e1728;
+    -moz-box-shadow: 0px 0px 1px #0e1728;
+    box-shadow: 0px 0px 1px #0e1728;
     border-radius: 0px 0px 0px 0px;
     -moz-border-radius: 0px 0px 0px 0px;
     -webkit-border-radius: 0px 0px 0px 0px
 }
 .saveproceed-button {
-    background: #043249;
+    background: #0e1728;
     color: #fff;
     padding: 6px 15px 9px;
     border-radius: 0px 0px 0px 0px;
@@ -10040,7 +10040,7 @@ input:focus {
     -moz-border-radius: 0px 0px 0px 0px;
     -webkit-border-radius: 0px 0px 0px 0px;
     overflow: hidden;
-    border-bottom: solid 5px #043249
+    border-bottom: solid 5px #0e1728
 }
 #uc-join-group .ninecol {
     width: 75%;
@@ -10077,13 +10077,13 @@ input:focus {
 }
 #vol-organisation-container .formtastic .inputs ol li input[type=text], #vol-organisation-container .formtastic .inputs ol li input[type=password] {
     background: transparent;
-    border: solid thin #043249
+    border: solid thin #0e1728
 }
 #vol-organisation-container .uc-org-configure-logo {
     background: transparent
 }
 #vol-organisation-container .uc-apply-button {
-    background: #043249;
+    background: #0e1728;
     border-radius: 0;
     float: right;
     box-shadow: none;
@@ -10104,13 +10104,13 @@ input:focus {
 #uc-volunteer-reg-form-container .uc-apply-button {
     border-radius: 0;
     box-shadow: 0 0 0;
-    background: #043249;
+    background: #0e1728;
     float: right
 }
 #uc-volunteering #load_more_opp a {
     background: transparent;
-    border: solid 3px #043249;
-    color: #043249
+    border: solid 3px #0e1728;
+    color: #0e1728
 }
 #uc-volunteering .uc-opp-right-panel-search .uc-availability-filter-wrapper, #uc-volunteering .uc-opp-right-panel-search .uc-date-filter, #uc-volunteering .uc-opp-right-panel-search .uc-availability-filter, #uc-volunteering .uc-opp-right-panel-search .uc-area-int-filter, #uc-volunteering .uc-opp-right-panel-search .uc-int-act-filter, #uc-volunteering .uc-opp-right-panel-search .uc-skills-gained-filter, #uc-volunteering .uc-opp-right-panel-search .uc-req-skills-filter, #uc-volunteering .uc-opp-right-panel-search .uc-date-int-filter-wrapper, #uc-volunteering .uc-opp-right-panel-search .uc-area-int-filter-wrapper, #uc-volunteering .uc-opp-right-panel-search .uc-int-act-filter-wrapper, #uc-volunteering .uc-opp-right-panel-search .uc-skills-gained-filter-wrapper, #uc-volunteering .uc-opp-right-panel-search .uc-req-skills-filter-wrapper {
     background: transparent;
@@ -10122,21 +10122,21 @@ input:focus {
     font-weight: normal
 }
 #uc-volunteering .uc-opp-right-panel-search .uc-opp-right-panel-search-wrapper {
-    background-color: #fcf6e6;
-    -webkit-box-shadow: 0px 0px 0px #043249;
-    -moz-box-shadow: 0px 0px 0px #043249;
-    box-shadow: 0px 0px 0px #043249;
-    border: solid thin #043249;
+    background-color: #ffffff;
+    -webkit-box-shadow: 0px 0px 0px #0e1728;
+    -moz-box-shadow: 0px 0px 0px #0e1728;
+    box-shadow: 0px 0px 0px #0e1728;
+    border: solid thin #0e1728;
     border-radius: 0px 0px 0px 0px;
     -moz-border-radius: 0px 0px 0px 0px;
     -webkit-border-radius: 0px 0px 0px 0px;
-    border-bottom: solid 5px #043249;
+    border-bottom: solid 5px #0e1728;
     margin: 10px;
     z-index: 9
 }
 #uc-volunteering .uc-opp-right-panel-search .uc-opp-right-panel-search-wrapper h2.heading {
     background: none;
-    color: #043249;
+    color: #0e1728;
     font-family: "amsibold", sans-serif;
     font-weight: normal;
     text-transform: uppercase;
@@ -10165,12 +10165,12 @@ input:focus {
     border-radius: 0 0px 0 0;
     -moz-border-radius: 0 0px 0 0;
     -webkit-border-radius: 0 0px 0 0;
-    background: url("https://nusdigital.s3.amazonaws.com/image/images/400976/original/icon_sprite.png") no-repeat scroll center left #043249;
+    background: url("https://nusdigital.s3.amazonaws.com/image/images/400976/original/icon_sprite.png") no-repeat scroll center left #0e1728;
     background-position: 4px -27px
 }
 #uc-volunteering .uc-opp-right-panel-search .uc-opp-right-panel-search-wrapper .uc-search-opportunity .clear-button {
-    background-color: #043249;
-    background: url("https://nusdigital.s3.amazonaws.com/image/images/400976/original/icon_sprite.png") no-repeat scroll center left #043249;
+    background-color: #0e1728;
+    background: url("https://nusdigital.s3.amazonaws.com/image/images/400976/original/icon_sprite.png") no-repeat scroll center left #0e1728;
     background-position: 3px -56px;
     border-radius: 0 0 0 0;
     -moz-border-radius: 0 0 0 0;
@@ -10184,7 +10184,7 @@ input:focus {
     color: #fff;
     font-weight: normal;
     font-size: 1.8rem;
-    background: #043249;
+    background: #0e1728;
     padding: 15px;
     border-bottom: 0
 }
@@ -10257,7 +10257,7 @@ input:focus {
     margin-top: 10px
 }
 #uc-volunteering .uc-opp-left-panel-navigation .uc-opp-left-panel-navigation-wrapper .uc-result-count {
-    color: #043249;
+    color: #0e1728;
     font-family: "amsibold", sans-serif;
     font-weight: normal;
     font-size: 3.2rem;
@@ -10279,10 +10279,10 @@ input:focus {
     display: none
 }
 #uc-volunteering .uc-opp-left-panel-navigation .uc-opp-left-panel-navigation-wrapper .uc-opp-listing-wrapper .uc-opp-block {
-    background-color: #fcf6e6;
-    -webkit-box-shadow: 0px 0px 1px #043249;
-    -moz-box-shadow: 0px 0px 1px #043249;
-    box-shadow: 0px 0px 1px #043249;
+    background-color: #ffffff;
+    -webkit-box-shadow: 0px 0px 1px #0e1728;
+    -moz-box-shadow: 0px 0px 1px #0e1728;
+    box-shadow: 0px 0px 1px #0e1728;
     overflow: hidden;
     border: 0;
     width: 30%;
@@ -10315,14 +10315,14 @@ input:focus {
     font-family: "amsibold", sans-serif;
     font-weight: normal;
     font-size: 2rem;
-    color: #043249
+    color: #0e1728
 }
 #uc-volunteering .uc-opp-left-panel-navigation .uc-opp-left-panel-navigation-wrapper .uc-opp-listing-wrapper .uc-opp-block .uc-opportunity-min-commit-level {
     margin: 10px;
     box-shadow: 0 0 0;
     border-radius: 0;
     color: #fff;
-    background: #043249
+    background: #0e1728
 }
 #uc-volunteering .uc-opp-left-panel-navigation .uc-opp-left-panel-navigation-wrapper .uc-opp-listing-wrapper .uc-opp-block .uc-opportunity-aoi {
     font-size: 1.6rem
@@ -10334,7 +10334,7 @@ input:focus {
 #uc-volunteering .uc-opp-left-panel-navigation .uc-opp-left-panel-navigation-wrapper .uc-opp-listing-wrapper .uc-opp-block .uc-opportunity-read-more a {
     width: 100%;
     height: 30px;
-    background: #043249;
+    background: #0e1728;
     text-indent: 10px;
     color: #ffffff;
     text-decoration: none;
@@ -10356,7 +10356,7 @@ input:focus {
     font-weight: normal;
     background-position: 0 0;
     padding: 12px;
-    background-color: #043249;
+    background-color: #0e1728;
     position: relative;
     background-image: none;
     font-family: "amsiregular", sans-serif;
@@ -10366,7 +10366,7 @@ input:focus {
     -webkit-border-radius: 0 0 0 0
 }
 #uc-vol-opp-details-page h2, #uc-vol-apply-page-successfully h2 {
-    color: #e54a4a;
+    color: #31c5f4;
     font-size: 2.2rem
 }
 #uc-vol-opp-details-page .uc-opp-back-button-link :before, #uc-vol-apply-page-successfully .uc-opp-back-button-link :before {
@@ -10378,7 +10378,7 @@ input:focus {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     font-size: 30px;
-    color: #043249
+    color: #0e1728
 }
 .row .evo-group-widget {
     margin-bottom: 15px
@@ -10388,7 +10388,7 @@ input:focus {
     font-weight: normal;
     background-position: 0 0;
     padding: 10px 20px;
-    background-color: #043249;
+    background-color: #0e1728;
     text-decoration: none;
     display: block;
     margin: 10px auto;
@@ -10476,7 +10476,7 @@ input:focus {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     font-size: 30px;
-    color: #043249
+    color: #0e1728
 }
 .row .uc-widget-volunteering-opportunities-container .jcarousel-next-vertical {
     height: 30px;
@@ -10496,7 +10496,7 @@ input:focus {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     font-size: 30px;
-    color: #043249
+    color: #0e1728
 }
 .row .uc-widget-volunteering-opportunities-container .uc-widget-volunteering-opportunities-list li {
     border: 0;
@@ -10526,7 +10526,7 @@ input:focus {
     font-weight: normal
 }
 .row .uc-widget-volunteering-opportunities-container .uc-widget-volunteering-more-link a {
-    color: #043249;
+    color: #0e1728;
     font-family: "amsibold", sans-serif;
     font-weight: normal
 }
@@ -10534,7 +10534,7 @@ input:focus {
     top: 15px
 }
 .uc-toolbar-position .uc-toolbar-wrapper-before .uc-toolbar-settings-icon {
-    background: #043249;
+    background: #0e1728;
     border-radius: 0px 0px 0px 0px;
     -moz-border-radius: 0px 0px 0px 0px;
     -webkit-border-radius: 0px 0px 0px 0px;
@@ -10560,7 +10560,7 @@ input:focus {
     margin-left: 4px
 }
 .uc-toolbar-position .uc-toolbar-wrapper-before .uc-toolbar-settings-icon-cross {
-    background: #043249;
+    background: #0e1728;
     border-radius: 0px 0px 0px 0px;
     -moz-border-radius: 0px 0px 0px 0px;
     -webkit-border-radius: 0px 0px 0px 0px;
@@ -10596,14 +10596,14 @@ input:focus {
 .uc-toolbar-position .uc-toolbar-wrapper-before .uc-toolbar-wrapper .uc-toolbar-heading {
     font-family: "amsibold", sans-serif;
     font-weight: normal;
-    color: #043249
+    color: #0e1728
 }
 .uc-toolbar-position .uc-toolbar-wrapper-before .uc-toolbar-wrapper .blue-text3, .uc-toolbar-position .uc-toolbar-wrapper-before .uc-toolbar-wrapper .blue-text2 {
-    color: #043249;
+    color: #0e1728;
     border-bottom: 1px solid #d4d4d4
 }
 .uc-toolbar-position .uc-toolbar-wrapper-before .uc-toolbar-wrapper #toolbar-accordian .ui-state-default {
-    background: #043249;
+    background: #0e1728;
     padding: 10px;
     outline: 0;
     border: 0
@@ -10635,23 +10635,23 @@ input:focus {
 .uc-toolbar-position .uc-toolbar-wrapper-before .uc-toolbar-wrapper .ui-accordion-content h3 {
     font-family: "amsibold", sans-serif;
     font-weight: normal;
-    color: #043249
+    color: #0e1728
 }
 .uc-toolbar-position .uc-toolbar-wrapper-before .uc-toolbar-wrapper .ui-accordion-content .blue-text {
-    color: #043249
+    color: #0e1728
 }
 .uc-toolbar-position .uc-toolbar-wrapper-before .uc-toolbar-wrapper #catalog.ui-accordion-content li {
     background-image: url(/assets/images/wiswig-950b8bef139c007eb022ae1583d26ec9319b5a2063462df540342ccb039d54e7.png)
 }
 .uc-toolbar-position .toolbar-logo {
-    background-color: #043249
+    background-color: #0e1728
 }
 .uc-toolbar-position .toolbar-logo.totum-logo {
     background-image: url("/assets/default_totum_logos/site-logo-white.png")
 }
 .jqmCMSWindow {
-    border-color: #043249;
-    background: #fcf6e6
+    border-color: #0e1728;
+    background: #ffffff
 }
 .jqm-init {
     padding: 15px;
@@ -10673,7 +10673,7 @@ input:focus {
 .jqm-init.adv-cms-popup .cms-forms .uc-forms-row h4 {
     padding: 10px;
     outline: 0;
-    background: #043249
+    background: #0e1728
 }
 .jqm-init.adv-cms-popup .cms-forms .uc-forms-row h4 .ui-icon {
     display: none
@@ -10722,7 +10722,7 @@ input:focus {
     font-size: 2.4rem;
     margin-bottom: 15px;
     padding-bottom: 10px;
-    color: #043249;
+    color: #0e1728;
     border-bottom: 1px solid #E6E6E6;
     background: transparent;
     padding-bottom: 20px;
@@ -10760,7 +10760,7 @@ input:focus {
     font-weight: normal;
     background-position: 0 0;
     padding: 5px 15px;
-    background-color: #043249;
+    background-color: #0e1728;
     text-decoration: none;
     display: block;
     margin: 10px auto;
@@ -10820,7 +10820,7 @@ input:focus {
     font-size: 2.4rem;
     margin-bottom: 15px;
     padding-bottom: 10px;
-    color: #043249
+    color: #0e1728
 }
 .jqm-init .view-manifesto-details-wrapper {
     min-height: 50px;
@@ -10870,7 +10870,7 @@ span.success:before, p.success:before {
     background: transparent
 }
 .uc-share-purchases-content .tab-container .panel-container {
-    background: #fcf6e6;
+    background: #ffffff;
     padding: 15px;
     border: solid thin
 }
@@ -10966,7 +10966,7 @@ span.info:before, p.info:before, div.info:before, div#notice.info:before {
     margin-right: 0
 }
 .uc-inside-left-border-wrapper .tree-navigation-structure .page-heading-level-one h3 a {
-    color: #043249;
+    color: #0e1728;
     font-size: 2.2rem;
     background: 0;
     margin-right: 10px
@@ -11050,7 +11050,7 @@ span.info:before, p.info:before, div.info:before, div#notice.info:before {
     content: ' '
 }
 .uc-inside-left-border-wrapper .tree-navigation-structure #uc-left-navigation > li.collapsable a {
-    color: #043249
+    color: #0e1728
 }
 .uc-inside-left-border-wrapper .tree-navigation-structure #uc-left-navigation > li.collapsable ul li a.selected {
     background: #fff0c9
@@ -11107,9 +11107,9 @@ label {
 }
 select {
     background-image: -webkit-linear-gradient(top, #fefefe, #f2f2f2);
-    background-image: linear-gradient(to bottom, #fcf6e6, #fcf6e6);
+    background-image: linear-gradient(to bottom, #ffffff, #ffffff);
     padding: 10px;
-    border: 2px solid #043249
+    border: 2px solid #0e1728
 }
 input[type='text'] {
     -webkit-box-shadow: 0px 0px 1px rgba(0, 0, 0, 0.4);
@@ -11130,7 +11130,7 @@ input[type='text'] {
     margin-top: 60px
 }
 .bgprimary {
-    background: #043249;
+    background: #0e1728;
     padding-bottom: 20px
 }
 .ask-button.for-guest-only, .ask-button.for-guest-only .or-block {
@@ -11138,7 +11138,7 @@ input[type='text'] {
     background: transparent
 }
 .highlight-button, .myaccount-change-password .actions .action input, .signin-block .ask-button .highlight-button, .actions .action .update, .actions .action .button.create, .action.input_action input {
-    background: #043249;
+    background: #0e1728;
     border-radius: 0;
     box-shadow: 0 0 0;
     text-shadow: none
@@ -11153,7 +11153,7 @@ input[type='text'] {
     font-weight: normal
 }
 .uc-current-nominations-wrapper .my-nominations-grid tr {
-    background: #FCF6E6
+    background: #ffffff
 }
 #digital_rep_name {
     width: 97%
@@ -11167,13 +11167,13 @@ input[type='text'] {
 }
 .event-ticket-print .backButton {
     background: transparent;
-    color: #043249;
+    color: #0e1728;
     border: 0;
     margin-top: 0;
     padding-top: 0
 }
 .event-ticket-print .printButton {
-    background-color: #043249;
+    background-color: #0e1728;
     padding: 5px 30px;
     float: right;
     color: #fff;
@@ -11226,7 +11226,7 @@ input[type='text'] {
 }
 #uc-volunteer-reg-form-container .formtastic .inputs ol li input[type=text], #uc-volunteer-reg-form-container .formtastic .inputs ol li input[type=password] {
     background: transparent;
-    border: solid thin #043249
+    border: solid thin #0e1728
 }
 #student_user_attributes_dob_input .ui-datepicker-trigger {
     border: solid 2px;
@@ -11249,9 +11249,9 @@ input[type='text'] {
     margin-top: 5px
 }
 input.smalltext {
-    background: #fcf6e6;
-    border: 2px solid #043249;
-    color: #043249
+    background: #ffffff;
+    border: 2px solid #0e1728;
+    color: #0e1728
 }
 @media only screen and (max-width: 1290px) {
     .system-menu {
@@ -11302,7 +11302,7 @@ input.smalltext {
 }
 @media only screen and (max-width: 980px) {
     html {
-        background: #FCF6E6
+        background: #ffffff
     }
     .wrapper {
         width: 100%
@@ -11491,7 +11491,7 @@ input.smalltext {
         margin-right: 0
     }
     #resource-homepage .search-box .search-box-wrapper {
-        background: #fcf6e6
+        background: #ffffff
     }
     #memberShipDisplay .memberShipType {
         font-family: "amsiregular", sans-serif;
@@ -11652,7 +11652,7 @@ input.smalltext {
         margin-bottom: 20px
     }
     #uc-sv-nav-tab-panel #uc-sv-navigation {
-        border-bottom: solid 2px #043249;
+        border-bottom: solid 2px #0e1728;
         overflow: hidden
     }
     #uc-sv-nav-tab-panel #uc-sv-navigation li {
@@ -11665,7 +11665,7 @@ input.smalltext {
         width: 100%
     }
     #uc-sv-main-wrapper #uc-sv-nav-tab-panel #uc-sv-main-navcontainer ul li.active {
-        border-color: #043249
+        border-color: #0e1728
     }
     #e-shop .product-filter-controls .sort-control, #e-shop .product-filter-controls .size-control {
         z-index: 1000
@@ -11690,7 +11690,7 @@ input.smalltext {
         margin-right: 0px
     }
     #e-shop .product-information {
-        border-color: #043249
+        border-color: #0e1728
     }
     #e-shop .product-details-page .product-details-panel {
         width: 96%;
@@ -11748,7 +11748,7 @@ input.smalltext {
         border-bottom: solid thin #fda50d
     }
     .row .section.uc-mega-menu a.toggle-mega-menu {
-        background-color: #043249
+        background-color: #0e1728
     }
     .row .section.uc-mega-menu .uc-mega-menu-wrapper > ul {
         flex-direction: column
@@ -11781,7 +11781,7 @@ input.smalltext {
         top: 0
     }
     .phone-menu {
-        background: #043249;
+        background: #0e1728;
         color: #ffffff;
         font-family: "amsibold", sans-serif;
         font-weight: normal;
@@ -12421,7 +12421,7 @@ input.smalltext {
         width: 44.0%
     }
     .tab .ui-widget-header {
-        background: #043249
+        background: #0e1728
     }
     .ui-state-default a, .ui-state-default a:link, .ui-state-default a:visited {
         color: #c3bdbd;
@@ -12448,7 +12448,7 @@ input.smalltext {
     #uc-election-summary .voting-status-link {
         text-indent: 0;
         background: none;
-        color: #043249;
+        color: #0e1728;
         font-size: 1.6rem;
         margin-top: 1px;
         margin-left: 7px;
@@ -12462,7 +12462,7 @@ input.smalltext {
         text-rendering: auto;
         -webkit-font-smoothing: antialiased;
         -moz-osx-font-smoothing: grayscale;
-        color: #043249;
+        color: #0e1728;
         margin-bottom: 10px;
         margin-left: 10px
     }
@@ -12498,7 +12498,7 @@ input.smalltext {
         text-rendering: auto;
         -webkit-font-smoothing: antialiased;
         -moz-osx-font-smoothing: grayscale;
-        color: #043249;
+        color: #0e1728;
         margin-top: 3px;
         font-size: 28px
     }
@@ -14996,7 +14996,7 @@ input.smalltext {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     font-size: 30px;
-    color: #043249
+    color: #0e1728
 }
 #latest-articles .jcarousel-next-vertical {
     height: 30px;
@@ -15016,7 +15016,7 @@ input.smalltext {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     font-size: 30px;
-    color: #043249
+    color: #0e1728
 }
 #latest-articles .article-widget .top-articles li .article-original {
     left: 5px;
@@ -15608,8 +15608,8 @@ input.smalltext {
     margin-right: 8px
 }
 .registration-form fieldset .smalltext, input[type='email'], input[type='text'], textarea, .registration-form ol li.text textarea {
-    background: #fcf6e6;
-    border: 2px solid #043249;
-    color: #043249;
+    background: #ffffff;
+    border: 2px solid #0e1728;
+    color: #0e1728;
     font-size: 15px
 }
