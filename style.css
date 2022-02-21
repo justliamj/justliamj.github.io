@@ -29,25 +29,25 @@ table {
 }
 @font-face {
     font-family: 'amsilight';
-    src: url(/assets/uwsu_default/fonts/amsilight-e0e3ca2c3e43048d374f6f636f858ec9cb0ffceff08bdbdfaf02ab712d4f1015.woff2) format("woff2");
+    src: url("https://github.com/justliamj/justliamj.github.io/blob/main/fonts/Roboto-Light.ttf") format("ttf");
     font-weight: normal;
     font-style: normal
 }
 @font-face {
     font-family: 'amsibold';
-    src: url(/assets/uwsu_default/fonts/amsibold-b84763af9c80215436867cda0d21835cd37091dcec367deb966a28527912ca33.woff2) format("woff2");
+    src: url("https://github.com/justliamj/justliamj.github.io/blob/main/fonts/Roboto-Bold.ttf") format("ttf");
     font-weight: normal;
     font-style: normal
 }
 @font-face {
     font-family: 'amsiultra';
-    src: url(/assets/uwsu_default/fonts/amsiultra-13e63f5be16fa4894d9eab430512fcee877215d88ddad3eb0e3975d2244720fd.woff2) format("woff2");
+    src: url("https://github.com/justliamj/justliamj.github.io/blob/main/fonts/Roboto-Black.ttf") format("ttf");
     font-weight: normal;
     font-style: normal
 }
 @font-face {
     font-family: 'amsiregular';
-    src: url(/assets/uwsu_default/fonts/amsiregular-783f041914ff13781ccb091f49238f61f45a7c3f63e94eed0829b7a51030232a.woff2) format("woff2");
+    src: url("https://github.com/justliamj/justliamj.github.io/blob/main/fonts/Roboto-Regular.ttf") format("ttf");
     font-weight: normal;
     font-style: normal
 }
@@ -13628,7 +13628,7 @@ input.smalltext {
 @media screen and (-webkit-min-device-pixel-ratio: 0) {
     @font-face {
         font-family: 'lucida_granderegular';
-        src: url(/fonts/uwsu_default/fonts/lucida_grande-webfont.svg) format("svg");
+        src: url("https://github.com/justliamj/justliamj.github.io/blob/main/fonts/Roboto-Regular.ttf") format("ttf");
         font-weight: normal;
         font-style: normal
     }
