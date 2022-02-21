@@ -2057,10 +2057,10 @@ span.success, p.success {
     display: none
 }
 .uc-widget-articles .widget-four .with-image-description ul.uc-widget-articles-list li.uc-widget-article-block.uc-widget-article-one .article-content {
-    background: rgba(229, 75, 75, 0.8)
+    background: rgb(75 194 229 / 80%)
 }
 .uc-widget-articles .widget-four .with-image-description ul.uc-widget-articles-list li.uc-widget-article-block.uc-widget-article-two .article-content {
-    background: rgba(30, 66, 144, 0.8)
+    background: rgbargb(15 28 74 / 80%)
 }
 .uc-widget-articles .widget-four .with-image-description ul.uc-widget-articles-list li.uc-widget-article-block.uc-widget-article-three .article-content {
     background: rgba(253, 161, 0, 0.8)
