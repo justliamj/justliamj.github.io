@@ -276,9 +276,9 @@ a {
     border-color: #425F9E
 }
 .btn.red {
-    background: #e54b4b;
+    background: #31c5f4;
     color: #fff;
-    border-color: #e54b4b
+    border-color: #31c5f4
 }
 .bgyellow {
     background: #FDA100
@@ -598,7 +598,7 @@ html {
     text-indent: 8px
 }
 .profile-setting ul li a:hover {
-    background-color: #E54B4B
+    background-color: #31c5f4
 }
 .profile-setting .profile-name.expanded {
     background-color: #0e1728
@@ -782,7 +782,7 @@ html {
     font-weight: normal
 }
 .signIn h2, .change-password h2, .confirmation-email h2, .unlock h2 {
-    color: #DB3039;
+    color: #31c5f4;
     font-family: "amsiregular", sans-serif;
     font-weight: normal;
     padding: 10px;
@@ -853,7 +853,7 @@ span.success, p.success {
     margin: 2rem 2rem 2rem 0
 }
 .bottom, .bottom-union {
-    background: #E54B4B;
+    background: #31c5f4;
     border-top: 1px solid #eeeeee;
     margin: 20px auto 0;
     min-height: 5px
@@ -1200,7 +1200,7 @@ span.success, p.success {
 }
 .grid-carousel .two-by-two span.page-title {
     bottom: 0;
-    color: #DB3039;
+    color: #31c5f4;
     display: block;
     font-size: 3.2rem;
     left: 0;
@@ -2130,7 +2130,7 @@ span.success, p.success {
     font-family: "amsibold", sans-serif;
     font-weight: normal;
     font-size: 1.5rem;
-    color: #DB3039;
+    color: #31c5f4;
     text-transform: uppercase
 }
 .union-footer .fourcol.column-content a, .union-footer .sixcol.column-content a, .union-footer .threecol.column-content a {
@@ -2522,7 +2522,7 @@ span.success, p.success {
 .content .row .content-wrap h1 {
     color: #0e1728;
     font-family: "amsiultra", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     font-size: 3.2rem;
     background: #F3AF31;
     padding: 0px 10px 7px;
@@ -2564,7 +2564,7 @@ span.success, p.success {
     line-height: 150%
 }
 .portletTitles h2, .portletTitles h2 {
-    color: #DB3039;
+    color: #31c5f4;
     font-family: "amsiregular", sans-serif;
     font-weight: normal;
     font-size: 3.2rem
@@ -2579,14 +2579,14 @@ span.success, p.success {
     line-height: 150%
 }
 h1 span {
-    color: #DB3039;
+    color: #31c5f4;
     font-family: "amsibold", sans-serif;
     font-weight: normal;
     font-size: 2.8rem
 }
 .content .articles .articlesTitles h2 a {
     text-decoration: none;
-    color: #DB3039
+    color: #31c5f4
 }
 .content .articles .articlesTitles .time {
     font-family: "amsiregular", sans-serif;
@@ -2715,10 +2715,10 @@ h1 span {
 }
 #event-homepage #left-panel.tree-navigation ul li.selected {
     background: transparent;
-    border-bottom: solid 2px #E54B4B
+    border-bottom: solid 2px #31c5f4
 }
 #event-homepage #left-panel.tree-navigation ul li.selected a {
-    color: #E54B4B
+    color: #31c5f4
 }
 #event-homepage #right-panel {
     float: none;
@@ -3082,7 +3082,7 @@ h1 span {
     display: none
 }
 .row .contentBoxes h2, .row .contentBoxes .eventheader {
-    border-color: #db3039
+    border-color: #31c5f4
 }
 .event-details-wrapper .clubSubMenu {
     display: none
@@ -3872,7 +3872,7 @@ h1 span {
     font-family: "amsibold", sans-serif;
     font-weight: normal;
     background-color: transparent;
-    color: #DB3039;
+    color: #31c5f4;
     padding-left: 0;
     margin-left: 0
 }
@@ -3886,7 +3886,7 @@ h1 span {
 }
 .tree-navigation h3 {
     background-color: transparent;
-    color: #DB3039;
+    color: #31c5f4;
     font-family: "amsibold", sans-serif;
     font-weight: normal;
     text-transform: uppercase
@@ -3899,7 +3899,7 @@ h1 span {
     background: none repeat scroll 0 0 transparent
 }
 .contentBoxes h2 {
-    color: #DB3039;
+    color: #31c5f4;
     font-family: "amsiregular", sans-serif;
     font-weight: normal;
     padding: 10px;
@@ -3977,7 +3977,7 @@ h1 span {
     font-weight: normal;
     display: flex;
     margin-bottom: 20px;
-    color: #DB3039
+    color: #31c5f4
 }
 #event-homepage #eventpromotioncarousel:before {
     content: 'Our recommendation';
@@ -3986,7 +3986,7 @@ h1 span {
     font-weight: normal;
     display: flex;
     margin-bottom: 20px;
-    color: #DB3039
+    color: #31c5f4
 }
 #eventpromotioncarousel {
     width: 100%;
@@ -4670,17 +4670,17 @@ html ul.tabs li.active a:hover {
     opacity: 1;
     transform: scale(1);
     transition-delay: 0ms, 0ms;
-    border-bottom-color: #E54B4B
+    border-bottom-color: #31c5f4
 }
 .club-container .types-list .group-types .group-types-wrapper ul li:hover a {
-    color: #E54B4B
+    color: #31c5f4
 }
 .club-container .types-list .group-types .group-types-wrapper ul li.active {
     background: transparent;
-    border-bottom: solid 2px #E54B4B
+    border-bottom: solid 2px #31c5f4
 }
 .club-container .types-list .group-types .group-types-wrapper ul li.active a {
-    color: #E54B4B
+    color: #31c5f4
 }
 .club-container .types-list .group-types .group-types-wrapper ul a {
     text-decoration: none;
@@ -4891,7 +4891,7 @@ html ul.tabs li.active a:hover {
     color: #0e0e0e
 }
 .group-category-title h2, .group-box .group-name {
-    color: #DB3039
+    color: #31c5f4
 }
 .group-category-title h2 {
     border-width: 0;
@@ -4920,7 +4920,7 @@ html ul.tabs li.active a:hover {
     font-weight: normal;
     display: flex;
     margin-bottom: 20px;
-    color: #DB3039
+    color: #31c5f4
 }
 #grouppromotioncarousel .group-slide {
     border: 0;
@@ -5007,7 +5007,7 @@ html ul.tabs li.active a:hover {
     font-weight: normal
 }
 legend.formLegend {
-    color: #DB3039;
+    color: #31c5f4;
     font-family: "amsiregular", sans-serif;
     font-weight: normal;
     padding: 10px;
@@ -5190,7 +5190,7 @@ fieldset.group-questions-form {
 }
 .myaccount-subscription-details #groupSubscriptions h2, .myaccount-subscription-details #eventSubscriptions h2 {
     background: transparent;
-    color: #DB3039;
+    color: #31c5f4;
     font-size: 1.5rem
 }
 .myaccount-subscription-details #groupSubscriptions h3, .myaccount-subscription-details #eventSubscriptions h3 {
@@ -5210,7 +5210,7 @@ fieldset.group-questions-form {
     margin: 0 0 0 10px
 }
 #myaccount-information .portlet .title h1, .myaccount-student-details .portlet .title h1, .myaccount-change-password .portlet .title h1 {
-    color: #DB3039;
+    color: #31c5f4;
     font-family: "amsiregular", sans-serif;
     font-weight: normal;
     padding: 10px;
@@ -5255,7 +5255,7 @@ div.change-password #user_edit .formrow label {
     font-family: "amsiregular", sans-serif;
     font-weight: normal;
     background-color: transparent;
-    color: #DB3039;
+    color: #31c5f4;
     margin: 0px 0px 3px;
     border: 0 none;
     font-size: 2.4rem;
@@ -5441,7 +5441,7 @@ a.printButton {
     font-weight: normal;
     background: url("https://nusdigital.s3.amazonaws.com/image/images/400990/original/twitter_icon-067.png") no-repeat scroll 4px 4px transparent;
     border-bottom: 0 solid #e7e7e7;
-    color: #DB3039;
+    color: #31c5f4;
     display: block;
     font-size: 1.5rem;
     line-height: 1.5rem;
@@ -5474,7 +5474,7 @@ a.printButton {
     font-weight: normal;
     background: none repeat scroll 0 0 #F8F8F8;
     border-bottom: 0 solid #e7e7e7;
-    color: #DB3039;
+    color: #31c5f4;
     display: block;
     font-size: 1.5rem;
     line-height: 1.5rem;
@@ -5963,7 +5963,7 @@ div.change-password #user_edit .formrow label, .registration-form ol li.input la
     font-size: 1.5rem !important
 }
 .uc-cookie-block {
-    background: #E54B4B
+    background: #31c5f4
 }
 .uc-cookie-block .uc-cookie-block-wrapper {
     max-width: 1280px;
@@ -6211,7 +6211,7 @@ div.change-password #user_edit .formrow label, .registration-form ol li.input la
     overflow: hidden
 }
 .signin-block a {
-    color: #E54B4B
+    color: #31c5f4
 }
 .signin-block .signin-button-brinjal {
     background: #0e1728;
@@ -10025,7 +10025,7 @@ input:focus {
     font-weight: normal;
     display: flex;
     margin-bottom: 20px;
-    color: #DB3039
+    color: #31c5f4
 }
 #uc-join-group .tree-navigation {
     width: 23%;
@@ -10985,14 +10985,14 @@ span.info:before, p.info:before, div.info:before, div#notice.info:before {
     border-top: 1px solid #eac86d
 }
 .uc-inside-left-border-wrapper .tree-navigation-structure #uc-left-navigation > li {
-    border: solid 3px #1E4290;
+    border: solid 3px #0e1728;
     margin-bottom: 5px;
-    background: #1E4290;
-    display: none;
+    background: #0e1728;
+    display: inherit;
     padding: 0
 }
 .uc-inside-left-border-wrapper .tree-navigation-structure #uc-left-navigation > li.expandable {
-    display: none
+    display: inherit
 }
 .uc-inside-left-border-wrapper .tree-navigation-structure #uc-left-navigation > li.expandable .hitarea {
     background-image: none;
