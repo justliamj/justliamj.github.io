@@ -30,19 +30,19 @@ table {
 @font-face {
     font-family: 'amsilight';
     src: url("https://github.com/justliamj/justliamj.github.io/blob/main/fonts/Roboto-Light.ttf") format("ttf");
-    font-weight: normal;
+    font-weight: light;
     font-style: normal
 }
 @font-face {
     font-family: 'amsibold';
     src: url("https://github.com/justliamj/justliamj.github.io/blob/main/fonts/Roboto-Bold.ttf") format("ttf");
-    font-weight: normal;
+    font-weight: bold;
     font-style: normal
 }
 @font-face {
     font-family: 'amsiultra';
     src: url("https://github.com/justliamj/justliamj.github.io/blob/main/fonts/Roboto-Black.ttf") format("ttf");
-    font-weight: normal;
+    font-weight: 900;
     font-style: normal
 }
 @font-face {
@@ -80,7 +80,7 @@ html body {
 }
 strong {
     font-family: "amsibold", sans-serif;
-    font-weight: normal
+    font-weight: bold
 }
 em {
     font-family: "amsiregular", sans-serif;
@@ -89,7 +89,7 @@ em {
 }
 em strong, strong em {
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     font-style: italic
 }
 .accordion .page-title {
@@ -385,7 +385,7 @@ html {
     text-transform: capitalize;
     color: #0e0e0e;
     font-family: "amsibold", sans-serif;
-    font-weight: normal
+    font-weight: bold
 }
 .system-menu {
     font-family: "amsiregular", sans-serif;
@@ -675,7 +675,7 @@ html {
     min-height: 24px;
     padding: 0;
     font-family: "amsiultra", sans-serif;
-    font-weight: normal;
+    font-weight: 900;
     background-color: #0e1728
 }
 .menu.sticky {
@@ -811,7 +811,7 @@ input.button {
 }
 a.buttonLink, .choosePlan, .sign-up .buttonrow input, .confirmation-email .buttonrow input, .unlock .buttonrow input, .change-password .buttonrow input {
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     border-radius: 0px 0px 0px 0px;
     -moz-border-radius: 0px 0px 0px 0px;
     -webkit-border-radius: 0px 0px 0px 0px;
@@ -849,7 +849,7 @@ span.success, p.success {
     font-size: 2.4rem;
     color: #0e1728;
     font-family: "amsiultra", sans-serif;
-    font-weight: normal;
+    font-weight: 900;
     margin: 2rem 2rem 2rem 0
 }
 .bottom, .bottom-union {
@@ -933,7 +933,7 @@ span.success, p.success {
     font-size: 1.6rem;
     float: none;
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     padding: 0;
     line-height: 1.5rem;
     width: 148px
@@ -946,7 +946,7 @@ span.success, p.success {
     text-align: center;
     width: 168px;
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     margin-top: 10px;
     margin-bottom: 10px
 }
@@ -995,7 +995,7 @@ span.success, p.success {
     color: #222222;
     font-size: 1.5rem;
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     padding: 0
 }
 .tab .ui-tabs .tab-content-wrapper-box {
@@ -1208,7 +1208,7 @@ span.success, p.success {
     right: 0;
     z-index: 1000;
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     background: rgba(4, 50, 73, 0.05)
 }
 .grid-carousel .two-by-two .grid-two-by-two a {
@@ -1251,7 +1251,7 @@ span.success, p.success {
 }
 .grid-carousel a span.page-details {
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     bottom: 0;
     left: 0;
     padding: 0;
@@ -1276,7 +1276,7 @@ span.success, p.success {
 }
 .grid-carousel a span.page-details span.page-summary {
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     color: #ffffff;
     padding: 10px;
     display: block
@@ -1307,7 +1307,7 @@ span.success, p.success {
     text-transform: none;
     background: rgba(4, 50, 73, 0.7);
     font-family: "amsibold", sans-serif;
-    font-weight: normal
+    font-weight: bold
 }
 .tab .grid-carousel a span.page-details .custom-title {
     color: #ffffff;
@@ -1423,7 +1423,7 @@ span.success, p.success {
 }
 .two-col h2 {
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     background: url("https://nusdigital.s3.amazonaws.com/image/images/400988/original/top-title-shadow.png") no-repeat scroll top center transparent;
     text-transform: uppercase;
     padding-top: 25px;
@@ -1434,14 +1434,14 @@ span.success, p.success {
 .three-column-without-h2 h2 {
     display: none;
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     text-transform: uppercase;
     text-align: left;
     color: #333333
 }
 .three-column-without-h2 h2 .column-content {
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     background: url("https://nusdigital.s3.amazonaws.com/image/images/400988/original/top-title-shadow.png") no-repeat scroll top center transparent;
     padding-top: 0px;
     text-align: left;
@@ -1487,7 +1487,7 @@ span.success, p.success {
 }
 .three-column .column-content {
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     background: url("https://nusdigital.s3.amazonaws.com/image/images/400988/original/top-title-shadow.png") no-repeat scroll top center transparent;
     padding-top: 0px;
     text-align: left;
@@ -1495,7 +1495,7 @@ span.success, p.success {
 }
 .three-column h1, .three-column h2 {
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     text-transform: uppercase;
     text-align: left;
     color: #333333
@@ -1540,7 +1540,7 @@ span.success, p.success {
 }
 #latest-events .top-events {
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     font-size: 1.6rem;
     list-style: none
 }
@@ -1797,7 +1797,7 @@ span.success, p.success {
 }
 #latest-groups .top-groups {
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     font-size: 0.75em;
     list-style: none
 }
@@ -1836,13 +1836,13 @@ span.success, p.success {
 }
 #latest-groups .top-groups .name a {
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     color: #0e0e0e;
     text-decoration: none
 }
 #latest-groups .more.more-groups {
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     background: none repeat scroll 0 0 transparent;
     border: 0 none;
     box-shadow: 0 0 0;
@@ -1861,7 +1861,7 @@ span.success, p.success {
 }
 #latest-articles .top-articles {
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     font-size: 1.6rem;
     list-style: none
 }
@@ -2048,7 +2048,7 @@ span.success, p.success {
 }
 .uc-widget-articles .widget-four .with-image-description ul.uc-widget-articles-list li.uc-widget-article-block .article-content .headline a {
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     font-size: 3rem;
     line-height: 120%;
     color: #fff
@@ -2076,7 +2076,7 @@ span.success, p.success {
 }
 #latest-documents .top-documents {
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     font-size: 1.6rem;
     list-style: none
 }
@@ -2128,14 +2128,14 @@ span.success, p.success {
 }
 .union-footer .fourcol.column-content .page-title, .union-footer .sixcol.column-content .page-title, .union-footer .threecol.column-content .page-title {
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     font-size: 1.5rem;
     color: #31c5f4;
     text-transform: uppercase
 }
 .union-footer .fourcol.column-content a, .union-footer .sixcol.column-content a, .union-footer .threecol.column-content a {
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     color: #333333;
     border-bottom: 1px solid #E7E7E7;
     display: block;
@@ -2172,7 +2172,7 @@ span.success, p.success {
     width: auto;
     padding: 0;
     font-family: "amsibold", sans-serif;
-    font-weight: normal
+    font-weight: bold
 }
 .breadcrumb #crumbs {
     min-height: 35px
@@ -2297,7 +2297,7 @@ span.success, p.success {
 }
 .tree-navigation ul.nav-level-one li h3 a {
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     background: url("https://nusdigital.s3.amazonaws.com/image/images/400978/original/leftmenu-title-arrow.png") no-repeat scroll right center transparent;
     padding: 0px;
     font-size: 0.95em;
@@ -2343,7 +2343,7 @@ span.success, p.success {
 .tree-navigation .nav-level-one li.selected {
     color: #ffffff;
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     background: none
 }
 .tree-navigation .nav-level-one .selected ul li a {
@@ -2352,7 +2352,7 @@ span.success, p.success {
 .tree-navigation .nav-level-one .selected > a {
     color: #0e0e0e;
     font-family: "amsibold", sans-serif;
-    font-weight: normal
+    font-weight: bold
 }
 .tree-navigation .nav-level-one .selected ul li a {
     color: #666666;
@@ -2443,7 +2443,7 @@ span.success, p.success {
 #search-result h2 {
     margin: 5px 0px 0px;
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     color: #0e1728
 }
 #search-result h2 a {
@@ -2531,7 +2531,7 @@ span.success, p.success {
 .content .row .content-wrap h2 {
     color: #0e1728;
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     font-size: 2.8rem;
     line-height: 150%
 }
@@ -2572,7 +2572,7 @@ span.success, p.success {
 .portletTitles h1 {
     color: #0e1728;
     font-family: "amsiultra", sans-serif;
-    font-weight: normal;
+    font-weight: 900;
     font-size: 3.2rem;
     background: #F3AF31;
     padding: 0px 10px 7px;
@@ -2581,7 +2581,7 @@ span.success, p.success {
 h1 span {
     color: #31c5f4;
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     font-size: 2.8rem
 }
 .content .articles .articlesTitles h2 a {
@@ -2599,7 +2599,7 @@ h1 span {
 }
 .content .articles .readMore {
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     color: #384352;
     text-decoration: none
 }
@@ -2636,7 +2636,7 @@ h1 span {
 }
 .pagination {
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     font-size: 0.75em
 }
 .search.eventsearch {
@@ -2769,7 +2769,7 @@ h1 span {
 }
 #event-homepage #right-panel #eventcarousel ul li .event-container .event-box .event-name {
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     color: #0e0e0e;
     color: #333;
     position: absolute;
@@ -2862,7 +2862,7 @@ h1 span {
 }
 #event-homepage #right-panel #eventcarousel .uc-no-events-found .uc-no-event-heading {
     font-family: "amsibold", sans-serif;
-    font-weight: normal
+    font-weight: bold
 }
 #event-homepage #right-panel #eventcarousel .uc-no-events-found p {
     font-family: "amsiregular", sans-serif;
@@ -2877,7 +2877,7 @@ h1 span {
     background-color: #ffffff;
     font-size: 1.8rem;
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     margin-bottom: 15px;
     color: #1E4290;
     border: solid 2px #1E4290
@@ -2967,7 +2967,7 @@ h1 span {
 }
 .event-details-wrapper .content-wrap .contentBoxes .eventheader h2 {
     font-family: "amsibold", sans-serif;
-    font-weight: normal
+    font-weight: bold
 }
 .event-details-wrapper .content-wrap .contentBoxes p {
     line-height: 150%;
@@ -3396,7 +3396,7 @@ h1 span {
     background-color: transparent;
     font-size: 1.8rem;
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     margin-bottom: 15px;
     color: #fda50d;
     box-shadow: none;
@@ -3460,7 +3460,7 @@ h1 span {
     box-shadow: none;
     font-size: 1.8rem;
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     margin-bottom: 15px;
     color: #0e1728;
     border: solid 3px
@@ -3859,7 +3859,7 @@ h1 span {
 }
 .free-event {
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     color: #0e1728;
     background: #ffffff;
     height: 20px;
@@ -3870,7 +3870,7 @@ h1 span {
 .tree-navigation .title h1 {
     margin-top: 15px;
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     background-color: transparent;
     color: #31c5f4;
     padding-left: 0;
@@ -3882,13 +3882,13 @@ h1 span {
 }
 .tree-navigation ul li.selected a, .tree-navigation .latestEventLeftSide li .eventVenue {
     font-family: "amsibold", sans-serif;
-    font-weight: normal
+    font-weight: bold
 }
 .tree-navigation h3 {
     background-color: transparent;
     color: #31c5f4;
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     text-transform: uppercase
 }
 .tree-navigation ul li {
@@ -3949,7 +3949,7 @@ h1 span {
     border-bottom: 0;
     color: #ffffff;
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     width: 100%;
     display: block;
     font-size: 2.0rem
@@ -3974,7 +3974,7 @@ h1 span {
     content: 'Our recommendation';
     font-size: 2.8rem;
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     display: flex;
     margin-bottom: 20px;
     color: #31c5f4
@@ -3983,7 +3983,7 @@ h1 span {
     content: 'Our recommendation';
     font-size: 2.8rem;
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     display: flex;
     margin-bottom: 20px;
     color: #31c5f4
@@ -4122,12 +4122,12 @@ h1 span {
 #latest-calendar-event #calender-widget .cal-date li {
     border-color: #0e1728;
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     background: none repeat scroll 0 0 #ffffff
 }
 #latest-calendar-event #calender-widget .cal-date li.last-child {
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     border-color: #384352
 }
 #latest-calendar-event #calender-widget .cal-date li a {
@@ -4366,7 +4366,7 @@ h1 span {
 }
 #shopping-cart .orderHeaderRow {
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     background: #0e1728;
     color: #ffffff;
     padding: 0px
@@ -4381,7 +4381,7 @@ h1 span {
     width: calc(10% - 8px);
     font-size: 1.5rem;
     font-family: "amsibold", sans-serif;
-    font-weight: normal
+    font-weight: bold
 }
 #shopping-cart .orderHeaderRow .productType {
     width: calc(15% - 8px);
@@ -4507,7 +4507,7 @@ h1 span {
 }
 #shopping-cart .grandTotal .subTotal {
     font-family: "amsibold", sans-serif;
-    font-weight: normal
+    font-weight: bold
 }
 #shopping-cart .grandTotal .sub-TotalPrice, #shopping-cart .grandTotal .vat-Price, #shopping-cart .grandTotal .grand-TotalPrice {
     font-family: "amsiregular", sans-serif;
@@ -4515,7 +4515,7 @@ h1 span {
 }
 #shopping-cart .grandTotal .total {
     font-family: "amsibold", sans-serif;
-    font-weight: normal
+    font-weight: bold
 }
 #shopping-cart .orderHeaderRow .productQty, #shopping-cart .orderHeaderRow .productPrice, #shopping-cart .orderHeaderRow .Total {
     font-size: 1.5rem
@@ -4534,7 +4534,7 @@ ul.tabs {
     padding: 0;
     width: 100%;
     font-family: "amsibold", sans-serif;
-    font-weight: normal
+    font-weight: bold
 }
 ul.tabs li {
     background: none repeat scroll 0 0 #EFEFEF;
@@ -4689,7 +4689,7 @@ html ul.tabs li.active a:hover {
     text-transform: capitalize;
     position: relative;
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     z-index: 1000
 }
 .club-container .types-list .group-types .group-types-wrapper ul .hover {
@@ -4729,7 +4729,7 @@ html ul.tabs li.active a:hover {
 .club-container .groups .group-list .group-box .group-name {
     font-size: 2rem;
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     font-weight: normal;
     background: rgba(253, 161, 0, 0.8);
     display: flex;
@@ -4882,7 +4882,7 @@ html ul.tabs li.active a:hover {
 }
 .group-list, .group-types {
     font-family: "amsibold", sans-serif;
-    font-weight: normal
+    font-weight: bold
 }
 .group-types ul li a {
     word-wrap: break-word
@@ -4917,7 +4917,7 @@ html ul.tabs li.active a:hover {
     content: 'Our recommendation';
     font-size: 2.8rem;
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     display: flex;
     margin-bottom: 20px;
     color: #31c5f4
@@ -5075,7 +5075,7 @@ fieldset.group-questions-form {
 }
 .totalQuantityBought b, .totalQuantityBought strong {
     font-family: "amsibold", sans-serif;
-    font-weight: normal
+    font-weight: bold
 }
 .new_group_membership .tree-navigation ul li {
     background: none repeat scroll 0 0 transparent
@@ -5236,12 +5236,12 @@ div.change-password #user_edit .formrow label {
 }
 .myaccount-student-details .formrow .dynamiclabel, .myaccount-student-details .dynamiclabel, #questionnaire .formrow .dynamiclabel, #questionnaire .dynamiclabel {
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     font-size: 13px
 }
 .myaccount-student-details legend.formLegend, .myaccount-student-details legend.formLegend, #questionnaire legend.formLegend, #questionnaire legend.formLegend {
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     color: #333333
 }
 .change-password #user_edit .formrow input {
@@ -5301,7 +5301,7 @@ div.change-password #user_edit .formrow label {
 }
 .questionnaire .formrow .dynamiclabel {
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     font-size: 1.5rem
 }
 .questionnaire select, .questionnaire .textarea {
@@ -5325,7 +5325,7 @@ div.change-password #user_edit .formrow label {
 }
 .contentBoxes .questionnaire h3 {
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     font-size: 1.5rem;
     color: #0e0e0e
 }
@@ -5343,11 +5343,11 @@ div.change-password #user_edit .formrow label {
 }
 .verifyTickets .tabularData h3 {
     font-family: "amsibold", sans-serif;
-    font-weight: normal
+    font-weight: bold
 }
 .verifyTickets .tableHeader {
     font-family: "amsibold", sans-serif;
-    font-weight: normal
+    font-weight: bold
 }
 .verifyTickets .tableBody {
     font-family: "amsiregular", sans-serif;
@@ -5359,7 +5359,7 @@ div.change-password #user_edit .formrow label {
     color: #0e0e0e;
     text-shadow: 0 1px 0 #ffffff;
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     font-size: 1.5rem;
     border: 0 none
 }
@@ -5381,7 +5381,7 @@ div.change-password #user_edit .formrow label {
 .event-ticket-number-details .event-ticket-details-wrapper .event-title h3 {
     padding: 13px;
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     margin: 0 48% 0 0;
     line-height: 1.5rem;
     color: #0e0e0e;
@@ -5411,7 +5411,7 @@ a.printButton {
     color: #333333;
     cursor: pointer;
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     font-size: 13px;
     padding: 5px 12px 5px 30px;
     text-transform: uppercase;
@@ -5438,7 +5438,7 @@ a.printButton {
 }
 .twitter-content .page-title {
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     background: url("https://nusdigital.s3.amazonaws.com/image/images/400990/original/twitter_icon-067.png") no-repeat scroll 4px 4px transparent;
     border-bottom: 0 solid #e7e7e7;
     color: #31c5f4;
@@ -5471,7 +5471,7 @@ a.printButton {
 }
 .union-left-box .page-title {
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     background: none repeat scroll 0 0 #F8F8F8;
     border-bottom: 0 solid #e7e7e7;
     color: #31c5f4;
@@ -5542,7 +5542,7 @@ a.uc-link-block .page-details .page-title {
 }
 .change-password-block .form-row label, .confirmation-email-block .form-row label, .unlock-block .form-row label {
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     font-size: 1.5rem
 }
 .signin-block .heading, .change-password-block .heading, .confirmation-email-block .heading, .unlock-block .heading, .reset-password-block .heading, .accountlock-password-block .heading {
@@ -5576,7 +5576,7 @@ a.uc-link-block .page-details .page-title {
 }
 .registration-form-step form h3.dynamic-label, .resend-instruction .resend-instruction-content-wrapper p a, .frequently-asked-question .faq-wrapper .faq-link a {
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     color: #333
 }
 .frequently-asked-question .faq-wrapper .faq-content-wrapper {
@@ -5614,7 +5614,7 @@ div.change-password #user_edit .formrow label, .registration-form ol li.input la
 }
 .signin-block .ask-button .highlight-button, .commit.button .update, .commit.button .button.create, .registration-final-step h3.final-heading, #student_nationality_input label, .registration-form .recaptchaLabel, #registration-form-container h2, .almost-done-msg {
     font-family: "amsibold", sans-serif;
-    font-weight: normal
+    font-weight: bold
 }
 .registration-form ol li.userdataconsent p {
     font-size: inherit
@@ -5780,11 +5780,11 @@ div.change-password #user_edit .formrow label, .registration-form ol li.input la
 }
 .myaccount-shopping-details .order-search fieldset legend {
     font-family: "amsibold", sans-serif;
-    font-weight: normal
+    font-weight: bold
 }
 .myaccount-shopping-details .order-search fieldset li label {
     font-family: "amsibold", sans-serif;
-    font-weight: normal
+    font-weight: bold
 }
 .myaccount-shopping-details .order-grid table {
     font-family: "amsiregular", sans-serif;
@@ -5805,7 +5805,7 @@ div.change-password #user_edit .formrow label, .registration-form ol li.input la
 }
 .more-article-block .more-article-block-wrapper ul li span, .more-article-block .more-article-block-wrapper ul li span a {
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     color: #666666
 }
 .featured-news-block {
@@ -5826,23 +5826,23 @@ div.change-password #user_edit .formrow label, .registration-form ol li.input la
 .more-article-block .more-article-block-wrapper h3 {
     font-size: 2.4rem;
     font-family: "amsibold", sans-serif;
-    font-weight: normal
+    font-weight: bold
 }
 .articles-list-block .articles-block h3 {
     font-size: 2.4rem
 }
 .articles-list-block .articles-block h3 a {
     font-family: "amsibold", sans-serif;
-    font-weight: normal
+    font-weight: bold
 }
 .featured-news-block .news-date-time {
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     font-size: 0.6em
 }
 .articles-list-block .news-date-time {
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     font-size: 1.5rem;
     color: #999999
 }
@@ -5877,11 +5877,11 @@ div.change-password #user_edit .formrow label, .registration-form ol li.input la
 }
 .articleDetails .article-details-wrapper table th {
     font-family: "amsibold", sans-serif;
-    font-weight: normal
+    font-weight: bold
 }
 .articleDetails .article-details-wrapper table td {
     font-family: "amsibold", sans-serif;
-    font-weight: normal
+    font-weight: bold
 }
 .articleDetails .article-backto-parent .uc-articles-tags a {
     background: rgba(4, 50, 73, 0.8);
@@ -5922,7 +5922,7 @@ div.change-password #user_edit .formrow label, .registration-form ol li.input la
 }
 .guest-form-wrapper .guest-details-list .guest-form h3 {
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     color: #275889;
     font-size: 1.5rem
 }
@@ -5984,7 +5984,7 @@ div.change-password #user_edit .formrow label, .registration-form ol li.input la
 }
 .uc-cookie-block .uc-cookie-block-wrapper a.uc-cookie-continue-class {
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     background: none;
     color: #fff;
     padding-left: 0;
@@ -6037,7 +6037,7 @@ div.change-password #user_edit .formrow label, .registration-form ol li.input la
     text-transform: uppercase;
     color: #0e1728;
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     border: 0
 }
 .uc-widget-upcoming-events-wrapper #uc-widget-upcoming-events-left-panel .tree-navigation.club-navigation h3 {
@@ -6236,7 +6236,7 @@ div.change-password #user_edit .formrow label, .registration-form ol li.input la
 }
 .uc-widget-student-voices-wrapper .uc-sv-widget-title a {
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     font-weight: normal;
     font-size: 1.5rem
 }
@@ -6265,7 +6265,7 @@ div.change-password #user_edit .formrow label, .registration-form ol li.input la
 .uc-widget-student-voices-wrapper ul.uc-student-voice-widget-category li a {
     font-size: 1.6rem;
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     color: #ffffff
 }
 .uc-widget-student-voices-wrapper ul.uc-student-voice-widget-category li.selected {
@@ -6319,13 +6319,13 @@ div.change-password #user_edit .formrow label, .registration-form ol li.input la
 .uc-student-voice-widget-more-link a, .uc-student-voice-widget-more-link a:hover, .uc-student-voice-widget-more-link a:visited {
     color: #0e1728;
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     font-weight: normal;
     text-decoration: none
 }
 .uc-student-voice-widget-category li.selected a, .uc-student-voice-widget-category li.selected a:visited {
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     font-weight: normal
 }
 .uc-widget-student-voices-wrapper .uc-student-voice-jcarousel .jcarousel-prev-vertical {
@@ -6765,7 +6765,7 @@ input[type="radio"] + label:empty:before {
 }
 #uc-sv-main-wrapper #uc-sv-nav-tab-panel #uc-sv-main-navcontainer ul li.active a {
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     color: #fff
 }
 #uc-sv-main-wrapper #uc-sv-content-container {
@@ -7269,7 +7269,7 @@ input[type="radio"] + label:empty:before {
     background: none;
     font-size: 1.6rem;
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     color: #0e1728;
     text-transform: capitalize
 }
@@ -7304,7 +7304,7 @@ input[type="radio"] + label:empty:before {
     box-shadow: 0px 0px 1px rgba(0, 0, 0, 0.4);
     font-size: 1.8rem;
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     margin-bottom: 15px;
     color: #0e1728;
     border-radius: 0px 0px 0px 0px;
@@ -7414,7 +7414,7 @@ p.inline-hints:before {
     margin: 15px 0;
     padding-bottom: 15px;
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     margin-bottom: 0;
     padding-left: 25px
 }
@@ -7433,7 +7433,7 @@ p.inline-hints:before {
 }
 #myaccount-information .tree-navigation ul li#user_profile a.selected, .registration-form .tree-navigation ul li#user_profile a.selected, .contentContainer .tree-navigation ul li#user_profile a.selected, #uc-volunteer-reg-form-container .tree-navigation ul li#user_profile a.selected {
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     color: #fff
 }
 #myaccount-information .tree-navigation ul li#user_profile ul li, .registration-form .tree-navigation ul li#user_profile ul li, .contentContainer .tree-navigation ul li#user_profile ul li, #uc-volunteer-reg-form-container .tree-navigation ul li#user_profile ul li {
@@ -7553,7 +7553,7 @@ p.inline-hints:before {
 }
 #myaccount-information .ninecol.enrollment-details .uc-vol-section-title h3, .registration-form .ninecol.enrollment-details .uc-vol-section-title h3, .contentContainer .ninecol.enrollment-details .uc-vol-section-title h3, #uc-volunteer-reg-form-container .ninecol.enrollment-details .uc-vol-section-title h3 {
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     color: #333
 }
 #myaccount-information .ninecol.enrollment-details li label, .registration-form .ninecol.enrollment-details li label, .contentContainer .ninecol.enrollment-details li label, #uc-volunteer-reg-form-container .ninecol.enrollment-details li label {
@@ -7651,7 +7651,7 @@ p.inline-hints:before {
 }
 #myaccount-information .ninecol.uc-vol-edit-profile .uc-profile-section-wrapper .uc-vol-profile-title-mobile, .registration-form .ninecol.uc-vol-edit-profile .uc-profile-section-wrapper .uc-vol-profile-title-mobile, .contentContainer .ninecol.uc-vol-edit-profile .uc-profile-section-wrapper .uc-vol-profile-title-mobile, #uc-volunteer-reg-form-container .ninecol.uc-vol-edit-profile .uc-profile-section-wrapper .uc-vol-profile-title-mobile {
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     color: #0e1728
 }
 #myaccount-information .ninecol.uc-vol-edit-profile .uc-profile-section-wrapper .uc-vol-profile-section-desc, #myaccount-information .ninecol.uc-vol-edit-profile .uc-profile-section-wrapper .uc-vol-mandatory-text, #myaccount-information .ninecol.uc-vol-edit-profile .uc-profile-section-wrapper .uc-availibility-section-title, .registration-form .ninecol.uc-vol-edit-profile .uc-profile-section-wrapper .uc-vol-profile-section-desc, .registration-form .ninecol.uc-vol-edit-profile .uc-profile-section-wrapper .uc-vol-mandatory-text, .registration-form .ninecol.uc-vol-edit-profile .uc-profile-section-wrapper .uc-availibility-section-title, .contentContainer .ninecol.uc-vol-edit-profile .uc-profile-section-wrapper .uc-vol-profile-section-desc, .contentContainer .ninecol.uc-vol-edit-profile .uc-profile-section-wrapper .uc-vol-mandatory-text, .contentContainer .ninecol.uc-vol-edit-profile .uc-profile-section-wrapper .uc-availibility-section-title, #uc-volunteer-reg-form-container .ninecol.uc-vol-edit-profile .uc-profile-section-wrapper .uc-vol-profile-section-desc, #uc-volunteer-reg-form-container .ninecol.uc-vol-edit-profile .uc-profile-section-wrapper .uc-vol-mandatory-text, #uc-volunteer-reg-form-container .ninecol.uc-vol-edit-profile .uc-profile-section-wrapper .uc-availibility-section-title {
@@ -7693,7 +7693,7 @@ p.inline-hints:before {
 }
 #myaccount-information .ninecol.uc-vol-edit-profile .uc-profile-section-wrapper .uc-availability-days li:first-child a, #myaccount-information .ninecol.uc-vol-edit-profile .uc-profile-section-wrapper .uc-availability-row li:first-child, #myaccount-information .ninecol.uc-vol-edit-profile .uc-profile-section-wrapper .uc-availability-days li, .registration-form .ninecol.uc-vol-edit-profile .uc-profile-section-wrapper .uc-availability-days li:first-child a, .registration-form .ninecol.uc-vol-edit-profile .uc-profile-section-wrapper .uc-availability-row li:first-child, .registration-form .ninecol.uc-vol-edit-profile .uc-profile-section-wrapper .uc-availability-days li, .contentContainer .ninecol.uc-vol-edit-profile .uc-profile-section-wrapper .uc-availability-days li:first-child a, .contentContainer .ninecol.uc-vol-edit-profile .uc-profile-section-wrapper .uc-availability-row li:first-child, .contentContainer .ninecol.uc-vol-edit-profile .uc-profile-section-wrapper .uc-availability-days li, #uc-volunteer-reg-form-container .ninecol.uc-vol-edit-profile .uc-profile-section-wrapper .uc-availability-days li:first-child a, #uc-volunteer-reg-form-container .ninecol.uc-vol-edit-profile .uc-profile-section-wrapper .uc-availability-row li:first-child, #uc-volunteer-reg-form-container .ninecol.uc-vol-edit-profile .uc-profile-section-wrapper .uc-availability-days li {
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     text-decoration: none;
     text-transform: uppercase
 }
@@ -7920,7 +7920,7 @@ p.inline-hints:before {
 }
 #myaccount-information .ninecol .myaccount-volunteers-timesheet-wrapper h2, .registration-form .ninecol .myaccount-volunteers-timesheet-wrapper h2, .contentContainer .ninecol .myaccount-volunteers-timesheet-wrapper h2, #uc-volunteer-reg-form-container .ninecol .myaccount-volunteers-timesheet-wrapper h2 {
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     font-size: 1.8rem;
     border-bottom: solid thin #e6e6e6;
     padding-bottom: 10px;
@@ -8400,7 +8400,7 @@ p.inline-hints:before {
 }
 #myaccount-information .ninecol .portlet .vol-timesheet-listing h2, .registration-form .ninecol .portlet .vol-timesheet-listing h2, .contentContainer .ninecol .portlet .vol-timesheet-listing h2, #uc-volunteer-reg-form-container .ninecol .portlet .vol-timesheet-listing h2 {
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     font-size: 1.8rem;
     border-bottom: solid thin #e6e6e6;
     padding-bottom: 10px;
@@ -8698,13 +8698,13 @@ p.inline-hints:before {
 #myaccount-information .ninecol .portlet .contentBoxes #groupSubscriptions h2, .registration-form .ninecol .portlet .contentBoxes #groupSubscriptions h2, .contentContainer .ninecol .portlet .contentBoxes #groupSubscriptions h2, #uc-volunteer-reg-form-container .ninecol .portlet .contentBoxes #groupSubscriptions h2 {
     font-size: 2rem;
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     line-height: 150%
 }
 #myaccount-information .ninecol .portlet .contentBoxes #groupSubscriptions h3, .registration-form .ninecol .portlet .contentBoxes #groupSubscriptions h3, .contentContainer .ninecol .portlet .contentBoxes #groupSubscriptions h3, #uc-volunteer-reg-form-container .ninecol .portlet .contentBoxes #groupSubscriptions h3 {
     font-size: 1.8rem;
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     color: #075379
 }
 #myaccount-information .ninecol .portlet .contentBoxes #eventSubscriptions, .registration-form .ninecol .portlet .contentBoxes #eventSubscriptions, .contentContainer .ninecol .portlet .contentBoxes #eventSubscriptions, #uc-volunteer-reg-form-container .ninecol .portlet .contentBoxes #eventSubscriptions {
@@ -9059,7 +9059,7 @@ p.inline-hints:before {
     background: none;
     color: #0e1728;
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     text-transform: uppercase;
     font-size: 2rem;
     padding: 15px;
@@ -9083,7 +9083,7 @@ p.inline-hints:before {
 #e-shop .left-panel-navigation .product-category-navigation ul > li a span {
     text-transform: uppercase;
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     color: #555
 }
 #e-shop .left-panel-navigation .product-category-navigation ul > li.has-menu > a {
@@ -9122,7 +9122,7 @@ p.inline-hints:before {
 #e-shop .left-panel-navigation .product-category-navigation ul > li.has-menu.active .hover-menu ul li.active {
     background: #ffffff !important;
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     color: #fda50d
 }
 #e-shop .left-panel-navigation .product-category-navigation ul > li.has-menu.active .hover-menu .product-sub-category-name {
@@ -9210,7 +9210,7 @@ p.inline-hints:before {
 }
 #e-shop .product-details-page .product-details-panel .product-details-description h3 {
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     margin-top: 15px;
     margin-bottom: 10px;
     color: #0e1728;
@@ -9851,7 +9851,7 @@ p.inline-hints:before {
 .uc-customer-quick-login .ninecol .signin-block label {
     font-size: 1.6rem;
     font-family: "amsibold", sans-serif;
-    font-weight: normal
+    font-weight: bold
 }
 .uc-customer-quick-login .ninecol .signin-block .highlight-button {
     color: #ffffff;
@@ -9922,7 +9922,7 @@ input:focus {
 }
 .cart-delivery-mode .my-cart-details .transaction-fee dt, .cart-delivery-mode .my-cart-details .vat-charges dt, .cart-delivery-mode .my-cart-details .grand-total dt {
     font-family: "amsibold", sans-serif;
-    font-weight: normal
+    font-weight: bold
 }
 .cart-delivery-mode .shipping-address .address-form {
     padding: 10px
@@ -9948,7 +9948,7 @@ input:focus {
 }
 .cart-delivery-mode .shipping-address .address-form #paginate-address .address-block .address-selection label {
     font-family: "amsibold", sans-serif;
-    font-weight: normal
+    font-weight: bold
 }
 .cart-delivery-mode .shipping-address .address-navigation a {
     padding: 6px 9px;
@@ -9968,7 +9968,7 @@ input:focus {
 }
 .cart-delivery-mode .shipping-address .new-user-address .inputs label {
     font-family: "amsibold", sans-serif;
-    font-weight: normal
+    font-weight: bold
 }
 .uc-payment-page {
     font-family: "amsiregular", sans-serif;
@@ -10022,7 +10022,7 @@ input:focus {
 #group-events h2 {
     font-size: 2.8rem;
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     display: flex;
     margin-bottom: 20px;
     color: #31c5f4
@@ -10138,7 +10138,7 @@ input:focus {
     background: none;
     color: #0e1728;
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     text-transform: uppercase;
     font-size: 2rem;
     padding: 15px;
@@ -10259,7 +10259,7 @@ input:focus {
 #uc-volunteering .uc-opp-left-panel-navigation .uc-opp-left-panel-navigation-wrapper .uc-result-count {
     color: #0e1728;
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     font-size: 3.2rem;
     border-bottom: 0;
     padding-left: 0;
@@ -10267,12 +10267,12 @@ input:focus {
 }
 #uc-volunteering .uc-opp-left-panel-navigation .uc-opp-left-panel-navigation-wrapper .uc-result-count strong {
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     font-size: 3.2rem
 }
 #uc-volunteering .uc-opp-left-panel-navigation .uc-opp-left-panel-navigation-wrapper .uc-result-count .opporutnity-count-number {
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     font-size: 3.2rem
 }
 #uc-volunteering .uc-opp-left-panel-navigation .uc-opp-left-panel-navigation-wrapper .page-separator {
@@ -10313,7 +10313,7 @@ input:focus {
 }
 #uc-volunteering .uc-opp-left-panel-navigation .uc-opp-left-panel-navigation-wrapper .uc-opp-listing-wrapper .uc-opp-block .uc-opportunity-title a {
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     font-size: 2rem;
     color: #0e1728
 }
@@ -10528,7 +10528,7 @@ input:focus {
 .row .uc-widget-volunteering-opportunities-container .uc-widget-volunteering-more-link a {
     color: #0e1728;
     font-family: "amsibold", sans-serif;
-    font-weight: normal
+    font-weight: bold
 }
 .uc-toolbar-position .uc-toolbar-wrapper-before {
     top: 15px
@@ -10595,7 +10595,7 @@ input:focus {
 }
 .uc-toolbar-position .uc-toolbar-wrapper-before .uc-toolbar-wrapper .uc-toolbar-heading {
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     color: #0e1728
 }
 .uc-toolbar-position .uc-toolbar-wrapper-before .uc-toolbar-wrapper .blue-text3, .uc-toolbar-position .uc-toolbar-wrapper-before .uc-toolbar-wrapper .blue-text2 {
@@ -10634,7 +10634,7 @@ input:focus {
 }
 .uc-toolbar-position .uc-toolbar-wrapper-before .uc-toolbar-wrapper .ui-accordion-content h3 {
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     color: #0e1728
 }
 .uc-toolbar-position .uc-toolbar-wrapper-before .uc-toolbar-wrapper .ui-accordion-content .blue-text {
@@ -10680,7 +10680,7 @@ input:focus {
 }
 .jqm-init.adv-cms-popup .cms-forms .uc-forms-row label {
     font-family: "amsibold", sans-serif;
-    font-weight: normal
+    font-weight: bold
 }
 .jqm-init.adv-cms-popup .cms-forms .uc-forms-row p.inline-hints {
     color: #777777
@@ -11150,7 +11150,7 @@ input[type='text'] {
     background: transparent;
     box-shadow: 0 0 0;
     font-family: "amsibold", sans-serif;
-    font-weight: normal
+    font-weight: bold
 }
 .uc-current-nominations-wrapper .my-nominations-grid tr {
     background: #ffffff
@@ -13635,7 +13635,7 @@ input.smalltext {
 }
 .more.more-groups {
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     border-radius: 0px 0px 0px 0px;
     -moz-border-radius: 0px 0px 0px 0px;
     -webkit-border-radius: 0px 0px 0px 0px;
@@ -13656,7 +13656,7 @@ input.smalltext {
 .evo-group-widget {
     margin: 10px 0;
     font-family: "amsibold", sans-serif;
-    font-weight: normal
+    font-weight: bold
 }
 .evo-group-widget .top-groups {
     font-size: 0.8em;
@@ -13708,7 +13708,7 @@ input.smalltext {
     margin: 0px;
     padding: 0px 0px 10px 10px;
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     background: url(/assets/images/evo-categories-titlebg-e34f0dda993d84c195df80e625f8049ce68dc3b95b6a7853c29bb7462ebddff7.png) repeat-x left bottom #ededed
 }
 .evo-header-wrapper h2 {
@@ -13716,7 +13716,7 @@ input.smalltext {
     color: #0e0e0e;
     font-size: 1.2em;
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     padding: 20px 0px 0px 0px;
     width: 525px;
     text-transform: uppercase
@@ -13726,7 +13726,7 @@ input.smalltext {
     color: #0e0e0e;
     font-size: 1.0em;
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     padding: 6px 0px 0px 0px
 }
 .evo-header-wrapper .evo-timer {
@@ -13784,7 +13784,7 @@ input.smalltext {
     padding: 0px 0px 0px 0px;
     width: 320px !important;
     font-family: "amsibold", sans-serif;
-    font-weight: normal
+    font-weight: bold
 }
 .categories-wrapper .evoting-categories {
     border-bottom: 0px solid #cccccc;
@@ -13815,7 +13815,7 @@ input.smalltext {
     color: #0e0e0e;
     font-size: 1.8em;
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     padding: 30px 0px 0px 0px;
     width: 525px;
     text-transform: uppercase
@@ -13826,7 +13826,7 @@ input.smalltext {
     padding: 0px 0px 0px 0px;
     width: 320px !important;
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     font-size: 1.4em
 }
 .categories-wrapper .evoting-categories .evo-timer h3 {
@@ -13857,7 +13857,7 @@ input.smalltext {
 .categories-wrapper .evo-select-choice .cat_title h3 {
     font-size: 1.6em;
     font-family: "amsibold", sans-serif;
-    font-weight: normal
+    font-weight: bold
 }
 .categories-wrapper .whatsthis {
     margin-bottom: 2px;
@@ -13903,7 +13903,7 @@ input.smalltext {
     padding-top: 5px;
     width: 25%;
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     text-align: right
 }
 .categories-wrapper .evo-categories .evo-position-status a:link, .categories-wrapper .evo-categories .evo-position-status a:active, .categories-wrapper .evo-categories .evo-position-status a:visited, .categories-wrapper .evo-categories .evo-position-status a:hover {
@@ -13917,7 +13917,7 @@ input.smalltext {
     color: #ffffff;
     cursor: pointer;
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     font-size: 0.95em;
     padding: 7px 10px 7px 25px;
     text-decoration: none;
@@ -13971,7 +13971,7 @@ input.smalltext {
     padding: 4px 0px 8px 0px;
     width: 75%;
     font-family: "amsibold", sans-serif;
-    font-weight: normal
+    font-weight: bold
 }
 .categories-wrapper .evo-ref-questions .evo-question-status {
     float: right;
@@ -13981,7 +13981,7 @@ input.smalltext {
     margin-bottom: 20px;
     text-transform: uppercase;
     font-family: "amsibold", sans-serif;
-    font-weight: normal
+    font-weight: bold
 }
 .categories-wrapper .evo-ref-questions .evo-question-status-noeligible {
     float: left;
@@ -14025,7 +14025,7 @@ input.smalltext {
     cursor: pointer;
     display: inline-block;
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     font-size: 0.95em;
     padding: 7px 10px 7px 25px;
     text-decoration: none;
@@ -14041,13 +14041,13 @@ input.smalltext {
     overflow: hidden;
     border-bottom: 1px solid #ebebeb;
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     text-transform: uppercase
 }
 .canditate-top-main-head h2 {
     font-size: 1em;
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     color: #0e0e0e !important;
     background: url(/images/images/heading-bg.png) no-repeat scroll 0 8px transparent;
     padding: 10px 0 0px 30px
@@ -14068,7 +14068,7 @@ input.smalltext {
 .ref-top-main-head h2 {
     font-size: 1em;
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     float: left;
     color: #0e0e0e !important;
     background: url(/images/images/heading-bg.png) no-repeat scroll 0 8px transparent;
@@ -14103,7 +14103,7 @@ input.smalltext {
     display: block;
     font-size: 1.2em;
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     margin: 0 0 10px;
     padding: 10px 10px 10px 40px;
     text-shadow: 1px 1px 0 #666666;
@@ -14115,7 +14115,7 @@ input.smalltext {
     display: block;
     font-size: 1em;
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     padding: 2px 0;
     text-decoration: underline;
     text-shadow: 1px 1px 0 #ffffff;
@@ -14125,7 +14125,7 @@ input.smalltext {
     padding: 4px 10px 4px 10px;
     font-size: 1.2em;
     font-family: "amsibold", sans-serif;
-    font-weight: normal
+    font-weight: bold
 }
 .ref-options-wrapper .evo-formrow label {
     font-size: 0.75em;
@@ -14140,7 +14140,7 @@ input.smalltext {
     color: #666666;
     font-size: 0.95em !important;
     font-family: "amsibold", sans-serif;
-    font-weight: normal
+    font-weight: bold
 }
 .evo-confirm-ref-vote .evo-votechoice {
     color: #333333;
@@ -14166,7 +14166,7 @@ input.smalltext {
     display: block;
     font-size: 1.1em;
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     margin: 0 0 10px;
     padding: 6px 10px 6px 40px;
     text-shadow: 1px 1px 0 #666666;
@@ -14177,7 +14177,7 @@ input.smalltext {
     cursor: pointer;
     display: block;
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     font-size: 0.9em;
     padding: 2px 0;
     text-decoration: underline;
@@ -14189,7 +14189,7 @@ input.smalltext {
     width: 55%;
     margin: 0px 10px;
     font-family: "amsibold", sans-serif;
-    font-weight: normal
+    font-weight: bold
 }
 .evo-candetails-wrapper h3 {
     font-size: 1.1em;
@@ -14268,7 +14268,7 @@ input.smalltext {
     margin-bottom: 10px;
     margin-right: 20px;
     font-family: "amsibold", sans-serif;
-    font-weight: normal
+    font-weight: bold
 }
 .evo-yourvote-wrapper h3 {
     background: none repeat scroll 0 0 #384352;
@@ -14306,7 +14306,7 @@ input.smalltext {
     display: block;
     font-size: 1.2em;
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     margin: 0 0 10px;
     padding: 10px 10px 10px 40px;
     text-shadow: 1px 1px 0 #666666;
@@ -14318,7 +14318,7 @@ input.smalltext {
     display: block;
     font-size: 1em;
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     padding: 2px 0;
     text-decoration: underline;
     text-shadow: 1px 1px 0 #ffffff;
@@ -14328,7 +14328,7 @@ input.smalltext {
     border-bottom: 1px solid #ebebeb;
     margin: 0px 10px;
     font-family: "amsibold", sans-serif;
-    font-weight: normal
+    font-weight: bold
 }
 .top-main-confirm-head h3 {
     font-size: 1.1em;
@@ -14345,7 +14345,7 @@ input.smalltext {
     margin: 0px 10px 10px;
     width: 98%;
     font-family: "amsibold", sans-serif;
-    font-weight: normal
+    font-weight: bold
 }
 .evo-confirm-wrapper .evo-confirm-header {
     color: #0e0e0e;
@@ -14397,7 +14397,7 @@ input.smalltext {
     display: block;
     font-size: 1.2em;
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     margin: 0 0 10px;
     padding: 6px 10px 6px 40px;
     text-shadow: 1px 1px 0 #666666;
@@ -14409,7 +14409,7 @@ input.smalltext {
     display: block;
     font-size: 0.9em;
     font-family: "amsibold", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     padding: 2px 0;
     text-decoration: underline;
     text-shadow: 1px 1px 0 #ffffff;
