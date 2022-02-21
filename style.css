@@ -675,7 +675,7 @@ html {
     min-height: 24px;
     padding: 0;
     font-family: "amsiultra", sans-serif;
-    font-weight: 900;
+    font-weight: bold;
     background-color: #0e1728
 }
 .menu.sticky {
