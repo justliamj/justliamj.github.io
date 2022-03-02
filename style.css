@@ -147,7 +147,7 @@ em strong, strong em {
 }
 .socialMedia li {
     list-style: none;
-    background-image: url("https://nusdigital.s3.amazonaws.com/image/images/412398/original/socialblue.png");
+    background-image: url("https://nusdigital.s3.amazonaws.com/image/images/412398/original/socialblue.png") !important;
     display: flex;
     margin-right: 10px;
     background-size: 90%;
@@ -204,7 +204,7 @@ em strong, strong em {
     width: 35px;
     height: 32px;
     cursor: pointer;
-    background-image: url("https://nusdigital.s3.amazonaws.com/image/images/412398/original/socialblue.png");
+    background-image: url("https://nusdigital.s3.amazonaws.com/image/images/412398/original/socialblue.png") !important;
     background-repeat: no-repeat;
     background-position: 3px -121px;
     margin-top: 5px;
@@ -429,7 +429,7 @@ a:hover.uc-sign-link {
 }
 .system-menu .system-menu-wrapper .shopping-cart-menu a:before {
     content: " ";
-    background: url("https://nusdigital.s3.amazonaws.com/image/images/412398/original/socialblue.png");
+    background: url("https://nusdigital.s3.amazonaws.com/image/images/412398/original/socialblue.png") !important;
     background-position: 0 -153px;
     width: 30px;
     height: 33px;
@@ -555,7 +555,7 @@ a:hover.uc-sign-link {
 }
 .shopping-cart-menu a:before {
     content: " ";
-    background: url("https://nusdigital.s3.amazonaws.com/image/images/412398/original/socialblue.png");
+    background: url("https://nusdigital.s3.amazonaws.com/image/images/412398/original/socialblue.png") !important;
     background-position: 0 -189px;
     width: 36px;
     height: 30px;
@@ -668,7 +668,7 @@ a:hover.uc-sign-link {
     border-radius: 0 0px 0 0;
     -moz-border-radius: 0 0px 0 0;
     -webkit-border-radius: 0 0px 0 0;
-    background: url("https://nusdigital.s3.amazonaws.com/image/images/400976/original/icon_sprite.png") no-repeat scroll center left transparent;
+    background: url("https://nusdigital.s3.amazonaws.com/image/images/412410/original/icon_spriteBLUE.png") no-repeat scroll center left transparent;
     background-position: 4px -32px;
     top: 4px;
     right: 0;
@@ -2431,7 +2431,7 @@ span.success, p.success {
     border-radius: 0 0px 0 0;
     -moz-border-radius: 0 0px 0 0;
     -webkit-border-radius: 0 0px 0 0;
-    background: url("https://nusdigital.s3.amazonaws.com/image/images/400976/original/icon_sprite.png") no-repeat scroll center left #0e1728;
+    background: url("https://nusdigital.s3.amazonaws.com/image/images/412410/original/icon_spriteBLUE.png") no-repeat scroll center left #0e1728;
     background-position: 4px -27px;
     top: 5px
 }
@@ -2689,7 +2689,7 @@ h1 span {
     float: left;
     padding: 10px;
     height: 40px;
-    background: url("https://nusdigital.s3.amazonaws.com/image/images/400976/original/icon_sprite.png") no-repeat scroll center left #0e1728;
+    background: url("https://nusdigital.s3.amazonaws.com/image/images/412410/original/icon_spriteBLUE.png") no-repeat scroll center left #0e1728;
     background-position: 8px -25px
 }
 #event-homepage #left-panel {
@@ -3302,12 +3302,12 @@ h1 span {
     border-radius: 0 0px 0 0;
     -moz-border-radius: 0 0px 0 0;
     -webkit-border-radius: 0 0px 0 0;
-    background: url("https://nusdigital.s3.amazonaws.com/image/images/400976/original/icon_sprite.png") no-repeat scroll center left #0e1728;
+    background: url("https://nusdigital.s3.amazonaws.com/image/images/412410/original/icon_spriteBLUE.png") no-repeat scroll center left #0e1728;
     background-position: 4px -25px
 }
 #uc-articles-news.uc-article-catg-module .uc-articles-module-wrapper .uc-articles-right-panel-search .uc-search-container .uc-search-articles input.clear-button {
     background-color: #0e1728;
-    background: url("https://nusdigital.s3.amazonaws.com/image/images/400976/original/icon_sprite.png") no-repeat scroll center left #0e1728;
+    background: url("https://nusdigital.s3.amazonaws.com/image/images/412410/original/icon_spriteBLUE.png") no-repeat scroll center left #0e1728;
     background-position: 3px -56px;
     border-radius: 0 0 0 0;
     -moz-border-radius: 0 0 0 0;
@@ -3590,12 +3590,12 @@ h1 span {
     border-radius: 0 0px 0 0;
     -moz-border-radius: 0 0px 0 0;
     -webkit-border-radius: 0 0px 0 0;
-    background: url("https://nusdigital.s3.amazonaws.com/image/images/400976/original/icon_sprite.png") no-repeat scroll center left #0e1728;
+    background: url("https://nusdigital.s3.amazonaws.com/image/images/412410/original/icon_spriteBLUE.png") no-repeat scroll center left #0e1728;
     background-position: 4px -27px
 }
 #resource-homepage .uc-resource-listing #uc-resources-right-panel-search #uc-resources-right-panel-search-wrapper .search-box-wrapper .clear-button {
     background-color: #0e1728;
-    background: url("https://nusdigital.s3.amazonaws.com/image/images/400976/original/icon_sprite.png") no-repeat scroll center left #0e1728;
+    background: url("https://nusdigital.s3.amazonaws.com/image/images/412410/original/icon_spriteBLUE.png") no-repeat scroll center left #0e1728;
     background-position: 3px -56px;
     border-radius: 0 0 0 0;
     -moz-border-radius: 0 0 0 0;
@@ -4821,7 +4821,7 @@ html ul.tabs li.active a:hover {
     float: left;
     padding: 10px;
     height: 40px;
-    background: url("https://nusdigital.s3.amazonaws.com/image/images/400976/original/icon_sprite.png") no-repeat scroll center left #0e1728;
+    background: url("https://nusdigital.s3.amazonaws.com/image/images/412410/original/icon_spriteBLUE.png") no-repeat scroll center left #0e1728;
     background-position: 8px -25px
 }
 #left-panel .tree-navigation.club-navigation {
@@ -6142,7 +6142,7 @@ div.change-password #user_edit .formrow label, .registration-form ol li.input la
     float: left;
     padding: 10px;
     height: 35px;
-    background: url("https://nusdigital.s3.amazonaws.com/image/images/400976/original/icon_sprite.png") no-repeat scroll center left #0e1728;
+    background: url("https://nusdigital.s3.amazonaws.com/image/images/412410/original/icon_spriteBLUE.png") no-repeat scroll center left #0e1728;
     background-position: 8px -28px
 }
 .uc-widget-upcoming-events-wrapper #uc-widget-upcoming-events-right-panel .uc-widget-upcoming-event-footer {
@@ -6981,7 +6981,7 @@ input[type="radio"] + label:empty:before {
     float: right;
     padding: 10px;
     height: 35px;
-    background: url("https://nusdigital.s3.amazonaws.com/image/images/400976/original/icon_sprite.png") no-repeat scroll center left #0e1728;
+    background: url("https://nusdigital.s3.amazonaws.com/image/images/412410/original/icon_spriteBLUE.png") no-repeat scroll center left #0e1728;
     background-position: 8px -28px;
     top: 0px;
     height: 35px;
@@ -9447,7 +9447,7 @@ p.inline-hints:before {
     border-radius: 0 0 0 0;
     -moz-border-radius: 0 0 0 0;
     -webkit-border-radius: 0 0 0 0;
-    background: url("https://nusdigital.s3.amazonaws.com/image/images/400976/original/icon_sprite.png") no-repeat scroll center left #0e1728;
+    background: url("https://nusdigital.s3.amazonaws.com/image/images/412410/original/icon_spriteBLUE.png") no-repeat scroll center left #0e1728;
     background-position: 4px -27px
 }
 #e-shop .right-panel-product-listing .noUi-handle-lower .price-display, #e-shop .right-panel-product-listing .noUi-handle-upper .price-display {
@@ -9723,7 +9723,7 @@ p.inline-hints:before {
 }
 #e-shop .right-panel-product-listing .product-filter-selected .clear-filter-button .clear-filter {
     background-color: #0e1728;
-    background: url("https://nusdigital.s3.amazonaws.com/image/images/400976/original/icon_sprite.png") no-repeat scroll center left #0e1728;
+    background: url("https://nusdigital.s3.amazonaws.com/image/images/412410/original/icon_spriteBLUE.png") no-repeat scroll center left #0e1728;
     background-position: 3px -56px;
     border-radius: 0 0 0 0;
     -moz-border-radius: 0 0 0 0;
@@ -10168,12 +10168,12 @@ input:focus {
     border-radius: 0 0px 0 0;
     -moz-border-radius: 0 0px 0 0;
     -webkit-border-radius: 0 0px 0 0;
-    background: url("https://nusdigital.s3.amazonaws.com/image/images/400976/original/icon_sprite.png") no-repeat scroll center left #0e1728;
+    background: url("https://nusdigital.s3.amazonaws.com/image/images/412410/original/icon_spriteBLUE.png") no-repeat scroll center left #0e1728;
     background-position: 4px -27px
 }
 #uc-volunteering .uc-opp-right-panel-search .uc-opp-right-panel-search-wrapper .uc-search-opportunity .clear-button {
     background-color: #0e1728;
-    background: url("https://nusdigital.s3.amazonaws.com/image/images/400976/original/icon_sprite.png") no-repeat scroll center left #0e1728;
+    background: url("https://nusdigital.s3.amazonaws.com/image/images/412410/original/icon_spriteBLUE.png") no-repeat scroll center left #0e1728;
     background-position: 3px -56px;
     border-radius: 0 0 0 0;
     -moz-border-radius: 0 0 0 0;
