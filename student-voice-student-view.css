@@ -998,7 +998,7 @@ select#digital_rep_program {
 }
 .evo-timer.is-countdown {
     clear: both;
-    position: absolute;
+    position: inherit;
     right: 0;
     top: 10px
 }
