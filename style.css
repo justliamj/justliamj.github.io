@@ -4734,7 +4734,7 @@ html ul.tabs li.active a:hover {
     font-family: "amsibold", sans-serif;
     font-weight: bold;
     font-weight: normal;
-    background: rgba(253, 161, 0, 0.8);
+    background: rgb(0 171 253 / 80%);
     display: flex;
     height: 100%;
     width: 100%;
