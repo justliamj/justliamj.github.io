@@ -147,7 +147,7 @@ em strong, strong em {
 }
 .socialMedia li {
     list-style: none;
-    background-image: url("https://nusdigital.s3.amazonaws.com/image/images/400983/original/social.png");
+    background-image: url("https://nusdigital.s3.amazonaws.com/image/images/412398/original/socialblue.png");
     display: flex;
     margin-right: 10px;
     background-size: 90%;
@@ -204,7 +204,7 @@ em strong, strong em {
     width: 35px;
     height: 32px;
     cursor: pointer;
-    background-image: url("https://nusdigital.s3.amazonaws.com/image/images/400983/original/social.png");
+    background-image: url("https://nusdigital.s3.amazonaws.com/image/images/412398/original/socialblue.png");
     background-repeat: no-repeat;
     background-position: 3px -121px;
     margin-top: 5px;
@@ -213,12 +213,12 @@ em strong, strong em {
 .row .top-social .top-social-wrap > *.top-links {
     display: flex;
     align-self: center;
-    border-right: solid 2px #fda50d;
+    border-right: solid 2px #31c5f4;
     margin-right: 20px
 }
 .row .top-social .top-social-wrap > *.top-links a {
     text-decoration: none;
-    color: #fda50d;
+    color: #31c5f4;
     margin-right: 20px
 }
 .footerlink {
@@ -387,6 +387,9 @@ html {
     font-family: "amsibold", sans-serif;
     font-weight: bold
 }
+a:hover.uc-sign-link {
+    color: #31c5f4 !important
+}
 .system-menu {
     font-family: "amsiregular", sans-serif;
     font-weight: normal;
@@ -426,7 +429,7 @@ html {
 }
 .system-menu .system-menu-wrapper .shopping-cart-menu a:before {
     content: " ";
-    background: url("https://nusdigital.s3.amazonaws.com/image/images/400983/original/social.png");
+    background: url("https://nusdigital.s3.amazonaws.com/image/images/412398/original/socialblue.png");
     background-position: 0 -153px;
     width: 30px;
     height: 33px;
@@ -552,7 +555,7 @@ html {
 }
 .shopping-cart-menu a:before {
     content: " ";
-    background: url("https://nusdigital.s3.amazonaws.com/image/images/400983/original/social.png");
+    background: url("https://nusdigital.s3.amazonaws.com/image/images/412398/original/socialblue.png");
     background-position: 0 -189px;
     width: 36px;
     height: 30px;
@@ -653,7 +656,7 @@ html {
     -webkit-border-radius: 0px 0px 0px 0px;
     margin-right: 0;
     background: #0e1728;
-    border: solid thin #f1ab39
+    border: solid thin #31c5f4
 }
 .page-search .search-box .search-box-wrapper .search-input:focus {
     outline: 0
@@ -2579,7 +2582,7 @@ span.success, p.success {
     line-height: 150%
 }
 h1 span {
-    color: #31c5f4;
+    color: #0e1728;
     font-family: "amsibold", sans-serif;
     font-weight: bold;
     font-size: 2.8rem
