@@ -147,7 +147,7 @@ em strong, strong em {
 }
 .socialMedia li {
     list-style: none;
-    background-image: url("https://nusdigital.s3.amazonaws.com/image/images/412398/original/socialblue.png") !important;
+    background-image: url("https://nusdigital.s3.amazonaws.com/image/images/412398/original/socialblue.png");
     display: flex;
     margin-right: 10px;
     background-size: 90%;
@@ -204,7 +204,7 @@ em strong, strong em {
     width: 35px;
     height: 32px;
     cursor: pointer;
-    background-image: url("https://nusdigital.s3.amazonaws.com/image/images/412398/original/socialblue.png") !important;
+    background-image: url("https://nusdigital.s3.amazonaws.com/image/images/412398/original/socialblue.png");
     background-repeat: no-repeat;
     background-position: 3px -121px;
     margin-top: 5px;
@@ -429,7 +429,7 @@ a:hover.uc-sign-link {
 }
 .system-menu .system-menu-wrapper .shopping-cart-menu a:before {
     content: " ";
-    background: url("https://nusdigital.s3.amazonaws.com/image/images/412398/original/socialblue.png") !important;
+    background: url("https://nusdigital.s3.amazonaws.com/image/images/412398/original/socialblue.png");
     background-position: 0 -153px;
     width: 30px;
     height: 33px;
@@ -555,7 +555,7 @@ a:hover.uc-sign-link {
 }
 .shopping-cart-menu a:before {
     content: " ";
-    background: url("https://nusdigital.s3.amazonaws.com/image/images/412398/original/socialblue.png") !important;
+    background: url("https://nusdigital.s3.amazonaws.com/image/images/412398/original/socialblue.png");
     background-position: 0 -189px;
     width: 36px;
     height: 30px;
