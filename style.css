@@ -2980,7 +2980,7 @@ h1 span {
 .event-details-wrapper .content-wrap .contentBoxes:nth-child(2) {
     width: 45.5%;
     float: left;
-    min-height: 390px
+    min-height: 190px
 }
 .event-details-wrapper .content-wrap .contentBoxes:nth-child(2) h2:before {
     content: '\f041';
@@ -2998,7 +2998,7 @@ h1 span {
 .event-details-wrapper .content-wrap .contentBoxes:nth-child(3) {
     width: 42.5%;
     float: right;
-    min-height: 390px;
+    min-height: 190px;
     margin-bottom: 25px
 }
 .event-details-wrapper .content-wrap .contentBoxes:nth-child(3) h2:before {
